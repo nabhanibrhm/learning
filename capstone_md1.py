@@ -1,5 +1,3 @@
-#1. membuat fungsi untuk menu utama
-
 import sys
 
 data = {
@@ -19,12 +17,6 @@ def create():
     for key in data:
         data[key] = input(f'Masukkan {key.replace("_", " ").title()}: ')
     
-    # id_karyawan = int(input('masukkan id karyawan: '))
-    # nik = int(input('masukkan NIK karyawan: '))
-    # nama_karyawan = input('masukkan nama karyawan: ')
-    # alamat_karyawan = input('masukkan alamat karyawan: ')
-    # divisi = input('divisi karyawan: ')
-    # contact = int(input('masukkan no.tlp karyawan: '))
     menu()
 
 
