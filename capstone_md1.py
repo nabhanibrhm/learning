@@ -1,6 +1,8 @@
 #test
 import sys
 
+
+# define column name dictionary
 data = {
     "id_karyawan": None,
     "nik": None,
@@ -10,35 +12,24 @@ data = {
     "contact": None
 }
 
+
+#untuk define list untuk data yg mau dimasukkan
 entry_list =[]
 
+
+
 def create():
-    global data
+    global data # memanggil variable(dictionary) data dari global
     print('\n\nInput Data Karyawan\n\n')
 
-    num_entries = int(input('Berapa kali ingin memasukkan data karyawan? '))
+    num_entries = int(input('Berapa kali ingin memasukkan data karyawan? ')) # meminta inputan berapa kali data ingin dimasukkan
 
-    for no in range(num_entries):
-        print("\n")
-        entry_data = {}
-        for key in data:
-            entry_data[key] = input(f'Masukkan {key.replace("_", " ").title()} ke {no+1}: ')
-        entry_list.append(entry_data)
-
-    
-
-    # print header key
-    print("|", end="")
-    for key in data.keys():
-        print("{:^15} |".format(key), end=" ")
-    print()
-
-    # Print values below each key
-    for entry_data in entry_list:
-        print("|", end="")
-        for value in entry_data.values():
-            print("{:^15} |".format(str(value)), end=" ")
-        print()
+    for no in range(num_entries): # membuat perulangan berdasarkan range dari num_entries
+        print("\n") #ngasih enter
+        entry_data = {} # membuat variable list untuk menyimpan data yang user akan input
+        for key in data: # membuat perulangan untuk memasukkan data berdasarkan key dari dictionary data
+            entry_data[key] = input(f'Masukkan {key.replace("_", " ").title()} ke {no+1}: ') # input data
+        entry_list.append(entry_data) # fungsi untuk memasukkan list pada entry data kedalam entry_list
 
 
     print("\n\n")
@@ -46,11 +37,10 @@ def create():
 
 
 def read():
-    print('fungsi cari data')
-        # print header key
-    print("|", end="")
+    print('fungsi membaca data\n\n')
+    print("|", end="") # print | dan endofstring
     for key in data.keys():
-        print("{:^15} |".format(key), end=" ")
+        print("{:^15} |".format(key), end=" ") # loop berfungsi untuk menampilkan key/ header column dari dictionary data
     print()
 
     # Print values below each key
@@ -58,8 +48,10 @@ def read():
     for entry_data in entry_list:
         print("|", end="")
         for value in entry_data.values():
-            print("{:^15} |".format(str(value)), end=" ")
+            print("{:^15} |".format(str(value)), end=" ") # lop berfungsi untuk menampilkan dictionary entry_data yang sudah kita input sebelumnya
         print()
+    print("\n\n")
+    menu()
 
 def update():
     print('fungsi update data')
