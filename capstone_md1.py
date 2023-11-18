@@ -9,20 +9,56 @@ data = {
     "contact": None
 }
 
+entry_list =[]
+
 def create():
     global data
-    print('Masukkan Data Karyawan')
+    print('\n\nInput Data Karyawan\n\n')
 
+    num_entries = int(input('Berapa kali ingin memasukkan data karyawan? '))
 
-    for key in data:
-        data[key] = input(f'Masukkan {key.replace("_", " ").title()}: ')
+    for no in range(num_entries):
+        print("\n")
+        entry_data = {}
+        for key in data:
+            entry_data[key] = input(f'Masukkan {key.replace("_", " ").title()} ke {no+1}: ')
+        entry_list.append(entry_data)
+
     
+
+    # print header key
+    print("|", end="")
+    for key in data.keys():
+        print("{:^15} |".format(key), end=" ")
+    print()
+
+    # Print values below each key
+    for entry_data in entry_list:
+        print("|", end="")
+        for value in entry_data.values():
+            print("{:^15} |".format(str(value)), end=" ")
+        print()
+
+
+    print("\n\n")
     menu()
 
 
 def read():
     print('fungsi cari data')
-    print(data)
+        # print header key
+    print("|", end="")
+    for key in data.keys():
+        print("{:^15} |".format(key), end=" ")
+    print()
+
+    # Print values below each key
+    
+    for entry_data in entry_list:
+        print("|", end="")
+        for value in entry_data.values():
+            print("{:^15} |".format(str(value)), end=" ")
+        print()
 
 def update():
     print('fungsi update data')
@@ -30,8 +66,6 @@ def update():
 def delete():
     print('fungsi hapus data')
 
-def pilihan():
-    pilihan = input('Masukkan Pilihan :')
 
 def exit():
     sys.exit()
@@ -49,7 +83,7 @@ def menu():
         try:
             pilihan = int(input('Masukkan Pilihan: '))
             break
-        except:
+        except Exception:
             print('Pilihan salah. Harap masukkan angka yang valid.')
 
     if pilihan == 1:

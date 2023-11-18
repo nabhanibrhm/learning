@@ -1,0 +1,31 @@
+Cara buat Pull dari master:
+
+1. Buat branch baru untuk sendiri
+> git branch nama_branch
+
+2. Masuk kedalam branch sendiri
+> git checkout nama_branch
+
+3. Tarik repo master ke branch
+> git pull origin master
+
+
+Cara buat merge dari branch sendiri ke master:
+1. commit perubahan, dan berikan commit values
+2. publish perubahan
+3. masuk kedalam branch master
+> git checkout master
+4. merge dari branch sendiri ke master
+> git merge nama_branch
+
+
+cara commit ke origin master:
+> git push origin master
+
+
+
+
+
+
+|NIK|nama|
+|123|bhan|
