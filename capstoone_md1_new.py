@@ -1,4 +1,4 @@
-import sys
+import sys #
 
 
 data_karyawan = {
@@ -8,16 +8,16 @@ data_karyawan = {
     "alamat_karyawan": None,
     "divisi": None,
     "contact": None
-}
+} #mendeklarasikan dictionary data_karyawan
 
 
-entry_list =[]
+entry_list =[] #mendeklarasikan variable dengan list kosong
 
 
 
 def create():
     global data_karyawan 
-    print("{:<10} |>".format("Input data"), end=" ")
+    print("{:<10} |>".format("Input data"), end=" ") #
 
     while True:
         try:
@@ -121,7 +121,7 @@ def exit():
 
 def menu():
     print('\nMenu Utama Data Karyawan\n')
-    print('1. Input data')
+    pr   int('1. Input data')
     print('2. Lihat data')
     print('3. Ubah data')
     print('4. Hapus data')
