@@ -642,6 +642,7 @@ EPX|Travel Agency|Online|Cancellation Plan|51|GERMANY|52.0|0.0|36|No
 JZI|Airlines|Online|Basic Plan|6|MALAYSIA|22.0|7.7|41|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|20|JAPAN|39.6|23.76|63|No
 C2B|Airlines|Online|Bronze Plan|47|SINGAPORE|17.5|4.38|25|No
+C2B|Airlines|Online|Annual Silver Plan|365|SINGAPORE|252.85|63.21|43|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|174|UNITED KINGDOM|69.3|41.58|31|No
 JZI|Airlines|Online|Basic Plan|55|INDONESIA|33.0|11.55|31|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|8|CHINA|96.0|0.0|35|No
@@ -2372,6 +2373,7 @@ EPX|Travel Agency|Online|Cancellation Plan|2|CAMBODIA|10.0|0.0|36|No
 EPX|Travel Agency|Online|Cancellation Plan|3|INDIA|26.0|0.0|36|No
 C2B|Airlines|Online|Bronze Plan|49|SINGAPORE|101.0|25.25|29|No
 EPX|Travel Agency|Online|Cancellation Plan|31|SINGAPORE|48.0|0.0|21|No
+C2B|Airlines|Online|Bronze Plan|5|SINGAPORE|16.0|4.0|25|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|30|AUSTRALIA|67.0|0.0|36|No
 EPX|Travel Agency|Online|Cancellation Plan|11|UNITED STATES|50.0|0.0|26|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|8|AUSTRALIA|28.0|0.0|36|No
@@ -2991,6 +2993,7 @@ EPX|Travel Agency|Online|1 way Comprehensive Plan|69|THAILAND|20.0|0.0|43|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|6|HONG KONG|36.0|0.0|28|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|6|MALAYSIA|39.6|23.76|63|No
 EPX|Travel Agency|Online|Cancellation Plan|7|THAILAND|18.0|0.0|36|No
+JZI|Airlines|Online|Basic Plan|24|MALAYSIA|22.0|7.7|52|No
 EPX|Travel Agency|Online|Cancellation Plan|25|INDIA|21.0|0.0|36|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|109|UNITED KINGDOM|112.0|0.0|36|No
 EPX|Travel Agency|Online|Cancellation Plan|40|MYANMAR|14.0|0.0|36|No
@@ -3199,6 +3202,7 @@ EPX|Travel Agency|Online|Cancellation Plan|5|UNITED STATES|80.0|0.0|28|No
 CCR|Travel Agency|Offline|Premier Plan|20|THAILAND|58.0|19.14|65|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|26|SWITZERLAND|148.5|89.1|31|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|14|INDIA|95.0|0.0|36|No
+JWT|Airlines|Online|Value Plan|6|INDIA|39.0|15.6|118|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|283|TAIWAN, PROVINCE OF CHINA|37.0|0.0|36|No
 JZI|Airlines|Online|Basic Plan|65|TAIWAN, PROVINCE OF CHINA|35.0|12.25|55|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|20|UNITED STATES|65.0|0.0|48|No
@@ -3766,6 +3770,7 @@ EPX|Travel Agency|Online|2 way Comprehensive Plan|27|THAILAND|25.0|0.0|36|No
 EPX|Travel Agency|Online|Cancellation Plan|70|UNITED STATES|80.0|0.0|69|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|171|FINLAND|40.0|0.0|36|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|5|THAILAND|20.0|0.0|36|No
+RAB|Airlines|Online|Value Plan|6|BRUNEI DARUSSALAM|15.0|6.0|30|No
 EPX|Travel Agency|Online|1 way Comprehensive Plan|6|SINGAPORE|21.0|0.0|36|No
 EPX|Travel Agency|Online|1 way Comprehensive Plan|98|AUSTRALIA|20.0|0.0|36|No
 EPX|Travel Agency|Online|Cancellation Plan|91|UNITED KINGDOM|80.0|0.0|36|No
@@ -4163,6 +4168,7 @@ CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|63|UNITED STATES|29.7|1
 EPX|Travel Agency|Online|Cancellation Plan|23|INDIA|20.0|0.0|36|No
 EPX|Travel Agency|Online|1 way Comprehensive Plan|21|UNITED STATES|66.0|0.0|36|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|28|THAILAND|19.8|11.88|40|No
+C2B|Airlines|Online|Silver Plan|10|SINGAPORE|47.5|11.88|43|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|21|CHINA|38.0|0.0|36|No
 EPX|Travel Agency|Online|1 way Comprehensive Plan|4|SINGAPORE|26.0|0.0|36|No
 EPX|Travel Agency|Online|Cancellation Plan|41|PHILIPPINES|16.0|0.0|36|No
@@ -4707,6 +4713,7 @@ C2B|Airlines|Online|Silver Plan|14|SINGAPORE|29.0|7.25|32|No
 C2B|Airlines|Online|Bronze Plan|47|SINGAPORE|33.5|8.38|27|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|1|MALAYSIA|9.9|5.94|40|No
 EPX|Travel Agency|Online|Cancellation Plan|7|HONG KONG|31.0|0.0|36|No
+C2B|Airlines|Online|Silver Plan|4|SINGAPORE|22.5|5.63|29|No
 EPX|Travel Agency|Online|1 way Comprehensive Plan|9|SINGAPORE|20.0|0.0|24|No
 EPX|Travel Agency|Online|Cancellation Plan|17|MALAYSIA|12.0|0.0|36|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|90|FINLAND|39.6|23.76|31|No
@@ -5061,6 +5068,7 @@ EPX|Travel Agency|Online|Cancellation Plan|273|JAPAN|63.0|0.0|36|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|37|THAILAND|29.7|17.82|31|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|26|UNITED KINGDOM|59.4|35.64|41|No
 EPX|Travel Agency|Online|Cancellation Plan|41|PHILIPPINES|12.0|0.0|39|No
+JWT|Airlines|Online|Value Plan|1|INDIA|31.0|12.4|118|No
 EPX|Travel Agency|Online|Cancellation Plan|22|INDONESIA|10.0|0.0|53|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|6|MALAYSIA|39.6|23.76|31|No
 EPX|Travel Agency|Online|Cancellation Plan|5|INDIA|17.0|0.0|36|No
@@ -5327,6 +5335,7 @@ C2B|Airlines|Online|Silver Plan|52|SINGAPORE|67.0|16.75|43|No
 EPX|Travel Agency|Online|Cancellation Plan|32|TAIWAN, PROVINCE OF CHINA|26.0|0.0|36|No
 JZI|Airlines|Online|Basic Plan|54|AUSTRALIA|44.0|15.4|68|No
 EPX|Travel Agency|Online|1 way Comprehensive Plan|3|SINGAPORE|36.0|0.0|39|No
+TST|Travel Agency|Offline|Travel Cruise Protect|21|THAILAND|30.0|10.5|31|No
 EPX|Travel Agency|Online|Cancellation Plan|15|UNITED STATES|0.0|0.0|74|No
 EPX|Travel Agency|Online|1 way Comprehensive Plan|27|UNITED KINGDOM|20.0|0.0|36|No
 TST|Travel Agency|Offline|Travel Cruise Protect|62|THAILAND|30.0|10.5|20|No
@@ -5501,6 +5510,7 @@ JZI|Airlines|Online|Basic Plan|23|JAPAN|44.0|15.4|37|No
 EPX|Travel Agency|Online|Cancellation Plan|47|CHINA|31.0|0.0|36|No
 EPX|Travel Agency|Online|Cancellation Plan|13|INDIA|28.0|0.0|36|No
 C2B|Airlines|Online|Bronze Plan|27|SINGAPORE|56.5|14.13|25|No
+KML|Travel Agency|Online|Value Plan|7|INDONESIA|33.0|12.54|48|No
 EPX|Travel Agency|Online|Cancellation Plan|139|KOREA, REPUBLIC OF|20.0|0.0|19|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|27|MALAYSIA|20.0|0.0|26|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|22|AUSTRALIA|59.0|0.0|36|No
@@ -6073,6 +6083,7 @@ EPX|Travel Agency|Online|Cancellation Plan|42|THAILAND|21.0|0.0|48|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|141|CHINA|34.0|0.0|36|No
 EPX|Travel Agency|Online|Cancellation Plan|52|HONG KONG|13.0|0.0|36|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|21|HONG KONG|98.0|0.0|36|No
+JZI|Airlines|Online|Basic Plan|4|MALAYSIA|18.0|6.3|50|No
 ART|Airlines|Online|24 Protect|35|MALAYSIA|18.59|6.51|48|No
 EPX|Travel Agency|Online|Cancellation Plan|33|INDONESIA|10.0|0.0|29|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|95|INDONESIA|23.0|0.0|45|No
@@ -6506,6 +6517,7 @@ C2B|Airlines|Online|Silver Plan|20|SINGAPORE|24.05|6.01|49|No
 JZI|Airlines|Online|Basic Plan|56|PHILIPPINES|22.0|7.7|27|No
 EPX|Travel Agency|Online|Cancellation Plan|8|AUSTRALIA|53.0|0.0|36|No
 EPX|Travel Agency|Online|1 way Comprehensive Plan|48|KOREA, REPUBLIC OF|31.0|0.0|36|No
+C2B|Airlines|Online|Annual Silver Plan|365|SINGAPORE|252.85|63.21|38|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|78|HONG KONG|32.0|0.0|35|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|5|MALAYSIA|29.0|0.0|48|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|34|CHINA|63.0|0.0|36|No
@@ -6712,6 +6724,7 @@ JZI|Airlines|Online|Basic Plan|9|JAPAN|35.0|12.25|31|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|6|SWITZERLAND|29.7|17.82|52|No
 JZI|Airlines|Online|Basic Plan|23|CHINA|26.0|9.1|72|No
 JWT|Airlines|Online|Value Plan|102|INDIA|78.0|31.2|118|No
+JZI|Airlines|Online|Basic Plan|6|CHINA|26.0|9.1|42|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|70|MALAYSIA|20.0|0.0|36|No
 EPX|Travel Agency|Online|Cancellation Plan|91|MALAYSIA|18.0|0.0|23|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|38|AUSTRALIA|29.7|17.82|31|No
@@ -6868,6 +6881,7 @@ EPX|Travel Agency|Online|Cancellation Plan|20|PHILIPPINES|24.0|0.0|36|No
 JZI|Airlines|Online|Basic Plan|54|CHINA|35.0|12.25|37|No
 C2B|Airlines|Online|Gold Plan|11|SINGAPORE|69.0|17.25|28|No
 EPX|Travel Agency|Online|Cancellation Plan|91|VIET NAM|14.0|0.0|36|No
+KML|Travel Agency|Online|Value Plan|14|INDONESIA|28.0|10.64|48|No
 EPX|Travel Agency|Online|Cancellation Plan|40|MALAYSIA|10.0|0.0|21|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|71|MALAYSIA|39.6|23.76|37|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|183|CHINA|26.0|0.0|36|No
@@ -7056,6 +7070,7 @@ EPX|Travel Agency|Online|Cancellation Plan|65|VIET NAM|80.0|0.0|19|No
 EPX|Travel Agency|Online|Cancellation Plan|6|VIET NAM|16.0|0.0|52|No
 ART|Airlines|Online|24 Protect|161|UNITED ARAB EMIRATES|10.51|3.68|48|No
 EPX|Travel Agency|Online|Cancellation Plan|20|AUSTRALIA|10.0|0.0|36|No
+C2B|Airlines|Online|Bronze Plan|5|SINGAPORE|16.0|4.0|27|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|50|THAILAND|38.0|0.0|36|No
 EPX|Travel Agency|Online|Cancellation Plan|67|CHINA|22.0|0.0|36|No
 EPX|Travel Agency|Online|Cancellation Plan|47|SINGAPORE|51.0|0.0|36|No
@@ -7075,6 +7090,7 @@ EPX|Travel Agency|Online|Cancellation Plan|20|CHINA|17.0|0.0|36|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|7|INDONESIA|78.0|0.0|36|No
 EPX|Travel Agency|Online|Cancellation Plan|8|CANADA|57.0|0.0|26|No
 JWT|Airlines|Online|Value Plan|43|INDIA|31.0|12.4|118|No
+C2B|Airlines|Online|Bronze Plan|6|SINGAPORE|17.55|4.39|33|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|57|THAILAND|46.0|0.0|36|No
 EPX|Travel Agency|Online|Cancellation Plan|71|NEW ZEALAND|68.0|0.0|36|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|26|VIET NAM|21.0|0.0|36|No
@@ -7257,6 +7273,7 @@ EPX|Travel Agency|Online|Cancellation Plan|23|SINGAPORE|23.0|0.0|36|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|34|THAILAND|33.0|0.0|36|No
 LWC|Travel Agency|Online|Single Trip Travel Protect Gold|111|AUSTRALIA|50.5|32.83|52|No
 EPX|Travel Agency|Online|1 way Comprehensive Plan|2|LAO PEOPLE'S DEMOCRATIC REPUBLIC|20.0|0.0|36|No
+JWT|Airlines|Online|Value Plan|16|INDIA|39.0|15.6|118|No
 EPX|Travel Agency|Online|1 way Comprehensive Plan|3|CHINA|20.0|0.0|36|No
 RAB|Airlines|Online|Value Plan|11|BRUNEI DARUSSALAM|23.0|9.2|26|No
 EPX|Travel Agency|Online|Cancellation Plan|23|CHINA|38.0|0.0|36|No
@@ -7380,6 +7397,7 @@ JZI|Airlines|Online|Basic Plan|9|MALAYSIA|18.0|6.3|49|No
 EPX|Travel Agency|Online|1 way Comprehensive Plan|1|CHINA|20.0|0.0|36|No
 C2B|Airlines|Online|Bronze Plan|96|SINGAPORE|80.25|20.06|45|Yes
 EPX|Travel Agency|Online|2 way Comprehensive Plan|94|CHINA|52.0|0.0|36|No
+JWT|Airlines|Online|Value Plan|11|INDIA|50.0|20.0|118|No
 LWC|Travel Agency|Online|Single Trip Travel Protect Platinum|5|CHINA|42.0|27.3|46|Yes
 EPX|Travel Agency|Online|Cancellation Plan|3|AUSTRALIA|13.0|0.0|36|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|19|NORWAY|108.9|65.34|57|No
@@ -7400,6 +7418,7 @@ EPX|Travel Agency|Online|Cancellation Plan|83|UNITED STATES|39.0|0.0|71|No
 JZI|Airlines|Online|Basic Plan|5|THAILAND|18.0|6.3|31|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|6|THAILAND|39.6|23.76|38|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|22|THAILAND|36.0|0.0|36|No
+C2B|Airlines|Online|Bronze Plan|4|SINGAPORE|16.0|4.0|63|No
 EPX|Travel Agency|Online|Cancellation Plan|35|SINGAPORE|16.0|0.0|36|No
 JZI|Airlines|Online|Basic Plan|10|MALAYSIA|18.0|6.3|73|No
 EPX|Travel Agency|Online|Cancellation Plan|51|THAILAND|10.0|0.0|36|No
@@ -7434,6 +7453,7 @@ C2B|Airlines|Online|Annual Silver Plan|368|SINGAPORE|216.0|54.0|44|No
 EPX|Travel Agency|Online|1 way Comprehensive Plan|2|SINGAPORE|0.0|0.0|36|No
 LWC|Travel Agency|Online|Annual Travel Protect Gold|365|CHINA|204.6|132.99|30|No
 C2B|Airlines|Online|Silver Plan|18|SINGAPORE|113.0|28.25|36|No
+JZI|Airlines|Online|Basic Plan|6|CHINA|22.0|7.7|35|No
 C2B|Airlines|Online|Bronze Plan|10|SINGAPORE|27.0|6.75|31|No
 EPX|Travel Agency|Online|Cancellation Plan|119|KOREA, REPUBLIC OF|12.0|0.0|26|No
 C2B|Airlines|Online|Silver Plan|22|SINGAPORE|54.5|13.63|36|No
@@ -8197,6 +8217,7 @@ EPX|Travel Agency|Online|Cancellation Plan|14|HONG KONG|22.0|0.0|36|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|11|NEW ZEALAND|99.0|59.4|59|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|21|ITALY|118.8|71.28|33|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|60|THAILAND|118.8|71.28|31|No
+JWT|Airlines|Online|Value Plan|20|INDIA|31.0|12.4|118|No
 EPX|Travel Agency|Online|Cancellation Plan|7|CHINA|15.0|0.0|36|No
 EPX|Travel Agency|Online|Cancellation Plan|84|THAILAND|29.0|0.0|36|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|57|AUSTRALIA|49.5|29.7|31|No
@@ -8740,6 +8761,7 @@ EPX|Travel Agency|Online|Cancellation Plan|157|SWITZERLAND|12.0|0.0|36|No
 EPX|Travel Agency|Online|Cancellation Plan|57|CANADA|12.0|0.0|29|No
 EPX|Travel Agency|Online|Cancellation Plan|21|INDONESIA|24.0|0.0|37|No
 C2B|Airlines|Online|Silver Plan|36|SINGAPORE|84.5|21.13|23|No
+KML|Travel Agency|Online|Value Plan|6|INDONESIA|28.0|10.64|48|No
 C2B|Airlines|Online|Silver Plan|10|SINGAPORE|33.5|8.38|50|No
 EPX|Travel Agency|Online|Cancellation Plan|9|INDONESIA|24.0|0.0|36|No
 C2B|Airlines|Online|Annual Silver Plan|374|SINGAPORE|194.5|48.63|35|No
@@ -8898,6 +8920,7 @@ EPX|Travel Agency|Online|Cancellation Plan|131|CHINA|0.0|0.0|36|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|11|GERMANY|99.0|59.4|34|No
 EPX|Travel Agency|Online|Cancellation Plan|78|INDONESIA|10.0|0.0|27|No
 EPX|Travel Agency|Online|Cancellation Plan|10|FRANCE|18.0|0.0|36|No
+C2B|Airlines|Online|Bronze Plan|7|SINGAPORE|20.0|5.0|29|No
 EPX|Travel Agency|Online|1 way Comprehensive Plan|4|SINGAPORE|20.0|0.0|43|No
 EPX|Travel Agency|Online|1 way Comprehensive Plan|10|JAPAN|20.0|0.0|26|No
 JZI|Airlines|Online|Basic Plan|26|THAILAND|22.0|7.7|36|No
@@ -9107,6 +9130,8 @@ JZI|Airlines|Online|Basic Plan|15|INDIA|22.0|7.7|34|No
 EPX|Travel Agency|Online|Cancellation Plan|200|KOREA, REPUBLIC OF|42.0|0.0|36|No
 C2B|Airlines|Online|Bronze Plan|9|SINGAPORE|23.5|5.88|27|No
 EPX|Travel Agency|Online|Cancellation Plan|49|INDONESIA|10.0|0.0|36|No
+C2B|Airlines|Online|Annual Silver Plan|365|SINGAPORE|216.0|54.0|33|Yes
+C2B|Airlines|Online|Bronze Plan|12|SINGAPORE|16.0|4.0|56|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|35|SINGAPORE|20.0|0.0|36|No
 EPX|Travel Agency|Online|Cancellation Plan|30|UNITED STATES|80.0|0.0|31|No
 EPX|Travel Agency|Online|Cancellation Plan|23|CHINA|22.0|0.0|36|No
@@ -9251,6 +9276,7 @@ EPX|Travel Agency|Online|2 way Comprehensive Plan|49|THAILAND|21.0|0.0|36|No
 C2B|Airlines|Online|Bronze Plan|31|SINGAPORE|77.0|19.25|24|No
 EPX|Travel Agency|Online|Cancellation Plan|77|UNITED KINGDOM|56.0|0.0|36|No
 EPX|Travel Agency|Online|Cancellation Plan|56|INDIA|11.0|0.0|34|No
+JWT|Airlines|Online|Value Plan|0|INDIA|31.0|12.4|118|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|49|MEXICO|39.6|23.76|44|No
 JZI|Airlines|Online|Basic Plan|3|CHINA|22.0|7.7|46|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|25|UNITED KINGDOM|70.0|0.0|36|No
@@ -9471,6 +9497,7 @@ C2B|Airlines|Online|Bronze Plan|4|SINGAPORE|16.0|4.0|49|No
 EPX|Travel Agency|Online|Cancellation Plan|5|THAILAND|24.0|0.0|35|No
 C2B|Airlines|Online|Bronze Plan|108|SINGAPORE|32.0|8.0|23|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|85|CAMBODIA|37.0|0.0|35|No
+RAB|Airlines|Online|Value Plan|4|BRUNEI DARUSSALAM|15.0|6.0|36|No
 EPX|Travel Agency|Online|1 way Comprehensive Plan|53|PHILIPPINES|20.0|0.0|36|No
 C2B|Airlines|Online|Bronze Plan|64|SINGAPORE|27.0|6.75|54|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|38|INDONESIA|0.0|0.0|65|No
@@ -9492,6 +9519,7 @@ KML|Travel Agency|Online|Value Plan|21|UNITED KINGDOM|109.0|41.42|48|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|13|JAPAN|112.0|0.0|36|No
 EPX|Travel Agency|Online|Cancellation Plan|4|THAILAND|18.0|0.0|28|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|35|SINGAPORE|192.0|0.0|36|No
+C2B|Airlines|Online|Annual Silver Plan|365|SINGAPORE|216.0|54.0|30|No
 JZI|Airlines|Online|Value Plan|83|JAPAN|0.0|20.3|32|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|40|HONG KONG|35.0|0.0|36|No
 C2B|Airlines|Online|Silver Plan|138|SINGAPORE|35.4|8.85|29|No
@@ -9642,6 +9670,7 @@ CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|27|AUSTRALIA|39.6|23.76
 EPX|Travel Agency|Online|2 way Comprehensive Plan|60|JAPAN|107.0|0.0|29|No
 JZI|Airlines|Online|Basic Plan|41|PHILIPPINES|37.0|12.95|38|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|39|AUSTRALIA|29.7|17.82|31|No
+C2B|Airlines|Online|Bronze Plan|8|SINGAPORE|20.0|5.0|28|No
 C2B|Airlines|Online|Annual Silver Plan|365|SINGAPORE|301.0|75.25|75|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|63|AUSTRALIA|39.6|23.76|24|No
 ART|Airlines|Online|24 Protect|3|MALAYSIA|4.99|1.75|48|No
@@ -9911,6 +9940,7 @@ EPX|Travel Agency|Online|Cancellation Plan|10|HONG KONG|22.0|0.0|36|No
 EPX|Travel Agency|Online|Cancellation Plan|38|UNITED STATES|16.0|0.0|25|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|87|AUSTRALIA|59.4|35.64|42|No
 JZI|Airlines|Online|Basic Plan|58|PHILIPPINES|47.0|16.45|44|No
+JWT|Airlines|Online|Value Plan|0|INDIA|62.0|24.8|118|No
 C2B|Airlines|Online|Silver Plan|24|SINGAPORE|47.5|11.88|34|No
 JZI|Airlines|Online|Basic Plan|66|HONG KONG|26.0|9.1|66|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|34|AUSTRALIA|42.0|0.0|36|No
@@ -10280,6 +10310,7 @@ EPX|Travel Agency|Online|Cancellation Plan|49|LAO PEOPLE'S DEMOCRATIC REPUBLIC|1
 EPX|Travel Agency|Online|2 way Comprehensive Plan|92|MALAYSIA|20.0|0.0|36|No
 C2B|Airlines|Online|Bronze Plan|13|SINGAPORE|33.5|8.38|58|No
 C2B|Airlines|Online|Silver Plan|186|SINGAPORE|72.0|18.0|39|No
+C2B|Airlines|Online|Silver Plan|3|SINGAPORE|22.5|5.63|26|No
 JZI|Airlines|Online|Basic Plan|83|THAILAND|22.0|7.7|51|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|46|ISRAEL|0.0|0.0|36|No
 EPX|Travel Agency|Online|Cancellation Plan|7|INDONESIA|10.0|0.0|54|No
@@ -10310,6 +10341,7 @@ EPX|Travel Agency|Online|2 way Comprehensive Plan|3|MALAYSIA|22.0|0.0|49|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|68|PHILIPPINES|20.0|0.0|36|No
 SSI|Airlines|Online|Ticket Protector|49|SINGAPORE|1.61|0.45|48|No
 EPX|Travel Agency|Online|Cancellation Plan|5|HONG KONG|24.0|0.0|36|No
+KML|Travel Agency|Online|Value Plan|56|NETHERLANDS|109.0|41.42|48|No
 ADM|Travel Agency|Online|Premier Plan|197|MOROCCO|86.0|32.68|22|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|46|CHINA|22.0|0.0|36|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|26|THAILAND|19.8|11.88|24|No
@@ -10657,6 +10689,7 @@ EPX|Travel Agency|Online|2 way Comprehensive Plan|19|CHINA|48.0|0.0|36|No
 EPX|Travel Agency|Online|1 way Comprehensive Plan|3|INDIA|31.0|0.0|36|No
 EPX|Travel Agency|Online|Cancellation Plan|6|INDIA|12.0|0.0|36|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|31|CANADA|0.0|53.46|53|No
+JWT|Airlines|Online|Value Plan|2|INDIA|31.0|12.4|118|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|92|UNITED STATES|79.2|47.52|62|No
 C2B|Airlines|Online|Silver Plan|47|SINGAPORE|31.85|7.96|37|No
 EPX|Travel Agency|Online|1 way Comprehensive Plan|67|SINGAPORE|29.0|0.0|36|No
@@ -10855,6 +10888,7 @@ C2B|Airlines|Online|Silver Plan|18|SINGAPORE|27.0|6.75|22|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|59|AUSTRALIA|65.0|0.0|36|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|8|THAILAND|0.0|0.0|36|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|28|AUSTRALIA|39.6|23.76|50|No
+RAB|Airlines|Online|Value Plan|5|BRUNEI DARUSSALAM|15.0|6.0|30|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|68|FRANCE|148.5|89.1|33|Yes
 EPX|Travel Agency|Online|Cancellation Plan|25|MALAYSIA|15.0|0.0|24|No
 C2B|Airlines|Online|Bronze Plan|17|SINGAPORE|16.0|4.0|36|No
@@ -10936,6 +10970,7 @@ C2B|Airlines|Online|Annual Silver Plan|364|SINGAPORE|252.85|63.21|50|Yes
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|8|MALAYSIA|59.4|35.64|38|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|43|SPAIN|29.7|17.82|48|No
 EPX|Travel Agency|Online|Cancellation Plan|4|MALAYSIA|10.0|0.0|40|No
+C2B|Airlines|Online|Bronze Plan|19|SINGAPORE|34.5|8.63|28|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|30|AUSTRALIA|59.4|35.64|31|No
 JZI|Airlines|Online|Basic Plan|42|KOREA, REPUBLIC OF|40.0|14.0|28|Yes
 EPX|Travel Agency|Online|Cancellation Plan|53|PHILIPPINES|52.0|0.0|35|No
@@ -10996,6 +11031,7 @@ EPX|Travel Agency|Online|Cancellation Plan|37|INDONESIA|16.0|0.0|36|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|6|MALAYSIA|39.6|23.76|76|No
 C2B|Airlines|Online|Bronze Plan|52|SINGAPORE|113.0|28.25|32|No
 EPX|Travel Agency|Online|Cancellation Plan|27|CHINA|10.0|0.0|26|No
+JZI|Airlines|Online|Basic Plan|39|THAILAND|22.0|7.7|60|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|7|THAILAND|69.3|41.58|47|No
 EPX|Travel Agency|Online|Cancellation Plan|11|PHILIPPINES|50.0|0.0|35|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|7|HONG KONG|29.0|0.0|36|No
@@ -11168,6 +11204,7 @@ CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|92|ITALY|69.3|41.58|59|
 EPX|Travel Agency|Online|2 way Comprehensive Plan|38|MALAYSIA|20.0|0.0|28|No
 C2B|Airlines|Online|Silver Plan|69|SINGAPORE|63.5|15.88|27|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|48|CHINA|59.0|0.0|36|No
+JWT|Airlines|Online|Value Plan|22|INDIA|31.0|12.4|118|No
 EPX|Travel Agency|Online|Cancellation Plan|7|CAMBODIA|23.0|0.0|36|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|4|MALAYSIA|9.9|5.94|34|No
 EPX|Travel Agency|Online|Cancellation Plan|48|CHINA|24.0|0.0|35|No
@@ -11362,6 +11399,7 @@ EPX|Travel Agency|Online|2 way Comprehensive Plan|5|INDIA|35.0|0.0|36|No
 JZI|Airlines|Online|Basic Plan|39|HONG KONG|26.0|9.1|68|No
 EPX|Travel Agency|Online|Cancellation Plan|122|JAPAN|80.0|0.0|36|No
 JZI|Airlines|Online|Basic Plan|1|INDONESIA|18.0|6.3|25|No
+KML|Travel Agency|Online|Value Plan|12|INDONESIA|28.0|10.64|48|No
 C2B|Airlines|Online|Bronze Plan|3|SINGAPORE|16.0|4.0|28|No
 JZI|Airlines|Online|Basic Plan|7|INDONESIA|18.0|6.3|53|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|4|MALAYSIA|29.0|0.0|47|No
@@ -11623,6 +11661,7 @@ EPX|Travel Agency|Online|2 way Comprehensive Plan|61|ITALY|110.0|0.0|36|No
 EPX|Travel Agency|Online|1 way Comprehensive Plan|5|SINGAPORE|20.0|0.0|24|No
 C2B|Airlines|Online|Annual Silver Plan|394|SINGAPORE|216.0|54.0|36|No
 C2B|Airlines|Online|Bronze Plan|13|SINGAPORE|29.9|7.47|26|No
+JZI|Airlines|Online|Basic Plan|5|INDONESIA|18.0|6.3|60|No
 EPX|Travel Agency|Online|1 way Comprehensive Plan|13|CHINA|25.0|0.0|36|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|16|THAILAND|22.0|0.0|36|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|65|CHINA|20.0|0.0|36|No
@@ -11661,12 +11700,14 @@ CCR|Travel Agency|Offline|Comprehensive Plan|6|THAILAND|29.0|9.57|118|No
 JZI|Airlines|Online|Basic Plan|4|HONG KONG|22.0|7.7|44|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|39|POLAND|69.0|0.0|36|No
 C2B|Airlines|Online|Annual Gold Plan|373|SINGAPORE|333.0|83.25|24|No
+C2B|Airlines|Online|Bronze Plan|4|SINGAPORE|13.5|3.38|27|No
 SSI|Airlines|Online|Ticket Protector|22|SINGAPORE|1.35|0.38|48|No
 EPX|Travel Agency|Online|Cancellation Plan|8|RUSSIAN FEDERATION|11.0|0.0|36|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|13|CHINA|43.0|0.0|42|No
 EPX|Travel Agency|Online|Cancellation Plan|8|THAILAND|29.0|0.0|36|No
 EPX|Travel Agency|Online|Cancellation Plan|69|UNITED KINGDOM|21.0|0.0|36|No
 EPX|Travel Agency|Online|Cancellation Plan|3|CHINA|14.0|0.0|33|No
+C2B|Airlines|Online|Bronze Plan|13|SINGAPORE|26.5|6.63|48|No
 RAB|Airlines|Online|Value Plan|3|BRUNEI DARUSSALAM|15.0|6.0|47|No
 EPX|Travel Agency|Online|Cancellation Plan|5|CHINA|78.0|0.0|36|No
 EPX|Travel Agency|Online|Cancellation Plan|7|PHILIPPINES|57.0|0.0|31|No
@@ -11684,6 +11725,7 @@ EPX|Travel Agency|Online|2 way Comprehensive Plan|55|KENYA|64.0|0.0|36|No
 EPX|Travel Agency|Online|Cancellation Plan|7|SINGAPORE|76.0|0.0|36|No
 C2B|Airlines|Online|Bronze Plan|26|SINGAPORE|71.0|17.75|26|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|35|PHILIPPINES|38.0|0.0|36|No
+C2B|Airlines|Online|Bronze Plan|4|SINGAPORE|16.0|4.0|34|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|64|CANADA|0.0|0.0|67|No
 EPX|Travel Agency|Online|Cancellation Plan|17|CHINA|12.0|0.0|36|No
 EPX|Travel Agency|Online|Cancellation Plan|7|THAILAND|10.0|0.0|51|No
@@ -11694,6 +11736,7 @@ EPX|Travel Agency|Online|2 way Comprehensive Plan|8|THAILAND|23.0|0.0|45|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|43|GERMANY|112.0|0.0|36|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|26|MALAYSIA|29.7|17.82|31|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|84|THAILAND|20.0|0.0|28|No
+RAB|Airlines|Online|Value Plan|14|BRUNEI DARUSSALAM|15.0|6.0|35|No
 EPX|Travel Agency|Online|Cancellation Plan|112|CAMBODIA|15.0|0.0|36|No
 EPX|Travel Agency|Online|Cancellation Plan|28|INDONESIA|13.0|0.0|36|No
 EPX|Travel Agency|Online|Cancellation Plan|46|THAILAND|25.0|0.0|36|No
@@ -11794,6 +11837,7 @@ CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|15|JAPAN|39.6|23.76|60|
 C2B|Airlines|Online|Bronze Plan|34|SINGAPORE|60.0|15.0|30|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|24|PHILIPPINES|31.0|0.0|36|No
 EPX|Travel Agency|Online|1 way Comprehensive Plan|32|MALAYSIA|20.0|0.0|38|No
+JWT|Airlines|Online|Value Plan|15|INDIA|39.0|15.6|118|No
 EPX|Travel Agency|Online|Cancellation Plan|297|PHILIPPINES|40.0|0.0|36|No
 C2B|Airlines|Online|Bronze Plan|10|SINGAPORE|27.0|6.75|29|Yes
 C2B|Airlines|Online|Bronze Plan|8|SINGAPORE|16.0|4.0|24|No
@@ -11983,6 +12027,7 @@ CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|13|MALAYSIA|19.8|11.88|
 EPX|Travel Agency|Online|Cancellation Plan|124|JAPAN|44.0|0.0|36|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|162|THAILAND|112.0|0.0|46|No
 KML|Travel Agency|Online|Value Plan|20|INDONESIA|22.0|8.36|48|No
+C2B|Airlines|Online|Gold Plan|19|SINGAPORE|33.5|8.38|32|No
 EPX|Travel Agency|Online|Cancellation Plan|8|HONG KONG|10.0|0.0|42|No
 JZI|Airlines|Online|Basic Plan|34|THAILAND|22.0|7.7|49|No
 JZI|Airlines|Online|Basic Plan|7|THAILAND|18.0|6.3|60|No
@@ -12138,6 +12183,7 @@ JZI|Airlines|Online|Basic Plan|29|CHINA|22.0|7.7|29|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|94|INDONESIA|20.0|0.0|40|No
 C2B|Airlines|Online|Annual Silver Plan|393|SINGAPORE|161.0|40.25|45|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|57|THAILAND|20.0|0.0|36|No
+C2B|Airlines|Online|Annual Silver Plan|365|SINGAPORE|216.0|54.0|35|No
 JZI|Airlines|Online|Basic Plan|115|HONG KONG|40.0|14.0|52|No
 C2B|Airlines|Online|Bronze Plan|44|SINGAPORE|30.55|7.64|68|No
 C2B|Airlines|Online|Annual Silver Plan|387|SINGAPORE|216.0|54.0|41|No
@@ -12145,6 +12191,7 @@ CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|12|CANADA|108.9|65.34|5
 SSI|Airlines|Online|Ticket Protector|0|SINGAPORE|1.03|0.29|48|No
 EPX|Travel Agency|Online|Cancellation Plan|40|NEW ZEALAND|46.0|0.0|36|No
 EPX|Travel Agency|Online|Cancellation Plan|2|INDONESIA|10.0|0.0|56|No
+C2B|Airlines|Online|Bronze Plan|8|SINGAPORE|13.5|3.38|30|No
 EPX|Travel Agency|Online|Cancellation Plan|43|CANADA|47.0|0.0|49|No
 KML|Travel Agency|Online|Value Plan|20|NETHERLANDS|109.0|41.42|48|No
 EPX|Travel Agency|Online|Cancellation Plan|8|HONG KONG|19.0|0.0|36|No
@@ -12460,6 +12507,7 @@ CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|72|KOREA, REPUBLIC OF|2
 EPX|Travel Agency|Online|Cancellation Plan|14|VIET NAM|44.0|0.0|36|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|268|ITALY|112.0|0.0|36|No
 EPX|Travel Agency|Online|Cancellation Plan|7|SINGAPORE|10.0|0.0|31|No
+C2B|Airlines|Online|Bronze Plan|6|SINGAPORE|16.0|4.0|29|No
 JZI|Airlines|Online|Value Plan|14|NETHERLANDS|67.0|23.45|46|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|7|INDONESIA|41.0|0.0|36|No
 C2B|Airlines|Online|Bronze Plan|5|SINGAPORE|16.0|4.0|31|No
@@ -12797,6 +12845,7 @@ JZI|Airlines|Online|Basic Plan|14|MALAYSIA|22.0|7.7|45|No
 C2B|Airlines|Online|Annual Silver Plan|369|SINGAPORE|252.85|63.21|27|No
 EPX|Travel Agency|Online|Cancellation Plan|22|UNITED KINGDOM|23.0|0.0|36|No
 JZI|Airlines|Online|Value Plan|21|UNITED STATES|0.0|33.6|49|No
+C2B|Airlines|Online|Bronze Plan|10|SINGAPORE|16.0|4.0|30|No
 EPX|Travel Agency|Offline|2 way Comprehensive Plan|70|BELGIUM|73.0|0.0|118|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|122|NEW ZEALAND|128.7|77.22|25|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|13|NORWAY|89.1|53.46|22|No
@@ -13036,6 +13085,7 @@ CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|42|AUSTRALIA|89.1|53.46
 ART|Airlines|Online|24 Protect|23|VIET NAM|25.0|8.75|48|No
 JZI|Airlines|Online|Basic Plan|34|PHILIPPINES|30.0|10.5|39|No
 EPX|Travel Agency|Online|Cancellation Plan|19|CHINA|18.0|0.0|36|No
+C2B|Airlines|Online|Bronze Plan|12|SINGAPORE|29.5|7.38|22|No
 JZI|Airlines|Online|Basic Plan|26|THAILAND|37.0|12.95|37|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|159|AUSTRALIA|108.9|65.34|43|No
 C2B|Airlines|Online|Bronze Plan|54|SINGAPORE|33.5|8.38|26|Yes
@@ -13249,6 +13299,7 @@ EPX|Travel Agency|Online|Cancellation Plan|159|AUSTRALIA|39.0|0.0|36|No
 EPX|Travel Agency|Online|Cancellation Plan|13|SINGAPORE|41.0|0.0|36|No
 EPX|Travel Agency|Online|Cancellation Plan|47|AUSTRALIA|37.0|0.0|36|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|167|KOREA, REPUBLIC OF|47.0|0.0|36|No
+C2B|Airlines|Online|Bronze Plan|14|SINGAPORE|33.5|8.38|28|No
 JZI|Airlines|Online|Basic Plan|65|HONG KONG|35.0|12.25|63|No
 EPX|Travel Agency|Online|Cancellation Plan|6|MALAYSIA|13.0|0.0|36|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|59|THAILAND|22.0|0.0|36|No
@@ -13301,6 +13352,7 @@ EPX|Travel Agency|Online|Cancellation Plan|29|NETHERLANDS|31.0|0.0|35|No
 JZI|Airlines|Online|Basic Plan|12|CHINA|35.0|12.25|52|No
 EPX|Travel Agency|Online|Cancellation Plan|10|MALAYSIA|25.0|0.0|36|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|20|SINGAPORE|20.0|0.0|29|No
+TST|Travel Agency|Offline|Travel Cruise Protect|71|THAILAND|30.0|10.5|46|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|98|AUSTRALIA|0.0|47.52|45|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|52|INDIA|99.0|0.0|36|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|33|KOREA, REPUBLIC OF|39.6|23.76|31|No
@@ -13405,6 +13457,7 @@ EPX|Travel Agency|Online|Cancellation Plan|16|INDONESIA|15.0|0.0|36|No
 C2B|Airlines|Online|Annual Silver Plan|378|SINGAPORE|389.0|97.25|43|No
 JZI|Airlines|Online|Basic Plan|106|KOREA, REPUBLIC OF|35.0|12.25|26|No
 EPX|Travel Agency|Online|1 way Comprehensive Plan|9|HONG KONG|36.0|0.0|36|No
+C2B|Airlines|Online|Bronze Plan|9|SINGAPORE|27.0|6.75|27|No
 EPX|Travel Agency|Online|Cancellation Plan|25|DENMARK|80.0|0.0|34|No
 C2B|Airlines|Online|Bronze Plan|10|SINGAPORE|21.0|5.25|25|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|25|MYANMAR|20.0|0.0|36|No
@@ -13450,6 +13503,7 @@ EPX|Travel Agency|Online|2 way Comprehensive Plan|32|FRANCE|70.0|0.0|36|No
 EPX|Travel Agency|Online|1 way Comprehensive Plan|50|CAMBODIA|22.0|0.0|36|No
 EPX|Travel Agency|Online|Cancellation Plan|48|SINGAPORE|10.0|0.0|36|No
 C2B|Airlines|Online|Bronze Plan|7|SINGAPORE|16.0|4.0|30|No
+RAB|Airlines|Online|Value Plan|6|BRUNEI DARUSSALAM|15.0|6.0|29|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|27|THAILAND|37.0|0.0|60|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|17|PHILIPPINES|24.0|0.0|36|No
 EPX|Travel Agency|Online|Cancellation Plan|1|THAILAND|13.0|0.0|61|No
@@ -13582,7 +13636,9 @@ JZI|Airlines|Online|Basic Plan|31|CHINA|35.0|12.25|50|No
 EPX|Travel Agency|Online|Cancellation Plan|46|KOREA, REPUBLIC OF|60.0|0.0|36|No
 EPX|Travel Agency|Online|Cancellation Plan|11|MALAYSIA|10.0|0.0|47|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|42|JAPAN|104.0|0.0|36|No
+JWT|Airlines|Online|Value Plan|30|INDIA|39.0|15.6|118|No
 JZI|Airlines|Online|Value Plan|19|NETHERLANDS|87.0|30.45|33|No
+C2B|Airlines|Online|Bronze Plan|10|SINGAPORE|27.0|6.75|29|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|83|SPAIN|19.8|11.88|28|No
 EPX|Travel Agency|Online|Cancellation Plan|5|INDONESIA|15.0|0.0|36|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|92|GERMANY|91.0|0.0|36|No
@@ -13751,6 +13807,7 @@ EPX|Travel Agency|Online|Cancellation Plan|10|THAILAND|17.0|0.0|35|No
 JZI|Airlines|Online|Basic Plan|18|HONG KONG|26.0|9.1|46|No
 EPX|Travel Agency|Online|Cancellation Plan|16|INDONESIA|10.0|0.0|40|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|4|UNITED STATES|19.8|11.88|49|No
+C2B|Airlines|Online|Bronze Plan|18|SINGAPORE|13.5|3.38|31|No
 C2B|Airlines|Online|Bronze Plan|11|SINGAPORE|20.0|5.0|48|No
 EPX|Travel Agency|Online|Cancellation Plan|146|GERMANY|10.0|0.0|36|No
 EPX|Travel Agency|Online|Cancellation Plan|19|CHINA|44.0|0.0|36|No
@@ -13768,6 +13825,7 @@ JZI|Airlines|Online|Basic Plan|100|CHINA|35.0|12.25|27|No
 C2B|Airlines|Online|Bronze Plan|53|SINGAPORE|13.5|3.38|21|No
 JZI|Airlines|Online|Basic Plan|28|THAILAND|22.0|7.7|56|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|10|UNITED STATES|100.0|0.0|30|No
+JWT|Airlines|Online|Value Plan|11|INDIA|39.0|15.6|118|No
 EPX|Travel Agency|Online|Cancellation Plan|52|CHINA|10.0|0.0|26|No
 JZI|Airlines|Online|Basic Plan|8|THAILAND|18.0|6.3|38|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|8|MAURITIUS|59.4|35.64|31|No
@@ -13806,6 +13864,7 @@ EPX|Travel Agency|Online|2 way Comprehensive Plan|50|THAILAND|24.0|0.0|36|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|167|MALAYSIA|20.0|0.0|46|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|18|NORWAY|59.4|35.64|31|No
 C2B|Airlines|Online|Annual Silver Plan|398|SINGAPORE|216.0|54.0|28|No
+KML|Travel Agency|Online|Value Plan|38|INDONESIA|33.0|12.54|48|No
 EPX|Travel Agency|Online|Cancellation Plan|13|PHILIPPINES|16.0|0.0|36|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|22|INDIA|29.0|0.0|36|No
 EPX|Travel Agency|Online|Cancellation Plan|58|KOREA, REPUBLIC OF|30.0|0.0|36|No
@@ -14075,6 +14134,7 @@ EPX|Travel Agency|Online|2 way Comprehensive Plan|10|INDONESIA|21.0|0.0|29|No
 EPX|Travel Agency|Online|Cancellation Plan|33|THAILAND|10.0|0.0|33|No
 KML|Travel Agency|Online|Value Plan|26|GERMANY|75.0|28.5|48|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|25|CHINA|32.0|0.0|36|No
+JZI|Airlines|Online|Basic Plan|13|MALAYSIA|18.0|6.3|50|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|65|MALAYSIA|30.0|0.0|36|No
 EPX|Travel Agency|Online|Cancellation Plan|5|SINGAPORE|10.0|0.0|21|No
 C2B|Airlines|Online|Bronze Plan|9|SINGAPORE|34.0|8.5|31|No
@@ -14112,6 +14172,7 @@ EPX|Travel Agency|Online|Cancellation Plan|13|SOUTH AFRICA|65.0|0.0|36|No
 C2B|Airlines|Online|Silver Plan|5|SINGAPORE|29.4|7.35|27|No
 EPX|Travel Agency|Online|Cancellation Plan|45|INDONESIA|15.0|0.0|30|No
 EPX|Travel Agency|Online|Cancellation Plan|6|MALAYSIA|20.0|0.0|36|No
+C2B|Airlines|Online|Bronze Plan|10|SINGAPORE|30.55|7.64|30|No
 EPX|Travel Agency|Online|1 way Comprehensive Plan|14|SINGAPORE|98.0|0.0|35|No
 EPX|Travel Agency|Online|Cancellation Plan|6|INDIA|44.0|0.0|36|No
 EPX|Travel Agency|Online|Cancellation Plan|17|MALAYSIA|10.0|0.0|36|No
@@ -14473,6 +14534,7 @@ EPX|Travel Agency|Online|Cancellation Plan|6|SINGAPORE|18.0|0.0|30|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|41|PHILIPPINES|20.0|0.0|35|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|33|UNITED KINGDOM|0.0|59.4|32|No
 EPX|Travel Agency|Online|Cancellation Plan|10|UNITED KINGDOM|80.0|0.0|36|No
+C2B|Airlines|Online|Bronze Plan|9|SINGAPORE|13.5|3.38|27|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|7|AUSTRALIA|49.5|29.7|38|No
 EPX|Travel Agency|Online|1 way Comprehensive Plan|3|VIET NAM|20.0|0.0|29|No
 EPX|Travel Agency|Online|Cancellation Plan|66|THAILAND|19.0|0.0|28|No
@@ -14779,8 +14841,10 @@ C2B|Airlines|Online|Gold Plan|9|SINGAPORE|63.7|15.93|45|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|45|MALAYSIA|29.7|17.82|36|No
 EPX|Travel Agency|Online|Cancellation Plan|97|CANADA|44.0|0.0|26|No
 JZI|Airlines|Online|Value Plan|9|KOREA, REPUBLIC OF|36.0|12.6|41|No
+JZI|Airlines|Online|Basic Plan|3|THAILAND|18.0|6.3|56|No
 EPX|Travel Agency|Online|Cancellation Plan|7|PHILIPPINES|23.0|0.0|29|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|52|MALAYSIA|20.0|0.0|36|No
+C2B|Airlines|Online|Bronze Plan|12|SINGAPORE|20.0|5.0|32|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|57|CHINA|38.0|0.0|36|No
 C2B|Airlines|Online|Silver Plan|17|SINGAPORE|72.0|18.0|32|No
 JWT|Airlines|Online|Value Plan|14|INDIA|39.0|15.6|118|No
@@ -14960,6 +15024,7 @@ EPX|Travel Agency|Online|Cancellation Plan|3|CHINA|19.0|0.0|36|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|54|NEW ZEALAND|69.3|41.58|46|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|14|MALAYSIA|26.0|0.0|36|No
 EPX|Travel Agency|Online|1 way Comprehensive Plan|216|SINGAPORE|20.0|0.0|36|No
+C2B|Airlines|Online|Annual Silver Plan|365|SINGAPORE|216.0|54.0|29|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|56|AUSTRALIA|69.3|41.58|31|No
 JZI|Airlines|Online|Value Plan|41|CAMBODIA|39.0|13.65|41|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|6|NETHERLANDS|39.6|23.76|33|No
@@ -15046,6 +15111,7 @@ C2B|Airlines|Online|Annual Silver Plan|409|SINGAPORE|252.85|63.21|75|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|8|THAILAND|48.0|0.0|54|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|39|JAPAN|42.0|0.0|36|No
 C2B|Airlines|Online|Bronze Plan|20|SINGAPORE|29.5|7.38|24|No
+JZI|Airlines|Online|Basic Plan|4|THAILAND|22.0|7.7|40|No
 C2B|Airlines|Online|Bronze Plan|8|SINGAPORE|13.5|3.38|28|No
 C2B|Airlines|Online|Bronze Plan|27|SINGAPORE|60.0|15.0|30|Yes
 EPX|Travel Agency|Online|Cancellation Plan|22|HONG KONG|13.0|0.0|36|No
@@ -15130,6 +15196,7 @@ EPX|Travel Agency|Online|Cancellation Plan|8|MALAYSIA|19.0|0.0|58|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|81|GERMANY|82.0|0.0|36|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|71|HONG KONG|30.0|0.0|36|No
 JZI|Airlines|Online|Basic Plan|2|HONG KONG|22.0|7.7|58|No
+RAB|Airlines|Online|Value Plan|6|BRUNEI DARUSSALAM|15.0|6.0|35|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|49|KOREA, REPUBLIC OF|46.0|0.0|36|No
 C2B|Airlines|Online|Silver Plan|4|SINGAPORE|18.5|4.63|43|No
 JZI|Airlines|Online|Basic Plan|59|PHILIPPINES|33.0|11.55|41|No
@@ -15436,6 +15503,7 @@ EPX|Travel Agency|Online|2 way Comprehensive Plan|12|MYANMAR|60.0|0.0|30|No
 EPX|Travel Agency|Online|Cancellation Plan|46|SINGAPORE|32.0|0.0|36|No
 C2B|Airlines|Online|Bronze Plan|32|SINGAPORE|35.5|8.88|33|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|3|VIET NAM|20.0|0.0|36|No
+JWT|Airlines|Online|Value Plan|18|INDIA|31.0|12.4|118|No
 EPX|Travel Agency|Online|Cancellation Plan|67|MONGOLIA|71.0|0.0|36|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|11|HONG KONG|45.0|0.0|36|No
 EPX|Travel Agency|Online|Cancellation Plan|18|CHINA|45.0|0.0|36|No
@@ -15946,6 +16014,7 @@ KML|Travel Agency|Online|Value Plan|129|NETHERLANDS|109.0|41.42|48|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|48|CHINA|22.0|0.0|36|No
 LWC|Travel Agency|Online|Single Trip Travel Protect Gold|9|UNITED KINGDOM|48.5|31.53|44|No
 EPX|Travel Agency|Online|Cancellation Plan|16|INDONESIA|10.0|0.0|36|No
+C2B|Airlines|Online|Bronze Plan|6|SINGAPORE|16.0|4.0|28|No
 JZI|Airlines|Online|Basic Plan|3|THAILAND|18.0|6.3|40|No
 EPX|Travel Agency|Online|Cancellation Plan|1|INDONESIA|10.0|0.0|29|No
 EPX|Travel Agency|Online|1 way Comprehensive Plan|2|BANGLADESH|20.0|0.0|36|No
@@ -16046,6 +16115,7 @@ EPX|Travel Agency|Online|Cancellation Plan|11|CHINA|36.0|0.0|36|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|14|HONG KONG|26.0|0.0|36|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|34|UNITED STATES|9.9|5.94|41|No
 JZI|Airlines|Online|Basic Plan|10|VIET NAM|22.0|7.7|46|No
+JZI|Airlines|Online|Basic Plan|8|CHINA|26.0|9.1|56|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|84|AUSTRALIA|79.2|47.52|24|No
 SSI|Airlines|Online|Ticket Protector|116|SINGAPORE|1.16|0.32|48|No
 C2B|Airlines|Online|Bronze Plan|15|SINGAPORE|23.5|5.88|44|No
@@ -16812,6 +16882,7 @@ EPX|Travel Agency|Online|2 way Comprehensive Plan|129|JAPAN|49.0|0.0|36|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|15|CHINA|59.0|0.0|36|No
 EPX|Travel Agency|Online|Cancellation Plan|9|SINGAPORE|10.0|0.0|35|No
 C2B|Airlines|Online|Annual Silver Plan|366|SINGAPORE|216.0|54.0|32|No
+JWT|Airlines|Online|Value Plan|13|INDIA|50.0|20.0|118|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|154|SPAIN|20.0|0.0|36|No
 C2B|Airlines|Online|Bronze Plan|36|SINGAPORE|53.0|13.25|23|No
 RAB|Airlines|Online|Value Plan|10|BRUNEI DARUSSALAM|15.0|6.0|29|No
@@ -16900,6 +16971,7 @@ EPX|Travel Agency|Online|Cancellation Plan|28|INDIA|25.0|0.0|36|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|82|AUSTRALIA|49.5|29.7|57|No
 EPX|Travel Agency|Online|Cancellation Plan|293|PERU|33.0|0.0|36|No
 C2B|Airlines|Online|Bronze Plan|4|SINGAPORE|65.0|16.25|41|No
+JWT|Airlines|Online|Value Plan|9|INDIA|31.0|12.4|118|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|21|FRANCE|49.5|29.7|30|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|8|MALAYSIA|0.0|0.0|36|No
 JZI|Airlines|Online|Basic Plan|37|HONG KONG|26.0|9.1|33|No
@@ -17010,6 +17082,7 @@ CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|165|AUSTRALIA|49.5|29.7
 JWT|Airlines|Online|Value Plan|150|INDIA|50.0|20.0|118|No
 C2B|Airlines|Online|Silver Plan|34|SINGAPORE|72.0|18.0|26|No
 C2B|Airlines|Online|Bronze Plan|20|SINGAPORE|53.5|13.38|25|No
+C2B|Airlines|Online|Bronze Plan|8|SINGAPORE|17.0|4.25|33|No
 CCR|Travel Agency|Offline|Comprehensive Plan|11|MALAYSIA|29.0|9.57|118|No
 EPX|Travel Agency|Online|Cancellation Plan|18|AUSTRALIA|52.0|0.0|36|No
 C2B|Airlines|Online|Silver Plan|29|SINGAPORE|39.0|9.75|27|No
@@ -17102,6 +17175,7 @@ C2B|Airlines|Online|Silver Plan|3|SINGAPORE|20.5|5.13|38|No
 EPX|Travel Agency|Online|Cancellation Plan|18|MYANMAR|45.0|0.0|36|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|3|BAHRAIN|29.7|17.82|51|No
 ART|Airlines|Online|24 Protect|86|UNITED ARAB EMIRATES|85.71|30.0|48|No
+C2B|Airlines|Online|Annual Silver Plan|366|SINGAPORE|216.0|54.0|32|No
 EPX|Travel Agency|Online|Cancellation Plan|21|UNITED STATES|53.0|0.0|53|No
 TST|Travel Agency|Offline|Travel Cruise Protect|60|THAILAND|30.0|10.5|79|No
 EPX|Travel Agency|Online|Cancellation Plan|116|MALAYSIA|12.0|0.0|29|No
@@ -17130,6 +17204,7 @@ EPX|Travel Agency|Online|2 way Comprehensive Plan|52|INDONESIA|20.0|0.0|23|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|3|MALAYSIA|20.0|0.0|55|No
 EPX|Travel Agency|Online|Cancellation Plan|54|PHILIPPINES|10.0|0.0|30|No
 C2B|Airlines|Online|Bronze Plan|9|SINGAPORE|30.55|7.64|31|No
+JWT|Airlines|Online|Value Plan|15|INDIA|31.0|12.4|118|No
 JZI|Airlines|Online|Basic Plan|59|THAILAND|22.0|7.7|44|No
 C2B|Airlines|Online|Bronze Plan|158|SINGAPORE|281.0|70.25|22|No
 EPX|Travel Agency|Online|Cancellation Plan|93|UNITED STATES|55.0|0.0|27|No
@@ -17139,9 +17214,11 @@ CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|9|DENMARK|39.6|23.76|31
 EPX|Travel Agency|Online|Cancellation Plan|27|SINGAPORE|14.0|0.0|41|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|61|AUSTRALIA|0.0|23.76|28|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|23|MALAYSIA|44.0|0.0|36|No
+JWT|Airlines|Online|Value Plan|4|INDIA|39.0|15.6|118|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|103|CHINA|82.0|0.0|36|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|7|AUSTRALIA|29.7|17.82|37|No
 RAB|Airlines|Online|Value Plan|7|BRUNEI DARUSSALAM|0.0|6.0|69|No
+RAB|Airlines|Online|Value Plan|3|BRUNEI DARUSSALAM|15.0|6.0|30|No
 EPX|Travel Agency|Online|1 way Comprehensive Plan|4|PHILIPPINES|25.0|0.0|36|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|73|JAPAN|49.0|0.0|36|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|12|SINGAPORE|20.0|0.0|60|No
@@ -17153,6 +17230,7 @@ EPX|Travel Agency|Online|2 way Comprehensive Plan|118|HONG KONG|21.0|0.0|36|No
 EPX|Travel Agency|Online|Cancellation Plan|6|SINGAPORE|10.0|0.0|34|No
 JZI|Airlines|Online|Value Plan|43|UNITED STATES|121.0|42.35|58|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|2|UNITED STATES|9.9|5.94|43|No
+C2B|Airlines|Online|Annual Silver Plan|373|SINGAPORE|216.0|54.0|30|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|29|HONG KONG|50.0|0.0|36|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|36|PHILIPPINES|22.0|0.0|36|No
 JWT|Airlines|Online|Value Plan|14|INDIA|60.0|24.0|118|No
@@ -17401,6 +17479,7 @@ EPX|Travel Agency|Online|2 way Comprehensive Plan|20|CANADA|92.0|0.0|44|No
 JZI|Airlines|Online|Basic Plan|13|MALAYSIA|18.0|6.3|27|No
 EPX|Travel Agency|Online|1 way Comprehensive Plan|30|SINGAPORE|112.0|0.0|35|No
 EPX|Travel Agency|Online|Cancellation Plan|5|UNITED STATES|15.0|0.0|57|No
+KML|Travel Agency|Online|Value Plan|5|INDONESIA|28.0|10.64|48|No
 C2B|Airlines|Online|Silver Plan|18|SINGAPORE|24.05|6.01|47|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|9|UNITED ARAB EMIRATES|0.0|35.64|37|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|37|DENMARK|277.2|166.32|54|No
@@ -17534,6 +17613,7 @@ EPX|Travel Agency|Online|Cancellation Plan|21|THAILAND|18.0|0.0|36|No
 JZI|Airlines|Online|Basic Plan|10|INDIA|35.0|12.25|33|No
 LWC|Travel Agency|Online|Annual Travel Protect Gold|371|CHINA|204.6|132.99|40|No
 EPX|Travel Agency|Online|Cancellation Plan|11|MALAYSIA|12.0|0.0|36|No
+C2B|Airlines|Online|Silver Plan|6|SINGAPORE|22.5|5.63|35|No
 JZI|Airlines|Online|Basic Plan|2|PHILIPPINES|22.0|7.7|118|No
 JZI|Airlines|Online|Basic Plan|18|HONG KONG|26.0|9.1|43|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|27|SRI LANKA|89.1|53.46|49|No
@@ -17725,6 +17805,7 @@ EPX|Travel Agency|Online|Cancellation Plan|5|THAILAND|37.0|0.0|35|No
 C2B|Airlines|Online|Silver Plan|43|SINGAPORE|112.5|28.13|28|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|23|CAMBODIA|30.0|0.0|36|No
 C2B|Airlines|Online|Bronze Plan|13|SINGAPORE|26.5|6.63|49|No
+RAB|Airlines|Online|Value Plan|4|BRUNEI DARUSSALAM|15.0|6.0|46|No
 RAB|Airlines|Online|Value Plan|9|BRUNEI DARUSSALAM|23.0|9.2|44|No
 KML|Travel Agency|Online|Value Plan|34|INDONESIA|33.0|12.54|48|No
 C2B|Airlines|Online|Silver Plan|5|SINGAPORE|49.0|12.25|35|No
@@ -17951,6 +18032,7 @@ CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|31|GERMANY|69.3|41.58|5
 EPX|Travel Agency|Online|Cancellation Plan|10|PHILIPPINES|14.0|0.0|36|No
 EPX|Travel Agency|Online|Cancellation Plan|3|SINGAPORE|43.0|0.0|36|No
 RAB|Airlines|Online|Value Plan|2|BRUNEI DARUSSALAM|15.0|6.0|40|No
+C2B|Airlines|Online|Bronze Plan|5|SINGAPORE|18.0|4.5|36|No
 JZI|Airlines|Online|Value Plan|17|CHINA|36.0|12.6|46|No
 SSI|Airlines|Online|Ticket Protector|4881|SINGAPORE|0.13|0.04|48|No
 EPX|Travel Agency|Online|Cancellation Plan|33|INDONESIA|13.0|0.0|27|No
@@ -17974,6 +18056,7 @@ CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|3|MALAYSIA|19.8|11.88|5
 EPX|Travel Agency|Online|Cancellation Plan|99|PERU|23.0|0.0|28|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|64|AUSTRALIA|49.5|29.7|44|No
 JZI|Airlines|Online|Basic Plan|9|VIET NAM|22.0|7.7|46|No
+C2B|Airlines|Online|Annual Silver Plan|390|SINGAPORE|216.0|54.0|33|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|35|CHINA|72.0|0.0|36|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|9|THAILAND|21.0|0.0|36|No
 EPX|Travel Agency|Online|1 way Comprehensive Plan|132|CHINA|22.0|0.0|36|No
@@ -18098,6 +18181,7 @@ EPX|Travel Agency|Online|1 way Comprehensive Plan|9|UNITED ARAB EMIRATES|27.0|0.
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|45|AUSTRALIA|89.1|53.46|30|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|34|INDIA|52.0|0.0|36|No
 JZI|Airlines|Online|Basic Plan|9|HONG KONG|26.0|9.1|45|No
+C2B|Airlines|Online|Bronze Plan|5|SINGAPORE|16.0|4.0|32|No
 EPX|Travel Agency|Online|Cancellation Plan|28|FINLAND|45.0|0.0|36|No
 EPX|Travel Agency|Online|1 way Comprehensive Plan|12|INDONESIA|26.0|0.0|36|No
 C2B|Airlines|Online|Bronze Plan|9|SINGAPORE|17.0|4.25|65|No
@@ -18218,6 +18302,7 @@ JZI|Airlines|Online|Basic Plan|12|INDONESIA|18.0|6.3|34|No
 C2B|Airlines|Online|Silver Plan|6|SINGAPORE|29.5|7.38|23|No
 JZI|Airlines|Online|Basic Plan|25|CHINA|44.0|15.4|44|No
 JZI|Airlines|Online|Value Plan|29|JAPAN|69.0|24.15|53|No
+CBH|Travel Agency|Offline|Comprehensive Plan|64|THAILAND|29.0|9.57|66|No
 C2B|Airlines|Online|Silver Plan|35|SINGAPORE|63.5|15.88|51|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|28|KOREA, REPUBLIC OF|0.0|0.0|36|No
 EPX|Travel Agency|Online|Cancellation Plan|88|INDONESIA|14.0|0.0|46|No
@@ -18298,8 +18383,10 @@ JZI|Airlines|Online|Value Plan|102|NEW ZEALAND|92.0|32.2|53|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|22|CHINA|27.0|0.0|36|No
 EPX|Travel Agency|Online|Cancellation Plan|61|TAIWAN, PROVINCE OF CHINA|66.0|0.0|36|No
 TST|Travel Agency|Offline|Travel Cruise Protect|72|THAILAND|30.0|10.5|63|No
+C2B|Airlines|Online|Annual Silver Plan|364|SINGAPORE|389.0|97.25|30|No
 EPX|Travel Agency|Online|Cancellation Plan|13|SINGAPORE|35.0|0.0|36|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|20|VIET NAM|43.0|0.0|36|No
+RAB|Airlines|Online|Value Plan|14|BRUNEI DARUSSALAM|15.0|6.0|47|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|29|THAILAND|69.3|41.58|34|No
 SSI|Airlines|Online|Ticket Protector|113|SINGAPORE|5.08|1.43|48|No
 C2B|Airlines|Online|Annual Silver Plan|367|SINGAPORE|161.0|40.25|44|No
@@ -18476,6 +18563,7 @@ C2B|Airlines|Online|Silver Plan|16|SINGAPORE|22.5|5.63|39|No
 EPX|Travel Agency|Online|1 way Comprehensive Plan|40|BANGLADESH|20.0|0.0|36|No
 EPX|Travel Agency|Online|Cancellation Plan|33|SPAIN|26.0|0.0|36|No
 EPX|Travel Agency|Online|Cancellation Plan|165|SINGAPORE|80.0|0.0|36|No
+JWT|Airlines|Online|Value Plan|23|INDIA|31.0|12.4|118|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|1|AUSTRALIA|9.9|5.94|31|No
 C2B|Airlines|Online|Annual Silver Plan|371|SINGAPORE|252.85|63.21|65|No
 C2B|Airlines|Online|Bronze Plan|22|SINGAPORE|60.0|15.0|26|No
@@ -18793,6 +18881,7 @@ EPX|Travel Agency|Online|2 way Comprehensive Plan|13|CHINA|37.0|0.0|36|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|72|JAPAN|72.0|0.0|36|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|11|THAILAND|44.0|0.0|36|No
 EPX|Travel Agency|Online|Cancellation Plan|12|CHINA|40.0|0.0|36|No
+C2B|Airlines|Online|Silver Plan|13|SINGAPORE|47.5|11.88|29|No
 EPX|Travel Agency|Online|Cancellation Plan|10|INDONESIA|10.0|0.0|38|No
 ART|Airlines|Online|24 Protect|1|PHILIPPINES|2.21|0.77|48|No
 EPX|Travel Agency|Online|Cancellation Plan|26|CHINA|15.0|0.0|36|No
@@ -18811,6 +18900,7 @@ EPX|Travel Agency|Online|2 way Comprehensive Plan|30|MALAYSIA|20.0|0.0|23|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|3|THAILAND|27.0|0.0|36|No
 EPX|Travel Agency|Online|Cancellation Plan|14|SINGAPORE|49.0|0.0|36|No
 EPX|Travel Agency|Online|Cancellation Plan|3|MALAYSIA|10.0|0.0|45|No
+JWT|Airlines|Online|Value Plan|6|INDIA|31.0|12.4|118|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|80|TAIWAN, PROVINCE OF CHINA|112.0|0.0|30|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|23|THAILAND|27.0|0.0|35|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|26|AUSTRALIA|0.0|17.82|51|No
@@ -19200,6 +19290,7 @@ C2B|Airlines|Online|Bronze Plan|12|SINGAPORE|29.5|7.38|21|No
 EPX|Travel Agency|Online|Cancellation Plan|6|CAMBODIA|29.0|0.0|36|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|12|MALAYSIA|29.7|17.82|45|No
 EPX|Travel Agency|Online|Cancellation Plan|32|AUSTRALIA|10.0|0.0|36|No
+JWT|Airlines|Online|Value Plan|38|INDIA|31.0|12.4|118|No
 EPX|Travel Agency|Online|Cancellation Plan|16|CHINA|34.0|0.0|36|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|71|UNITED STATES|146.0|0.0|37|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|5|GREECE|39.6|23.76|31|No
@@ -19210,6 +19301,7 @@ EPX|Travel Agency|Online|1 way Comprehensive Plan|55|INDIA|20.0|0.0|41|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|40|JAPAN|44.0|0.0|24|No
 EPX|Travel Agency|Online|Cancellation Plan|23|SINGAPORE|63.0|0.0|36|No
 EPX|Travel Agency|Online|Cancellation Plan|62|TAIWAN, PROVINCE OF CHINA|10.0|0.0|26|No
+C2B|Airlines|Online|Annual Silver Plan|364|SINGAPORE|216.0|54.0|30|No
 EPX|Travel Agency|Online|Cancellation Plan|3|KOREA, REPUBLIC OF|0.0|0.0|36|No
 C2B|Airlines|Online|Bronze Plan|16|SINGAPORE|53.5|13.38|25|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|227|PHILIPPINES|32.0|0.0|36|No
@@ -19255,6 +19347,7 @@ EPX|Travel Agency|Online|2 way Comprehensive Plan|9|TAIWAN, PROVINCE OF CHINA|50
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|28|AUSTRALIA|0.0|23.76|36|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|24|UNITED STATES|29.7|17.82|44|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|31|UNITED STATES|111.0|0.0|40|No
+KML|Travel Agency|Online|Premier Plan|3|INDONESIA|29.0|11.02|48|No
 LWC|Travel Agency|Online|Single Trip Travel Protect Silver|11|HONG KONG|33.0|21.45|64|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|38|CHINA|24.0|0.0|36|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|26|AUSTRALIA|0.0|23.76|31|No
@@ -19962,6 +20055,7 @@ CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|17|AUSTRALIA|39.6|23.76
 EPX|Travel Agency|Online|2 way Comprehensive Plan|65|SINGAPORE|20.0|0.0|36|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|25|TAIWAN, PROVINCE OF CHINA|21.0|0.0|22|No
 EPX|Travel Agency|Online|Cancellation Plan|14|VIET NAM|10.0|0.0|36|No
+KML|Travel Agency|Online|Value Plan|10|INDONESIA|28.0|10.64|48|No
 C2B|Airlines|Online|Bronze Plan|15|SINGAPORE|27.0|6.75|31|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|19|TAIWAN, PROVINCE OF CHINA|31.0|0.0|61|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|37|SINGAPORE|20.0|0.0|28|No
@@ -20025,6 +20119,7 @@ EPX|Travel Agency|Online|Cancellation Plan|30|VIET NAM|14.0|0.0|41|No
 JZI|Airlines|Online|Basic Plan|27|HONG KONG|26.0|9.1|26|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|17|MALAYSIA|25.0|0.0|23|No
 EPX|Travel Agency|Online|1 way Comprehensive Plan|70|INDIA|20.0|0.0|36|No
+C2B|Airlines|Online|Bronze Plan|6|SINGAPORE|21.0|5.25|31|No
 JWT|Airlines|Online|Value Plan|8|INDIA|50.0|20.0|118|No
 EPX|Travel Agency|Online|Cancellation Plan|27|SINGAPORE|70.0|0.0|26|No
 C2B|Airlines|Online|Gold Plan|20|SINGAPORE|182.0|45.5|52|No
@@ -20062,6 +20157,7 @@ C2B|Airlines|Online|Bronze Plan|33|SINGAPORE|56.5|14.13|24|No
 ART|Airlines|Online|24 Protect|31|SINGAPORE|73.2|25.62|48|No
 JZI|Airlines|Online|Basic Plan|14|MALAYSIA|22.0|7.7|36|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|13|THAILAND|0.0|0.0|36|No
+LWC|Travel Agency|Online|Annual Travel Protect Gold|364|UNITED STATES|256.2|166.53|44|No
 JZI|Airlines|Online|Basic Plan|27|THAILAND|33.0|11.55|45|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|62|AUSTRALIA|89.1|53.46|59|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|26|AUSTRALIA|69.3|41.58|49|No
@@ -20141,6 +20237,7 @@ EPX|Travel Agency|Online|Cancellation Plan|42|THAILAND|11.0|0.0|31|No
 CCR|Travel Agency|Offline|Comprehensive Plan|238|MALAYSIA|29.0|9.57|78|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|8|FRANCE|9.9|5.94|33|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|31|NEW ZEALAND|128.7|77.22|44|No
+JWT|Airlines|Online|Value Plan|20|INDIA|31.0|12.4|118|No
 C2B|Airlines|Online|Bronze Plan|41|SINGAPORE|45.5|11.38|54|Yes
 EPX|Travel Agency|Online|2 way Comprehensive Plan|41|MALAYSIA|20.0|0.0|72|No
 JZI|Airlines|Online|Basic Plan|37|VIET NAM|22.0|7.7|42|No
@@ -20214,6 +20311,7 @@ EPX|Travel Agency|Online|Cancellation Plan|29|SINGAPORE|10.0|0.0|40|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|66|AUSTRALIA|57.0|0.0|36|No
 EPX|Travel Agency|Online|1 way Comprehensive Plan|54|SINGAPORE|63.0|0.0|36|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|5|MALAYSIA|20.0|0.0|56|No
+TST|Travel Agency|Offline|Travel Cruise Protect|17|MALAYSIA|30.0|10.5|73|No
 EPX|Travel Agency|Online|Cancellation Plan|74|CHINA|27.0|0.0|36|No
 EPX|Travel Agency|Online|Cancellation Plan|7|INDIA|20.0|0.0|36|No
 EPX|Travel Agency|Online|Cancellation Plan|13|CHINA|55.0|0.0|36|No
@@ -20405,6 +20503,7 @@ C2B|Airlines|Online|Bronze Plan|21|SINGAPORE|27.0|6.75|27|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|37|UNITED STATES|80.0|0.0|28|No
 EPX|Travel Agency|Online|Cancellation Plan|18|THAILAND|11.0|0.0|29|No
 JWT|Airlines|Online|Value Plan|45|INDIA|80.0|32.0|118|No
+C2B|Airlines|Online|Bronze Plan|3|SINGAPORE|13.5|3.38|29|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|40|TAIWAN, PROVINCE OF CHINA|42.0|0.0|36|No
 JZI|Airlines|Online|Basic Plan|12|MALAYSIA|22.0|7.7|62|No
 LWC|Travel Agency|Online|Single Trip Travel Protect Silver|9|CHINA|39.75|25.84|27|No
@@ -20444,6 +20543,7 @@ EPX|Travel Agency|Online|1 way Comprehensive Plan|7|SRI LANKA|23.0|0.0|36|No
 EPX|Travel Agency|Online|Cancellation Plan|40|CHINA|12.0|0.0|26|No
 JZI|Airlines|Online|Basic Plan|9|PHILIPPINES|0.0|6.3|64|No
 JZI|Airlines|Online|Basic Plan|9|INDONESIA|18.0|6.3|40|No
+C2B|Airlines|Online|Bronze Plan|12|SINGAPORE|29.5|7.38|30|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|109|KOREA, REPUBLIC OF|112.0|0.0|36|No
 C2B|Airlines|Online|Bronze Plan|18|SINGAPORE|39.0|9.75|33|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|43|SOUTH AFRICA|99.0|59.4|37|No
@@ -20570,6 +20670,7 @@ EPX|Travel Agency|Online|Cancellation Plan|48|SINGAPORE|20.0|0.0|36|No
 JZI|Airlines|Online|Basic Plan|75|INDONESIA|30.0|10.5|39|No
 C2B|Airlines|Online|Bronze Plan|17|SINGAPORE|21.0|5.25|62|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|45|VIET NAM|20.0|0.0|36|No
+C2B|Airlines|Online|Bronze Plan|8|SINGAPORE|23.5|5.88|37|No
 EPX|Travel Agency|Online|Cancellation Plan|62|INDIA|30.0|0.0|36|No
 SSI|Airlines|Online|Ticket Protector|3|SINGAPORE|7.21|2.02|48|No
 C2B|Airlines|Online|Bronze Plan|42|SINGAPORE|72.0|18.0|30|No
@@ -20586,6 +20687,7 @@ JZI|Airlines|Online|Basic Plan|85|MALAYSIA|22.0|7.7|58|No
 JZI|Airlines|Online|Basic Plan|19|HONG KONG|26.0|9.1|67|No
 C2B|Airlines|Online|Silver Plan|9|SINGAPORE|83.0|20.75|34|No
 EPX|Travel Agency|Online|Cancellation Plan|50|MYANMAR|12.0|0.0|25|No
+C2B|Airlines|Online|Annual Silver Plan|364|SINGAPORE|216.0|54.0|41|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|25|NEW ZEALAND|59.4|35.64|54|No
 C2B|Airlines|Online|Silver Plan|11|SINGAPORE|54.6|13.65|35|No
 EPX|Travel Agency|Online|Cancellation Plan|39|SINGAPORE|48.0|0.0|27|No
@@ -20740,6 +20842,7 @@ C2B|Airlines|Online|Bronze Plan|4|SINGAPORE|13.5|3.38|34|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|44|UNITED STATES|69.3|41.58|38|No
 JZI|Airlines|Online|Basic Plan|4|HONG KONG|22.0|7.7|67|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|22|CHINA|39.0|0.0|36|No
+JZI|Airlines|Online|Basic Plan|4|HONG KONG|22.0|7.7|44|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|14|UNITED STATES|128.7|77.22|43|No
 EPX|Travel Agency|Online|Cancellation Plan|91|CHINA|33.0|0.0|36|No
 JZI|Airlines|Online|Basic Plan|47|TAIWAN, PROVINCE OF CHINA|26.0|9.1|23|No
@@ -20843,6 +20946,7 @@ EPX|Travel Agency|Online|Cancellation Plan|68|CHINA|77.0|0.0|36|No
 EPX|Travel Agency|Online|Cancellation Plan|46|SINGAPORE|42.0|0.0|28|No
 EPX|Travel Agency|Online|Cancellation Plan|113|FRANCE|71.0|0.0|36|No
 EPX|Travel Agency|Online|Cancellation Plan|92|AUSTRALIA|54.0|0.0|36|No
+JWT|Airlines|Online|Value Plan|9|INDIA|31.0|12.4|118|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|9|INDONESIA|38.0|0.0|36|No
 EPX|Travel Agency|Online|Cancellation Plan|6|THAILAND|10.0|0.0|60|No
 EPX|Travel Agency|Online|Cancellation Plan|78|PHILIPPINES|37.0|0.0|36|No
@@ -20927,6 +21031,7 @@ RAB|Airlines|Online|Value Plan|15|BRUNEI DARUSSALAM|15.0|6.0|52|No
 EPX|Travel Agency|Online|Cancellation Plan|3|POLAND|28.0|0.0|36|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|108|THAILAND|39.0|0.0|36|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|37|AUSTRALIA|49.5|29.7|34|No
+C2B|Airlines|Online|Annual Silver Plan|365|SINGAPORE|216.0|54.0|33|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|44|UNITED KINGDOM|59.4|35.64|42|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|22|AUSTRALIA|49.5|29.7|31|No
 RAB|Airlines|Online|Value Plan|18|BRUNEI DARUSSALAM|15.0|6.0|24|No
@@ -21053,6 +21158,7 @@ EPX|Travel Agency|Online|Cancellation Plan|27|SINGAPORE|10.0|0.0|50|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|41|INDONESIA|20.0|0.0|41|No
 EPX|Travel Agency|Online|Cancellation Plan|17|JAPAN|23.0|0.0|35|No
 C2B|Airlines|Online|Silver Plan|19|SINGAPORE|127.0|31.75|32|No
+JWT|Airlines|Online|Value Plan|9|INDIA|50.0|20.0|118|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|5|AUSTRALIA|49.5|29.7|36|No
 EPX|Travel Agency|Online|Cancellation Plan|4|MALAYSIA|10.0|0.0|22|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|96|THAILAND|31.0|0.0|30|No
@@ -21139,6 +21245,7 @@ CSR|Travel Agency|Offline|Comprehensive Plan|34|MALAYSIA|29.0|9.57|78|No
 C2B|Airlines|Online|Bronze Plan|32|SINGAPORE|40.0|10.0|61|No
 C2B|Airlines|Online|Silver Plan|4|SINGAPORE|22.5|5.63|57|No
 C2B|Airlines|Online|Silver Plan|3|SINGAPORE|18.5|4.63|29|No
+C2B|Airlines|Online|Annual Silver Plan|364|SINGAPORE|216.0|54.0|54|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|15|SOUTH AFRICA|49.5|29.7|41|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|11|CHINA|42.0|0.0|36|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|86|SOUTH AFRICA|59.4|35.64|31|No
@@ -21264,6 +21371,7 @@ EPX|Travel Agency|Online|1 way Comprehensive Plan|18|INDIA|20.0|0.0|36|No
 EPX|Travel Agency|Online|Cancellation Plan|25|CANADA|0.0|0.0|29|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|17|GERMANY|112.0|0.0|36|No
 C2B|Airlines|Online|Bronze Plan|49|SINGAPORE|62.0|15.5|30|No
+C2B|Airlines|Online|Annual Silver Plan|365|SINGAPORE|216.0|54.0|32|No
 TST|Travel Agency|Offline|Travel Cruise Protect|70|MALAYSIA|30.0|10.5|17|No
 JZI|Airlines|Online|Basic Plan|144|JAPAN|40.0|14.0|49|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|10|AUSTRALIA|39.6|23.76|60|No
@@ -21278,6 +21386,7 @@ EPX|Travel Agency|Online|2 way Comprehensive Plan|37|TAIWAN, PROVINCE OF CHINA|3
 EPX|Travel Agency|Online|Cancellation Plan|5|JAPAN|80.0|0.0|36|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|10|TAIWAN, PROVINCE OF CHINA|56.0|0.0|36|No
 C2B|Airlines|Online|Annual Gold Plan|377|SINGAPORE|0.0|69.71|36|No
+C2B|Airlines|Online|Annual Silver Plan|368|SINGAPORE|252.85|63.21|75|No
 EPX|Travel Agency|Online|Cancellation Plan|20|GERMANY|10.0|0.0|36|No
 JZI|Airlines|Online|Basic Plan|12|THAILAND|22.0|7.7|43|No
 EPX|Travel Agency|Online|Cancellation Plan|34|CHINA|24.0|0.0|36|No
@@ -21632,7 +21741,9 @@ EPX|Travel Agency|Online|2 way Comprehensive Plan|4|CAMBODIA|20.0|0.0|36|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|9|UNITED KINGDOM|49.5|29.7|48|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|77|KOREA, REPUBLIC OF|57.0|0.0|36|No
 RAB|Airlines|Online|Value Plan|47|BRUNEI DARUSSALAM|15.0|6.0|33|No
+C2B|Airlines|Online|Bronze Plan|6|SINGAPORE|16.0|4.0|33|No
 JWT|Airlines|Online|Value Plan|105|INDIA|78.0|31.2|118|No
+RAB|Airlines|Online|Value Plan|4|BRUNEI DARUSSALAM|15.0|6.0|32|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|28|THAILAND|29.7|17.82|32|No
 EPX|Travel Agency|Online|1 way Comprehensive Plan|4|CAMBODIA|20.0|0.0|55|No
 TTW|Travel Agency|Offline|Individual Comprehensive Plan|364|SINGAPORE|97.0|0.0|37|No
@@ -21757,6 +21868,7 @@ CCR|Travel Agency|Offline|Comprehensive Plan|85|THAILAND|29.0|9.57|67|No
 JZI|Airlines|Online|Value Plan|6|KOREA, REPUBLIC OF|36.0|12.6|62|No
 C2B|Airlines|Online|Silver Plan|27|SINGAPORE|25.0|6.25|44|No
 EPX|Travel Agency|Online|1 way Comprehensive Plan|1|THAILAND|21.0|0.0|25|No
+C2B|Airlines|Online|Annual Silver Plan|366|SINGAPORE|252.85|63.21|37|No
 EPX|Travel Agency|Online|1 way Comprehensive Plan|24|CAMBODIA|83.0|0.0|61|No
 EPX|Travel Agency|Online|Cancellation Plan|28|PHILIPPINES|10.0|0.0|29|No
 EPX|Travel Agency|Online|Cancellation Plan|16|CHINA|22.0|0.0|36|No
@@ -21813,6 +21925,7 @@ EPX|Travel Agency|Online|Cancellation Plan|36|THAILAND|10.0|0.0|43|No
 EPX|Travel Agency|Online|Cancellation Plan|35|SINGAPORE|33.0|0.0|36|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|7|MALAYSIA|62.0|0.0|37|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|7|THAILAND|49.5|29.7|26|No
+RAB|Airlines|Online|Value Plan|7|BRUNEI DARUSSALAM|15.0|6.0|51|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|56|NEPAL|83.0|0.0|36|No
 JZI|Airlines|Online|Basic Plan|29|HONG KONG|22.0|7.7|35|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|45|ITALY|49.5|29.7|39|No
@@ -21858,6 +21971,7 @@ EPX|Travel Agency|Online|Cancellation Plan|3|SINGAPORE|13.0|0.0|47|No
 EPX|Travel Agency|Online|Cancellation Plan|39|INDONESIA|14.0|0.0|45|No
 EPX|Travel Agency|Online|Cancellation Plan|28|AUSTRALIA|70.0|0.0|36|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|122|MALAYSIA|39.6|23.76|41|No
+C2B|Airlines|Online|Silver Plan|5|SINGAPORE|18.5|4.63|32|No
 EPX|Travel Agency|Online|Cancellation Plan|57|SINGAPORE|10.0|0.0|49|No
 EPX|Travel Agency|Online|Cancellation Plan|22|UNITED KINGDOM|76.0|0.0|36|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|16|CAMBODIA|21.0|0.0|36|No
@@ -22060,6 +22174,7 @@ EPX|Travel Agency|Online|Cancellation Plan|36|CHINA|25.0|0.0|36|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|7|AUSTRALIA|59.4|35.64|34|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|23|VIET NAM|26.0|0.0|36|No
 EPX|Travel Agency|Online|Cancellation Plan|7|MALAYSIA|10.0|0.0|28|No
+C2B|Airlines|Online|Bronze Plan|17|SINGAPORE|23.5|5.88|31|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|18|THAILAND|20.0|0.0|45|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|2|SINGAPORE|20.0|0.0|41|No
 EPX|Travel Agency|Online|Cancellation Plan|79|PHILIPPINES|11.0|0.0|36|No
@@ -22067,6 +22182,7 @@ JZI|Airlines|Online|Basic Plan|176|KOREA, REPUBLIC OF|35.0|12.25|32|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|6|MALAYSIA|9.9|5.94|46|No
 C2B|Airlines|Online|Bronze Plan|16|SINGAPORE|13.5|3.38|22|Yes
 EPX|Travel Agency|Online|Cancellation Plan|19|THAILAND|15.0|0.0|36|No
+JWT|Airlines|Online|Value Plan|8|INDIA|31.0|12.4|118|No
 EPX|Travel Agency|Online|Cancellation Plan|67|THAILAND|15.0|0.0|36|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|48|THAILAND|20.0|0.0|33|No
 EPX|Travel Agency|Online|1 way Comprehensive Plan|16|KOREA, REPUBLIC OF|21.0|0.0|21|No
@@ -22076,6 +22192,7 @@ RAB|Airlines|Online|Value Plan|25|BRUNEI DARUSSALAM|15.0|6.0|55|No
 EPX|Travel Agency|Online|Cancellation Plan|45|ITALY|80.0|0.0|36|No
 C2B|Airlines|Online|Silver Plan|8|SINGAPORE|24.5|6.13|39|No
 EPX|Travel Agency|Online|1 way Comprehensive Plan|8|MALAYSIA|20.0|0.0|79|No
+C2B|Airlines|Online|Bronze Plan|5|SINGAPORE|16.0|4.0|31|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|18|CHINA|62.0|0.0|36|No
 C2B|Airlines|Online|Gold Plan|15|SINGAPORE|40.2|10.05|32|No
 C2B|Airlines|Online|Bronze Plan|11|SINGAPORE|27.0|6.75|47|No
@@ -22172,6 +22289,7 @@ EPX|Travel Agency|Online|2 way Comprehensive Plan|7|HONG KONG|21.0|0.0|54|No
 EPX|Travel Agency|Online|1 way Comprehensive Plan|21|INDIA|0.0|0.0|36|No
 EPX|Travel Agency|Online|1 way Comprehensive Plan|19|SINGAPORE|58.0|0.0|52|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|28|HONG KONG|20.0|0.0|22|No
+JZI|Airlines|Online|Basic Plan|6|INDONESIA|18.0|6.3|30|No
 C2B|Airlines|Online|Bronze Plan|32|SINGAPORE|39.0|9.75|26|No
 JZI|Airlines|Online|Value Plan|121|CHINA|58.0|20.3|38|No
 C2B|Airlines|Online|Bronze Plan|3|SINGAPORE|17.55|4.39|29|No
@@ -22225,6 +22343,7 @@ EPX|Travel Agency|Online|2 way Comprehensive Plan|42|CHINA|37.0|0.0|36|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|6|THAILAND|39.6|23.76|29|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|86|NEW ZEALAND|9.9|5.94|44|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|9|KOREA, REPUBLIC OF|58.0|0.0|36|No
+JZI|Airlines|Online|Basic Plan|9|THAILAND|22.0|7.7|69|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|173|KOREA, REPUBLIC OF|39.6|23.76|29|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|50|CHINA|60.0|0.0|36|No
 EPX|Travel Agency|Online|Cancellation Plan|17|HONG KONG|33.0|0.0|36|No
@@ -22240,6 +22359,7 @@ EPX|Travel Agency|Online|2 way Comprehensive Plan|6|INDONESIA|20.0|0.0|48|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|35|PHILIPPINES|20.0|0.0|36|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|17|AUSTRALIA|138.6|83.16|51|No
 C2B|Airlines|Online|Bronze Plan|10|SINGAPORE|23.5|5.88|37|No
+JZI|Airlines|Online|Basic Plan|15|THAILAND|18.0|6.3|48|No
 EPX|Travel Agency|Online|Cancellation Plan|43|SINGAPORE|10.0|0.0|33|No
 JZI|Airlines|Online|Basic Plan|33|CHINA|69.0|24.15|46|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|31|HONG KONG|27.0|0.0|36|No
@@ -22270,6 +22390,8 @@ EPX|Travel Agency|Online|Cancellation Plan|165|AUSTRALIA|32.0|0.0|36|No
 C2B|Airlines|Online|Annual Silver Plan|376|SINGAPORE|216.0|54.0|38|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|27|UNITED KINGDOM|29.7|17.82|55|No
 EPX|Travel Agency|Online|Cancellation Plan|10|KOREA, REPUBLIC OF|30.0|0.0|36|No
+JWT|Airlines|Online|Value Plan|5|INDIA|31.0|12.4|118|No
+C2B|Airlines|Online|Silver Plan|4|SINGAPORE|18.5|4.63|27|No
 EPX|Travel Agency|Online|Cancellation Plan|48|JAPAN|41.0|0.0|35|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|68|INDONESIA|20.0|0.0|29|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|26|CHINA|29.0|0.0|36|No
@@ -22432,6 +22554,7 @@ EPX|Travel Agency|Online|2 way Comprehensive Plan|23|INDONESIA|42.0|0.0|43|No
 SSI|Airlines|Online|Ticket Protector|11|SINGAPORE|9.77|2.74|48|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|17|MALAYSIA|20.0|0.0|39|No
 EPX|Travel Agency|Online|Cancellation Plan|69|UNITED STATES|80.0|0.0|33|No
+C2B|Airlines|Online|Bronze Plan|19|SINGAPORE|20.0|5.0|26|No
 C2B|Airlines|Online|Silver Plan|5|SINGAPORE|18.5|4.63|23|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|43|THAILAND|20.0|0.0|36|No
 EPX|Travel Agency|Online|Cancellation Plan|24|CHINA|43.0|0.0|36|No
@@ -22763,6 +22886,7 @@ CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|16|AUSTRALIA|59.4|35.64
 EPX|Travel Agency|Online|2 way Comprehensive Plan|47|CHINA|56.0|0.0|36|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|45|UKRAINE|112.0|0.0|36|No
 C2B|Airlines|Online|Silver Plan|26|SINGAPORE|53.95|13.49|83|No
+C2B|Airlines|Online|Bronze Plan|4|SINGAPORE|11.5|2.88|24|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|12|INDIA|78.0|0.0|36|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|8|INDONESIA|25.0|0.0|36|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|13|UNITED STATES|39.6|23.76|53|No
@@ -22829,6 +22953,7 @@ CCR|Travel Agency|Offline|Comprehensive Plan|8|THAILAND|29.0|9.57|10|No
 C2B|Airlines|Online|Bronze Plan|19|SINGAPORE|23.5|5.88|31|No
 JZI|Airlines|Online|Basic Plan|111|THAILAND|22.0|7.7|50|No
 EPX|Travel Agency|Online|Cancellation Plan|2|LAO PEOPLE'S DEMOCRATIC REPUBLIC|11.0|0.0|36|No
+C2B|Airlines|Online|Annual Silver Plan|364|SINGAPORE|252.85|63.21|34|No
 C2B|Airlines|Online|Bronze Plan|18|SINGAPORE|23.5|5.88|24|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|12|KOREA, REPUBLIC OF|62.0|0.0|31|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|26|CHINA|41.0|0.0|36|No
@@ -22837,6 +22962,7 @@ EPX|Travel Agency|Online|Cancellation Plan|111|PHILIPPINES|10.0|0.0|36|No
 EPX|Travel Agency|Online|Cancellation Plan|207|CHINA|24.0|0.0|35|No
 EPX|Travel Agency|Online|Cancellation Plan|24|SINGAPORE|21.0|0.0|35|No
 EPX|Travel Agency|Online|Cancellation Plan|23|THAILAND|43.0|0.0|36|No
+C2B|Airlines|Online|Bronze Plan|6|SINGAPORE|18.0|4.5|43|No
 SSI|Airlines|Online|Ticket Protector|21|SINGAPORE|9.83|2.76|48|No
 RAB|Airlines|Online|Value Plan|84|BRUNEI DARUSSALAM|23.0|9.2|56|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|149|NETHERLANDS|0.0|5.94|31|No
@@ -22979,6 +23105,7 @@ EPX|Travel Agency|Online|2 way Comprehensive Plan|79|FRANCE|79.0|0.0|36|No
 EPX|Travel Agency|Online|Cancellation Plan|32|THAILAND|17.0|0.0|30|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|5|INDIA|37.0|0.0|36|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|45|UNITED STATES|112.0|0.0|52|No
+JWT|Airlines|Online|Value Plan|7|INDIA|31.0|12.4|118|No
 RAB|Airlines|Online|Value Plan|16|BRUNEI DARUSSALAM|15.0|6.0|42|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|26|LAO PEOPLE'S DEMOCRATIC REPUBLIC|24.0|0.0|35|No
 C2B|Airlines|Online|Bronze Plan|47|SINGAPORE|0.0|8.13|37|No
@@ -23033,6 +23160,7 @@ EPX|Travel Agency|Online|Cancellation Plan|55|JAPAN|36.0|0.0|35|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|3|VIET NAM|52.0|0.0|36|No
 EPX|Travel Agency|Online|Cancellation Plan|25|INDIA|34.0|0.0|36|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|99|ITALY|138.6|83.16|60|No
+JZI|Airlines|Online|Basic Plan|2|INDONESIA|18.0|6.3|39|No
 JZI|Airlines|Online|Basic Plan|6|VIET NAM|18.0|6.3|27|No
 EPX|Travel Agency|Online|1 way Comprehensive Plan|28|NETHERLANDS|30.0|0.0|36|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|35|HONG KONG|29.0|0.0|35|No
@@ -23056,10 +23184,12 @@ EPX|Travel Agency|Online|Cancellation Plan|42|TURKEY|60.0|0.0|36|No
 EPX|Travel Agency|Online|Cancellation Plan|71|TAIWAN, PROVINCE OF CHINA|27.0|0.0|36|No
 EPX|Travel Agency|Online|Cancellation Plan|2|VIET NAM|11.0|0.0|36|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|12|NEW ZEALAND|19.8|11.88|31|No
+JZI|Airlines|Online|Basic Plan|39|HONG KONG|26.0|9.1|35|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|44|MALAYSIA|49.5|29.7|31|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|4|THAILAND|26.0|0.0|36|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|70|PHILIPPINES|28.0|0.0|36|No
 JZI|Airlines|Online|Basic Plan|15|CHINA|35.0|12.25|38|No
+JZI|Airlines|Online|Basic Plan|13|MALAYSIA|30.0|10.5|35|No
 EPX|Travel Agency|Online|Cancellation Plan|13|CHINA|26.0|0.0|36|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|82|CHILE|112.0|0.0|36|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|97|JAPAN|39.0|0.0|29|No
@@ -23145,6 +23275,8 @@ EPX|Travel Agency|Online|1 way Comprehensive Plan|7|THAILAND|20.0|0.0|36|No
 C2B|Airlines|Online|Annual Silver Plan|378|SINGAPORE|252.85|63.21|43|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|24|KOREA, REPUBLIC OF|67.0|0.0|36|No
 EPX|Travel Agency|Online|Cancellation Plan|87|UNITED STATES|10.0|0.0|31|No
+C2B|Airlines|Online|Annual Gold Plan|364|SINGAPORE|389.35|97.34|40|No
+TST|Travel Agency|Offline|Travel Cruise Protect|8|THAILAND|30.0|10.5|51|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|19|TAIWAN, PROVINCE OF CHINA|42.0|0.0|36|No
 TTW|Travel Agency|Offline|Spouse or Parents Comprehensive Plan|365|SINGAPORE|86.0|0.0|31|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|30|THAILAND|22.0|0.0|36|No
@@ -23186,6 +23318,7 @@ EPX|Travel Agency|Online|2 way Comprehensive Plan|114|UNITED ARAB EMIRATES|112.0
 EPX|Travel Agency|Online|2 way Comprehensive Plan|29|PHILIPPINES|35.0|0.0|36|No
 C2B|Airlines|Online|Bronze Plan|8|SINGAPORE|24.0|6.0|26|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|17|JAPAN|20.0|0.0|25|No
+JZI|Airlines|Online|Basic Plan|9|CHINA|22.0|7.7|66|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|51|AUSTRALIA|79.2|47.52|31|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|38|MALAYSIA|49.5|29.7|38|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|20|TAIWAN, PROVINCE OF CHINA|24.0|0.0|36|No
@@ -23208,6 +23341,7 @@ EPX|Travel Agency|Online|2 way Comprehensive Plan|20|THAILAND|36.0|0.0|36|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|35|AUSTRALIA|39.6|23.76|52|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|226|UNITED STATES|112.0|0.0|35|No
 EPX|Travel Agency|Online|Cancellation Plan|76|AUSTRALIA|18.0|0.0|36|No
+JWT|Airlines|Online|Value Plan|4|INDIA|78.0|31.2|118|No
 C2B|Airlines|Online|Bronze Plan|6|SINGAPORE|21.0|5.25|36|No
 RAB|Airlines|Online|Value Plan|55|BRUNEI DARUSSALAM|15.0|6.0|36|No
 EPX|Travel Agency|Online|Cancellation Plan|3|PHILIPPINES|54.0|0.0|36|No
@@ -23319,6 +23453,7 @@ C2B|Airlines|Online|Bronze Plan|29|SINGAPORE|56.5|14.13|61|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|10|SAUDI ARABIA|69.3|41.58|42|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|65|MALAYSIA|49.5|29.7|31|No
 EPX|Travel Agency|Online|Cancellation Plan|47|CHINA|39.0|0.0|36|No
+JWT|Airlines|Online|Value Plan|15|INDIA|50.0|20.0|118|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|12|THAILAND|20.0|0.0|37|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|20|SOUTH AFRICA|59.4|35.64|44|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|74|SPAIN|19.8|11.88|35|No
@@ -23488,6 +23623,7 @@ C2B|Airlines|Online|Bronze Plan|209|SINGAPORE|317.0|79.25|22|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|20|THAILAND|112.0|0.0|53|No
 JZI|Airlines|Online|Basic Plan|29|HONG KONG|22.0|7.7|43|No
 EPX|Travel Agency|Online|Cancellation Plan|1|AUSTRALIA|17.0|0.0|36|No
+RAB|Airlines|Online|Value Plan|6|BRUNEI DARUSSALAM|15.0|6.0|30|No
 EPX|Travel Agency|Offline|2 way Comprehensive Plan|19|TAIWAN, PROVINCE OF CHINA|37.0|0.0|36|No
 EPX|Travel Agency|Online|1 way Comprehensive Plan|5|CHINA|31.0|0.0|36|No
 EPX|Travel Agency|Online|Cancellation Plan|35|THAILAND|25.0|0.0|42|No
@@ -23639,6 +23775,7 @@ CBH|Travel Agency|Offline|Comprehensive Plan|8|THAILAND|29.0|9.57|22|No
 LWC|Travel Agency|Online|Annual Travel Protect Silver|381|UNITED STATES|287.25|186.71|27|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|80|INDIA|45.0|0.0|35|No
 EPX|Travel Agency|Online|1 way Comprehensive Plan|4|CAMBODIA|20.0|0.0|36|No
+C2B|Airlines|Online|Annual Gold Plan|364|SINGAPORE|333.0|83.25|32|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|11|INDIA|37.0|0.0|35|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|3|NETHERLANDS|29.7|17.82|38|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|72|UNITED STATES|198.0|118.8|33|No
@@ -23691,6 +23828,7 @@ CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|96|THAILAND|29.7|17.82|
 C2B|Airlines|Online|Silver Plan|4|SINGAPORE|25.9|6.47|70|No
 EPX|Travel Agency|Online|Cancellation Plan|21|HONG KONG|21.0|0.0|36|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|32|THAILAND|50.0|0.0|36|No
+C2B|Airlines|Online|Bronze Plan|3|SINGAPORE|13.5|3.38|25|No
 LWC|Travel Agency|Online|Single Trip Travel Protect Silver|7|INDONESIA|25.0|16.25|37|No
 EPX|Travel Agency|Online|Cancellation Plan|27|THAILAND|24.0|0.0|36|No
 EPX|Travel Agency|Online|Cancellation Plan|7|HONG KONG|19.0|0.0|36|No
@@ -23739,6 +23877,7 @@ CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|19|UNITED KINGDOM|59.4|
 EPX|Travel Agency|Online|2 way Comprehensive Plan|38|THAILAND|76.0|0.0|36|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|35|CANADA|99.0|59.4|31|No
 EPX|Travel Agency|Online|Cancellation Plan|19|SRI LANKA|20.0|0.0|36|No
+JZI|Airlines|Online|Basic Plan|12|THAILAND|22.0|7.7|46|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|76|UNITED ARAB EMIRATES|48.0|0.0|36|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|10|THAILAND|27.0|0.0|36|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|232|HONG KONG|21.0|0.0|36|No
@@ -23778,6 +23917,7 @@ EPX|Travel Agency|Online|1 way Comprehensive Plan|14|CHINA|52.0|0.0|36|No
 JZI|Airlines|Online|Basic Plan|63|INDIA|56.0|19.6|62|No
 EPX|Travel Agency|Online|Cancellation Plan|41|HONG KONG|17.0|0.0|36|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|192|GERMANY|99.0|59.4|31|No
+C2B|Airlines|Online|Silver Plan|6|SINGAPORE|18.5|4.63|27|No
 LWC|Travel Agency|Online|Single Trip Travel Protect Silver|92|THAILAND|25.0|16.25|51|No
 EPX|Travel Agency|Online|Cancellation Plan|82|PHILIPPINES|10.0|0.0|34|No
 JZI|Airlines|Online|Basic Plan|3|CHINA|22.0|7.7|40|No
@@ -23827,6 +23967,7 @@ EPX|Travel Agency|Online|Cancellation Plan|74|PHILIPPINES|33.0|0.0|36|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|81|CHINA|37.0|0.0|36|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|127|AUSTRALIA|49.5|29.7|31|No
 EPX|Travel Agency|Online|Cancellation Plan|14|SINGAPORE|16.0|0.0|32|No
+C2B|Airlines|Online|Bronze Plan|5|SINGAPORE|16.0|4.0|29|No
 JZI|Airlines|Online|Basic Plan|22|THAILAND|22.0|7.7|52|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|8|CAMBODIA|40.0|0.0|36|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|110|FRANCE|138.6|83.16|42|No
@@ -23873,6 +24014,7 @@ JZI|Airlines|Online|Basic Plan|18|CHINA|26.0|9.1|56|No
 EPX|Travel Agency|Online|Cancellation Plan|4|PHILIPPINES|22.0|0.0|36|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|10|HONG KONG|23.0|0.0|39|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|46|MALAYSIA|20.0|0.0|36|No
+RAB|Airlines|Online|Value Plan|6|BRUNEI DARUSSALAM|15.0|6.0|44|No
 EPX|Travel Agency|Online|Cancellation Plan|24|THAILAND|22.0|0.0|36|No
 EPX|Travel Agency|Online|Cancellation Plan|71|INDONESIA|13.0|0.0|36|No
 C2B|Airlines|Online|Silver Plan|23|SINGAPORE|53.95|13.49|37|No
@@ -23909,6 +24051,7 @@ EPX|Travel Agency|Online|Cancellation Plan|6|CAMBODIA|14.0|0.0|36|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|3|CAMBODIA|53.0|0.0|36|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|124|UNITED STATES|112.0|0.0|51|No
 EPX|Travel Agency|Online|Cancellation Plan|8|UNITED STATES|68.0|0.0|41|No
+C2B|Airlines|Online|Annual Silver Plan|375|SINGAPORE|216.0|54.0|34|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|21|BRAZIL|39.6|23.76|54|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|99|UNITED KINGDOM|69.3|41.58|48|No
 EPX|Travel Agency|Online|Cancellation Plan|67|UNITED STATES|30.0|0.0|61|No
@@ -24015,6 +24158,7 @@ LWC|Travel Agency|Online|Single Trip Travel Protect Gold|18|UNITED STATES|76.5|4
 JZI|Airlines|Online|Basic Plan|16|LAO PEOPLE'S DEMOCRATIC REPUBLIC|22.0|7.7|38|No
 C2B|Airlines|Online|Bronze Plan|5|SINGAPORE|21.0|5.25|24|No
 EPX|Travel Agency|Online|1 way Comprehensive Plan|40|SINGAPORE|55.0|0.0|36|No
+JZI|Airlines|Online|Basic Plan|2|CHINA|22.0|7.7|31|No
 JZI|Airlines|Online|Basic Plan|7|MYANMAR|18.0|6.3|35|No
 LWC|Travel Agency|Online|Single Trip Travel Protect Silver|52|AUSTRALIA|41.5|26.98|62|No
 EPX|Travel Agency|Online|1 way Comprehensive Plan|155|CAMBODIA|22.0|0.0|36|No
@@ -24121,6 +24265,7 @@ C2B|Airlines|Online|Annual Gold Plan|383|SINGAPORE|287.4|71.85|55|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|29|GERMANY|94.0|0.0|36|No
 JZI|Airlines|Online|Basic Plan|2|INDONESIA|18.0|6.3|52|No
 C2B|Airlines|Online|Annual Silver Plan|367|SINGAPORE|216.0|54.0|36|No
+JZI|Airlines|Online|Basic Plan|11|THAILAND|22.0|7.7|50|No
 EPX|Travel Agency|Online|Cancellation Plan|2|CHINA|15.0|0.0|27|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|28|AUSTRALIA|59.4|35.64|36|No
 C2B|Airlines|Online|Silver Plan|218|SINGAPORE|31.85|7.96|46|No
@@ -24129,6 +24274,7 @@ EPX|Travel Agency|Online|Cancellation Plan|63|MYANMAR|14.0|0.0|36|No
 RAB|Airlines|Online|Value Plan|30|BRUNEI DARUSSALAM|0.0|6.0|68|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|88|PHILIPPINES|24.0|0.0|36|No
 C2B|Airlines|Online|Bronze Plan|26|SINGAPORE|80.5|20.13|25|No
+JWT|Airlines|Online|Value Plan|5|INDIA|39.0|15.6|118|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|21|SINGAPORE|29.0|0.0|36|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|10|VIET NAM|23.0|0.0|36|No
 RAB|Airlines|Online|Value Plan|2|BRUNEI DARUSSALAM|15.0|6.0|28|No
@@ -24266,6 +24412,7 @@ C2B|Airlines|Online|Bronze Plan|68|SINGAPORE|27.0|6.75|59|No
 JZI|Airlines|Online|Basic Plan|9|KOREA, REPUBLIC OF|26.0|9.1|37|No
 EPX|Travel Agency|Online|Cancellation Plan|16|CHINA|30.0|0.0|36|No
 EPX|Travel Agency|Online|Cancellation Plan|49|CHINA|14.0|0.0|27|No
+JWT|Airlines|Online|Value Plan|14|INDIA|39.0|15.6|118|No
 EPX|Travel Agency|Online|Cancellation Plan|135|JAPAN|46.0|0.0|36|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|60|KOREA, REPUBLIC OF|59.0|0.0|36|No
 JZI|Airlines|Online|Value Plan|34|CHINA|69.0|24.15|41|No
@@ -24340,6 +24487,7 @@ EPX|Travel Agency|Online|Cancellation Plan|17|INDONESIA|14.0|0.0|33|No
 JZI|Airlines|Online|Basic Plan|14|CHINA|40.0|14.0|26|No
 CBH|Travel Agency|Offline|Comprehensive Plan|85|THAILAND|29.0|9.57|76|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|14|AUSTRALIA|69.3|41.58|33|No
+C2B|Airlines|Online|Bronze Plan|9|SINGAPORE|16.0|4.0|24|No
 EPX|Travel Agency|Online|Cancellation Plan|20|INDONESIA|15.0|0.0|40|No
 EPX|Travel Agency|Online|Cancellation Plan|7|CHINA|34.0|0.0|36|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|52|UNITED KINGDOM|112.0|0.0|36|No
@@ -24356,6 +24504,7 @@ EPX|Travel Agency|Online|Cancellation Plan|10|CHINA|42.0|0.0|36|No
 EPX|Travel Agency|Online|Cancellation Plan|27|PHILIPPINES|10.0|0.0|36|No
 C2B|Airlines|Online|Silver Plan|51|SINGAPORE|112.5|28.13|48|No
 EPX|Travel Agency|Online|Cancellation Plan|52|CHINA|30.0|0.0|36|No
+JWT|Airlines|Online|Value Plan|9|INDIA|39.0|15.6|118|No
 EPX|Travel Agency|Online|Cancellation Plan|6|VIET NAM|18.0|0.0|36|No
 JZI|Airlines|Online|Basic Plan|17|MYANMAR|22.0|7.7|51|No
 JZI|Airlines|Online|Basic Plan|53|INDONESIA|18.0|6.3|33|No
@@ -24472,6 +24621,7 @@ EPX|Travel Agency|Online|Cancellation Plan|4|MALAYSIA|16.0|0.0|36|No
 EPX|Travel Agency|Online|Cancellation Plan|45|CHINA|24.0|0.0|36|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|144|PHILIPPINES|0.0|0.0|37|No
 C2B|Airlines|Online|Annual Silver Plan|403|SINGAPORE|187.85|46.96|34|No
+C2B|Airlines|Online|Bronze Plan|5|SINGAPORE|13.5|3.38|30|No
 EPX|Travel Agency|Online|Cancellation Plan|58|UNITED STATES|28.0|0.0|27|No
 LWC|Travel Agency|Online|Single Trip Travel Protect Silver|27|BELGIUM|26.5|17.23|57|No
 EPX|Travel Agency|Online|Cancellation Plan|5|TAIWAN, PROVINCE OF CHINA|24.0|0.0|36|No
@@ -24707,6 +24857,7 @@ RAB|Airlines|Online|Value Plan|4|BRUNEI DARUSSALAM|15.0|6.0|31|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|4|VIET NAM|20.0|0.0|39|No
 C2B|Airlines|Online|Bronze Plan|9|SINGAPORE|23.4|5.85|49|No
 EPX|Travel Agency|Online|Cancellation Plan|8|MYANMAR|32.0|0.0|31|No
+C2B|Airlines|Online|Annual Silver Plan|368|SINGAPORE|216.0|54.0|28|No
 EPX|Travel Agency|Online|Cancellation Plan|20|SINGAPORE|10.0|0.0|27|No
 TST|Travel Agency|Offline|Travel Cruise Protect|64|THAILAND|30.0|10.5|41|No
 JZI|Airlines|Online|Basic Plan|33|MALAYSIA|52.0|18.2|23|No
@@ -24810,6 +24961,7 @@ C2B|Airlines|Online|Silver Plan|24|SINGAPORE|88.5|22.13|44|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|11|HONG KONG|43.0|0.0|36|No
 EPX|Travel Agency|Online|Cancellation Plan|5|CHINA|10.0|0.0|65|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|23|SPAIN|84.0|0.0|36|No
+C2B|Airlines|Online|Annual Silver Plan|364|SINGAPORE|216.0|54.0|50|No
 SSI|Airlines|Online|Ticket Protector|99|SINGAPORE|12.35|3.46|48|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|3|KOREA, REPUBLIC OF|26.0|0.0|36|No
 C2B|Airlines|Online|Annual Silver Plan|365|SINGAPORE|252.85|63.21|31|No
@@ -24901,6 +25053,7 @@ EPX|Travel Agency|Online|2 way Comprehensive Plan|11|PHILIPPINES|20.0|0.0|35|No
 C2B|Airlines|Online|Silver Plan|14|SINGAPORE|57.0|14.25|31|No
 C2B|Airlines|Online|Bronze Plan|19|SINGAPORE|60.0|15.0|31|Yes
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|158|KOREA, REPUBLIC OF|39.6|23.76|64|No
+C2B|Airlines|Online|Annual Silver Plan|365|SINGAPORE|216.0|54.0|42|No
 EPX|Travel Agency|Online|Cancellation Plan|10|CHINA|25.0|0.0|36|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|12|THAILAND|20.0|0.0|40|No
 EPX|Travel Agency|Online|Cancellation Plan|12|VIET NAM|15.0|0.0|36|No
@@ -24949,6 +25102,7 @@ CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|13|THAILAND|29.7|17.82|
 RAB|Airlines|Online|Value Plan|3|BRUNEI DARUSSALAM|15.0|6.0|35|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|65|AUSTRALIA|49.5|29.7|35|No
 JZI|Airlines|Online|Basic Plan|29|HONG KONG|26.0|9.1|38|No
+C2B|Airlines|Online|Silver Plan|5|SINGAPORE|22.5|5.63|31|No
 C2B|Airlines|Online|Bronze Plan|7|SINGAPORE|21.0|5.25|29|No
 EPX|Travel Agency|Online|Cancellation Plan|51|THAILAND|14.0|0.0|22|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|19|HONG KONG|26.0|0.0|36|No
@@ -25078,6 +25232,7 @@ JZI|Airlines|Online|Basic Plan|34|THAILAND|22.0|7.7|35|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|12|THAILAND|20.0|0.0|43|No
 C2B|Airlines|Online|Bronze Plan|11|SINGAPORE|20.0|5.0|33|No
 LWC|Travel Agency|Online|Single Trip Travel Protect Gold|17|HONG KONG|29.0|18.85|42|No
+RAB|Airlines|Online|Value Plan|0|BRUNEI DARUSSALAM|15.0|6.0|24|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|41|UNITED STATES|112.0|0.0|42|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|121|UNITED STATES|49.5|29.7|34|No
 C2B|Airlines|Online|Silver Plan|25|SINGAPORE|49.5|12.38|30|No
@@ -25136,6 +25291,7 @@ EPX|Travel Agency|Online|1 way Comprehensive Plan|8|VIET NAM|20.0|0.0|49|No
 EPX|Travel Agency|Online|Cancellation Plan|2|PORTUGAL|18.0|0.0|36|No
 C2B|Airlines|Online|Silver Plan|5|SINGAPORE|22.5|5.63|45|No
 C2B|Airlines|Online|Silver Plan|56|SINGAPORE|37.0|9.25|27|No
+C2B|Airlines|Online|Silver Plan|15|SINGAPORE|72.0|18.0|30|No
 EPX|Travel Agency|Online|Cancellation Plan|24|THAILAND|12.0|0.0|36|No
 EPX|Travel Agency|Online|1 way Comprehensive Plan|11|SINGAPORE|42.0|0.0|36|No
 RAB|Airlines|Online|Value Plan|15|BRUNEI DARUSSALAM|23.0|9.2|37|No
@@ -25178,6 +25334,7 @@ CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|102|AUSTRALIA|59.4|35.6
 C2B|Airlines|Online|Annual Silver Plan|376|SINGAPORE|216.0|54.0|55|No
 EPX|Travel Agency|Online|Cancellation Plan|67|SINGAPORE|40.0|0.0|30|No
 EPX|Travel Agency|Online|Cancellation Plan|199|VIET NAM|15.0|0.0|36|No
+C2B|Airlines|Online|Annual Silver Plan|387|SINGAPORE|216.0|54.0|59|No
 EPX|Travel Agency|Online|Cancellation Plan|19|INDONESIA|25.0|0.0|36|No
 EPX|Travel Agency|Online|1 way Comprehensive Plan|27|JAPAN|29.0|0.0|36|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|21|PHILIPPINES|28.0|0.0|36|No
@@ -25385,6 +25542,7 @@ C2B|Airlines|Online|Annual Silver Plan|396|SINGAPORE|161.0|40.25|33|No
 JZI|Airlines|Online|Basic Plan|211|THAILAND|22.0|7.7|58|No
 EPX|Travel Agency|Online|Cancellation Plan|10|TAIWAN, PROVINCE OF CHINA|37.0|0.0|46|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|30|CHINA|34.0|0.0|36|No
+TST|Travel Agency|Offline|Travel Cruise Protect|10|THAILAND|30.0|10.5|52|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|60|SWITZERLAND|138.6|83.16|44|No
 LWC|Travel Agency|Online|Annual Travel Protect Gold|410|UNITED STATES|256.2|166.53|58|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|51|MALAYSIA|19.8|11.88|48|No
@@ -25538,6 +25696,7 @@ EPX|Travel Agency|Online|2 way Comprehensive Plan|35|ITALY|51.0|0.0|36|No
 EPX|Travel Agency|Online|Cancellation Plan|11|JAPAN|13.0|0.0|36|No
 EPX|Travel Agency|Online|1 way Comprehensive Plan|44|UNITED KINGDOM|32.0|0.0|36|No
 SSI|Airlines|Online|Ticket Protector|235|SINGAPORE|0.19|0.05|48|No
+JZI|Airlines|Online|Basic Plan|15|CHINA|35.0|12.25|32|No
 JZI|Airlines|Online|Basic Plan|8|INDONESIA|18.0|6.3|32|No
 EPX|Travel Agency|Online|Cancellation Plan|12|SINGAPORE|20.0|0.0|36|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|18|INDONESIA|19.8|11.88|31|No
@@ -25946,6 +26105,7 @@ CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|16|MALAYSIA|39.6|23.76|
 EPX|Travel Agency|Online|Cancellation Plan|6|HONG KONG|13.0|0.0|36|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|24|CHINA|27.0|0.0|36|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|52|UNITED STATES|69.3|41.58|53|No
+JZI|Airlines|Online|Basic Plan|7|MALAYSIA|18.0|6.3|53|No
 EPX|Travel Agency|Online|1 way Comprehensive Plan|18|PHILIPPINES|20.0|0.0|29|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|28|CHINA|38.0|0.0|36|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|79|INDONESIA|30.0|0.0|36|No
@@ -25974,8 +26134,10 @@ EPX|Travel Agency|Online|Cancellation Plan|12|HONG KONG|10.0|0.0|36|No
 EPX|Travel Agency|Offline|2 way Comprehensive Plan|28|SINGAPORE|24.0|0.0|118|No
 RAB|Airlines|Online|Value Plan|96|BRUNEI DARUSSALAM|15.0|6.0|47|No
 C2B|Airlines|Online|Bronze Plan|156|SINGAPORE|29.5|7.38|52|No
+JWT|Airlines|Online|Value Plan|12|INDIA|39.0|15.6|118|No
 C2B|Airlines|Online|Silver Plan|16|SINGAPORE|67.8|16.95|59|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|101|JAPAN|9.9|5.94|48|No
+C2B|Airlines|Online|Bronze Plan|14|SINGAPORE|60.0|15.0|26|No
 JZI|Airlines|Online|Basic Plan|12|INDIA|22.0|7.7|23|No
 C2B|Airlines|Online|Annual Gold Plan|364|SINGAPORE|333.0|83.25|30|No
 EPX|Travel Agency|Online|Cancellation Plan|40|UNITED STATES|75.0|0.0|31|No
@@ -25996,6 +26158,7 @@ EPX|Travel Agency|Online|Cancellation Plan|90|UNITED STATES|80.0|0.0|46|No
 EPX|Travel Agency|Online|Cancellation Plan|59|JAPAN|80.0|0.0|36|No
 JZI|Airlines|Online|Basic Plan|118|TAIWAN, PROVINCE OF CHINA|26.0|9.1|36|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|58|MALAYSIA|20.0|0.0|36|No
+C2B|Airlines|Online|Silver Plan|8|SINGAPORE|22.5|5.63|25|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|37|CROATIA|79.2|47.52|24|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|29|AUSTRALIA|20.0|0.0|36|No
 EPX|Travel Agency|Online|Cancellation Plan|8|OMAN|59.0|0.0|36|No
@@ -26092,6 +26255,7 @@ C2B|Airlines|Online|Bronze Plan|7|SINGAPORE|21.0|5.25|35|No
 EPX|Travel Agency|Online|Cancellation Plan|17|AUSTRALIA|28.0|0.0|36|No
 JWT|Airlines|Online|Value Plan|45|INDIA|50.0|20.0|118|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|11|SRI LANKA|35.0|0.0|36|No
+C2B|Airlines|Online|Bronze Plan|5|SINGAPORE|13.5|3.38|35|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|53|UNITED STATES|29.7|17.82|25|No
 C2B|Airlines|Online|Bronze Plan|11|SINGAPORE|17.55|4.39|55|No
 EPX|Travel Agency|Online|1 way Comprehensive Plan|3|SWITZERLAND|77.0|0.0|36|No
@@ -26162,6 +26326,7 @@ EPX|Travel Agency|Online|Cancellation Plan|10|PHILIPPINES|10.0|0.0|31|No
 JZI|Airlines|Online|Basic Plan|84|HONG KONG|35.0|12.25|40|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|20|VIET NAM|20.0|0.0|29|No
 EPX|Travel Agency|Online|Cancellation Plan|7|MYANMAR|53.0|0.0|36|No
+JZI|Airlines|Online|Basic Plan|7|INDONESIA|22.0|7.7|28|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|15|CHINA|40.0|0.0|35|No
 EPX|Travel Agency|Online|Cancellation Plan|43|JAPAN|80.0|0.0|36|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|9|SRI LANKA|24.0|0.0|36|No
@@ -26222,6 +26387,7 @@ EPX|Travel Agency|Online|Cancellation Plan|13|INDIA|38.0|0.0|35|No
 EPX|Travel Agency|Online|Cancellation Plan|117|RUSSIAN FEDERATION|16.0|0.0|36|No
 EPX|Travel Agency|Online|Cancellation Plan|10|INDONESIA|10.0|0.0|46|No
 EPX|Travel Agency|Online|Cancellation Plan|11|PHILIPPINES|10.0|0.0|28|No
+JWT|Airlines|Online|Value Plan|39|INDIA|31.0|12.4|118|No
 EPX|Travel Agency|Online|1 way Comprehensive Plan|30|GERMANY|76.0|0.0|36|No
 C2B|Airlines|Online|Annual Silver Plan|367|SINGAPORE|216.0|54.0|32|No
 EPX|Travel Agency|Online|1 way Comprehensive Plan|53|SINGAPORE|24.0|0.0|37|No
@@ -26370,6 +26536,7 @@ EPX|Travel Agency|Online|2 way Comprehensive Plan|3|THAILAND|45.0|0.0|36|No
 EPX|Travel Agency|Online|Cancellation Plan|43|UNITED STATES|80.0|0.0|54|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|32|AUSTRIA|19.8|11.88|31|No
 JZI|Airlines|Online|Basic Plan|7|MALAYSIA|18.0|6.3|27|No
+C2B|Airlines|Online|Annual Silver Plan|367|SINGAPORE|216.0|54.0|55|No
 JZI|Airlines|Online|Basic Plan|143|THAILAND|22.0|7.7|42|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|14|CHINA|49.5|29.7|34|No
 JZI|Airlines|Online|Basic Plan|266|PHILIPPINES|37.0|12.95|27|No
@@ -26386,8 +26553,10 @@ JZI|Airlines|Online|Basic Plan|45|PHILIPPINES|42.0|14.7|45|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|42|UNITED STATES|34.0|0.0|37|No
 C2B|Airlines|Online|Bronze Plan|18|SINGAPORE|53.5|13.38|28|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|13|AUSTRALIA|49.5|29.7|31|No
+KML|Travel Agency|Online|Premier Plan|32|INDONESIA|49.0|18.62|48|No
 JZI|Airlines|Online|Value Plan|40|JAPAN|45.0|15.75|41|No
 C2B|Airlines|Online|Annual Silver Plan|394|SINGAPORE|216.0|54.0|40|No
+JZI|Airlines|Online|Basic Plan|4|CHINA|22.0|7.7|32|No
 JZI|Airlines|Online|Basic Plan|17|JAPAN|35.0|12.25|44|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|27|NORWAY|39.6|23.76|52|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|12|ITALY|59.4|35.64|57|No
@@ -26450,6 +26619,7 @@ JZI|Airlines|Online|Basic Plan|8|THAILAND|22.0|7.7|34|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|10|THAILAND|19.8|11.88|26|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|35|INDONESIA|20.0|0.0|60|No
 JZI|Airlines|Online|Basic Plan|45|HONG KONG|26.0|9.1|37|No
+JWT|Airlines|Online|Value Plan|8|INDIA|100.0|40.0|118|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|5|INDONESIA|25.0|0.0|36|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|77|INDONESIA|31.0|0.0|36|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|20|AUSTRALIA|39.6|23.76|53|No
@@ -26521,6 +26691,7 @@ EPX|Travel Agency|Online|Cancellation Plan|56|JAPAN|33.0|0.0|36|No
 C2B|Airlines|Online|Bronze Plan|34|SINGAPORE|20.0|5.0|27|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|46|SINGAPORE|31.0|0.0|35|No
 EPX|Travel Agency|Online|Cancellation Plan|75|KOREA, REPUBLIC OF|15.0|0.0|32|No
+C2B|Airlines|Online|Bronze Plan|5|SINGAPORE|13.5|3.38|57|No
 JZI|Airlines|Online|Basic Plan|25|CHINA|40.0|14.0|48|No
 EPX|Travel Agency|Online|1 way Comprehensive Plan|15|UNITED STATES|20.0|0.0|24|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|4|NEW ZEALAND|29.7|17.82|31|No
@@ -26560,6 +26731,7 @@ EPX|Travel Agency|Online|2 way Comprehensive Plan|35|THAILAND|34.0|0.0|36|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|4|MALAYSIA|29.7|17.82|35|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|95|THAILAND|20.0|0.0|28|No
 EPX|Travel Agency|Online|Cancellation Plan|64|MALAYSIA|10.0|0.0|61|No
+KML|Travel Agency|Online|Value Plan|17|INDONESIA|28.0|10.64|48|No
 EPX|Travel Agency|Online|Cancellation Plan|115|SINGAPORE|48.0|0.0|35|No
 EPX|Travel Agency|Online|Cancellation Plan|3|MALAYSIA|14.0|0.0|47|No
 RAB|Airlines|Online|Value Plan|4|BRUNEI DARUSSALAM|15.0|6.0|59|No
@@ -26607,6 +26779,7 @@ JZI|Airlines|Online|Value Plan|63|AUSTRALIA|45.0|15.75|48|No
 EPX|Travel Agency|Online|Cancellation Plan|15|MALAYSIA|10.0|0.0|49|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|6|CAMBODIA|27.0|0.0|36|No
 C2B|Airlines|Online|Bronze Plan|75|SINGAPORE|36.0|9.0|30|No
+C2B|Airlines|Online|Silver Plan|17|SINGAPORE|63.5|15.88|26|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|8|THAILAND|40.0|0.0|36|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|9|MALAYSIA|39.6|23.76|33|No
 C2B|Airlines|Online|Silver Plan|47|SINGAPORE|0.0|10.89|25|No
@@ -26720,12 +26893,14 @@ EPX|Travel Agency|Online|1 way Comprehensive Plan|18|UNITED STATES|97.0|0.0|48|N
 EPX|Travel Agency|Online|2 way Comprehensive Plan|39|PHILIPPINES|20.0|0.0|36|No
 EPX|Travel Agency|Online|Cancellation Plan|14|SINGAPORE|0.0|0.0|36|No
 JZI|Airlines|Online|Value Plan|3|VIET NAM|26.0|9.1|37|No
+JZI|Airlines|Online|Basic Plan|3|CHINA|22.0|7.7|33|No
 C2B|Airlines|Online|Silver Plan|25|SINGAPORE|106.2|26.55|28|No
 C2B|Airlines|Online|Bronze Plan|6|SINGAPORE|25.2|6.3|24|No
 C2B|Airlines|Online|Bronze Plan|27|SINGAPORE|25.2|6.3|24|No
 EPX|Travel Agency|Online|Cancellation Plan|2|MALAYSIA|10.0|0.0|45|No
 JZI|Airlines|Online|Value Plan|20|AUSTRALIA|45.0|15.75|40|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|56|THAILAND|22.0|0.0|36|No
+JZI|Airlines|Online|Basic Plan|22|CHINA|26.0|9.1|40|No
 EPX|Travel Agency|Online|1 way Comprehensive Plan|1|MALAYSIA|20.0|0.0|35|No
 SSI|Airlines|Online|Ticket Protector|59|SINGAPORE|4.31|1.21|48|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|21|UNITED STATES|99.0|0.0|59|No
@@ -26765,6 +26940,7 @@ JZI|Airlines|Online|Basic Plan|83|INDONESIA|37.0|12.95|36|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|4|AUSTRALIA|29.7|17.82|37|No
 EPX|Travel Agency|Online|Cancellation Plan|4|INDIA|29.0|0.0|36|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|21|FRANCE|69.3|41.58|31|No
+C2B|Airlines|Online|Annual Silver Plan|368|SINGAPORE|252.85|63.21|43|No
 EPX|Travel Agency|Online|Cancellation Plan|24|INDIA|39.0|0.0|36|No
 EPX|Travel Agency|Online|Cancellation Plan|77|PHILIPPINES|18.0|0.0|36|No
 C2B|Airlines|Online|Bronze Plan|33|SINGAPORE|17.0|4.25|36|No
@@ -27110,6 +27286,7 @@ C2B|Airlines|Online|Bronze Plan|13|SINGAPORE|17.0|4.25|39|No
 JZI|Airlines|Online|Basic Plan|46|INDONESIA|22.0|7.7|27|No
 EPX|Travel Agency|Online|Cancellation Plan|20|INDONESIA|17.0|0.0|36|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|31|SINGAPORE|112.0|0.0|46|No
+C2B|Airlines|Online|Silver Plan|10|SINGAPORE|39.0|9.75|39|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|74|UNITED STATES|112.0|0.0|42|No
 EPX|Travel Agency|Online|Cancellation Plan|19|POLAND|67.0|0.0|36|No
 C2B|Airlines|Online|Bronze Plan|102|SINGAPORE|29.5|7.38|79|No
@@ -27188,6 +27365,7 @@ SSI|Airlines|Online|Ticket Protector|55|SINGAPORE|3.99|1.12|48|No
 EPX|Travel Agency|Online|Cancellation Plan|20|UNITED KINGDOM|48.0|0.0|36|No
 EPX|Travel Agency|Online|Cancellation Plan|9|SINGAPORE|75.0|0.0|36|No
 EPX|Travel Agency|Online|Cancellation Plan|13|UNITED STATES|80.0|0.0|38|No
+C2B|Airlines|Online|Bronze Plan|6|SINGAPORE|18.0|4.5|31|No
 EPX|Travel Agency|Online|Cancellation Plan|10|LAO PEOPLE'S DEMOCRATIC REPUBLIC|13.0|0.0|36|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|16|PHILIPPINES|50.0|0.0|36|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|13|THAILAND|32.0|0.0|36|No
@@ -27286,12 +27464,14 @@ RAB|Airlines|Online|Value Plan|10|BRUNEI DARUSSALAM|23.0|9.2|44|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|19|AUSTRALIA|79.2|47.52|31|No
 EPX|Travel Agency|Online|1 way Comprehensive Plan|11|CHINA|36.0|0.0|36|No
 JZI|Airlines|Online|Basic Plan|5|THAILAND|18.0|6.3|50|No
+KML|Travel Agency|Online|Value Plan|39|INDONESIA|28.0|10.64|48|No
 C2B|Airlines|Online|Silver Plan|27|SINGAPORE|57.0|14.25|30|No
 EPX|Travel Agency|Online|Cancellation Plan|36|INDONESIA|10.0|0.0|46|No
 EPX|Travel Agency|Online|Cancellation Plan|38|AUSTRALIA|22.0|0.0|36|No
 C2B|Airlines|Online|Bronze Plan|15|SINGAPORE|23.5|5.88|69|No
 ADM|Travel Agency|Online|Premier Plan|14|FRANCE|86.0|32.68|21|No
 EPX|Travel Agency|Online|Cancellation Plan|130|AUSTRALIA|25.0|0.0|36|No
+JWT|Airlines|Online|Value Plan|10|INDIA|39.0|15.6|118|No
 EPX|Travel Agency|Online|Cancellation Plan|6|INDIA|23.0|0.0|36|No
 EPX|Travel Agency|Online|Cancellation Plan|56|PHILIPPINES|19.0|0.0|27|No
 JZI|Airlines|Online|Basic Plan|8|INDONESIA|18.0|6.3|26|No
@@ -27390,6 +27570,7 @@ EPX|Travel Agency|Online|2 way Comprehensive Plan|18|JAPAN|34.0|0.0|36|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|13|CHINA|25.0|0.0|36|No
 EPX|Travel Agency|Online|Cancellation Plan|9|VIET NAM|30.0|0.0|36|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|49|AUSTRALIA|51.0|0.0|41|No
+KML|Travel Agency|Online|Premier Plan|18|NETHERLANDS|111.0|42.18|48|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|13|THAILAND|28.0|0.0|55|No
 EPX|Travel Agency|Online|Cancellation Plan|12|THAILAND|10.0|0.0|38|No
 C2B|Airlines|Online|Bronze Plan|14|SINGAPORE|47.0|11.75|34|No
@@ -27443,6 +27624,7 @@ EPX|Travel Agency|Online|1 way Comprehensive Plan|4|INDONESIA|20.0|0.0|39|No
 EPX|Travel Agency|Online|1 way Comprehensive Plan|23|SINGAPORE|75.0|0.0|36|No
 EPX|Travel Agency|Online|1 way Comprehensive Plan|13|INDONESIA|20.0|0.0|43|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|54|AUSTRALIA|49.5|29.7|28|No
+C2B|Airlines|Online|Annual Silver Plan|366|SINGAPORE|216.0|54.0|35|No
 EPX|Travel Agency|Online|Cancellation Plan|29|UNITED KINGDOM|53.0|0.0|36|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|9|ITALY|59.4|35.64|53|No
 C2B|Airlines|Online|Bronze Plan|17|SINGAPORE|17.55|4.39|29|No
@@ -27851,6 +28033,7 @@ EPX|Travel Agency|Online|Cancellation Plan|15|SRI LANKA|24.0|0.0|36|No
 SSI|Airlines|Online|Ticket Protector|85|SINGAPORE|1.32|0.37|48|No
 JZI|Airlines|Online|Basic Plan|9|INDIA|35.0|12.25|38|No
 JZI|Airlines|Online|Basic Plan|30|THAILAND|22.0|7.7|55|No
+JZI|Airlines|Online|Basic Plan|7|MALAYSIA|22.0|7.7|32|No
 JZI|Airlines|Online|Basic Plan|11|HONG KONG|26.0|9.1|46|No
 C2B|Airlines|Online|Silver Plan|7|SINGAPORE|24.05|6.01|49|No
 C2B|Airlines|Online|Silver Plan|21|SINGAPORE|81.5|20.38|17|No
@@ -27873,6 +28056,7 @@ CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|20|AUSTRIA|79.2|47.52|2
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|26|MALAYSIA|59.4|35.64|66|No
 EPX|Travel Agency|Online|Cancellation Plan|9|CHINA|19.0|0.0|36|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|20|UNITED KINGDOM|9.9|5.94|73|No
+C2B|Airlines|Online|Bronze Plan|6|SINGAPORE|21.0|5.25|39|No
 EPX|Travel Agency|Online|Cancellation Plan|61|TAIWAN, PROVINCE OF CHINA|18.0|0.0|24|No
 EPX|Travel Agency|Online|Cancellation Plan|23|TAIWAN, PROVINCE OF CHINA|10.0|0.0|23|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|17|THAILAND|24.0|0.0|36|No
@@ -27949,6 +28133,7 @@ CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|24|AUSTRALIA|29.7|17.82
 JZI|Airlines|Online|Value Plan|117|UNITED STATES|164.0|57.4|45|No
 EPX|Travel Agency|Online|Cancellation Plan|5|MYANMAR|39.0|0.0|36|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|69|AUSTRALIA|69.3|41.58|41|No
+C2B|Airlines|Online|Bronze Plan|8|SINGAPORE|17.0|4.25|31|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|30|THAILAND|21.0|0.0|36|No
 CBH|Travel Agency|Offline|Comprehensive Plan|85|THAILAND|29.0|9.57|79|No
 JZI|Airlines|Online|Basic Plan|75|THAILAND|22.0|7.7|36|No
@@ -27985,6 +28170,7 @@ EPX|Travel Agency|Online|Cancellation Plan|15|THAILAND|15.0|0.0|36|No
 JZI|Airlines|Online|Basic Plan|31|THAILAND|22.0|7.7|58|No
 JZI|Airlines|Online|Basic Plan|77|THAILAND|22.0|7.7|25|No
 JZI|Airlines|Online|Value Plan|10|CHINA|45.0|15.75|47|No
+C2B|Airlines|Online|Annual Silver Plan|371|SINGAPORE|216.0|54.0|38|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|135|ICELAND|0.0|41.58|56|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|3|AUSTRALIA|0.0|0.0|36|No
 C2B|Airlines|Online|Annual Silver Plan|365|SINGAPORE|216.0|54.0|71|No
@@ -28153,6 +28339,7 @@ EPX|Travel Agency|Online|2 way Comprehensive Plan|44|UNITED STATES|112.0|0.0|26|
 EPX|Travel Agency|Online|1 way Comprehensive Plan|2|UNITED STATES|20.0|0.0|48|No
 C2B|Airlines|Online|Silver Plan|30|SINGAPORE|78.5|19.63|50|No
 EPX|Travel Agency|Online|Cancellation Plan|16|VIET NAM|14.0|0.0|36|No
+TST|Travel Agency|Offline|Travel Cruise Protect|72|MALAYSIA|30.0|10.5|58|No
 EPX|Travel Agency|Online|Cancellation Plan|109|UNITED KINGDOM|80.0|0.0|60|No
 EPX|Travel Agency|Online|1 way Comprehensive Plan|92|MALAYSIA|20.0|0.0|73|No
 EPX|Travel Agency|Online|Cancellation Plan|7|VIET NAM|10.0|0.0|36|No
@@ -28180,6 +28367,7 @@ EPX|Travel Agency|Online|Cancellation Plan|91|SINGAPORE|43.0|0.0|36|No
 EPX|Travel Agency|Online|Cancellation Plan|16|LAO PEOPLE'S DEMOCRATIC REPUBLIC|25.0|0.0|36|No
 EPX|Travel Agency|Online|Cancellation Plan|44|INDONESIA|10.0|0.0|36|No
 EPX|Travel Agency|Online|Cancellation Plan|14|PHILIPPINES|39.0|0.0|35|No
+C2B|Airlines|Online|Annual Silver Plan|364|SINGAPORE|252.85|63.21|32|No
 EPX|Travel Agency|Online|Cancellation Plan|48|PHILIPPINES|0.0|0.0|36|No
 EPX|Travel Agency|Online|Cancellation Plan|25|PHILIPPINES|23.0|0.0|36|No
 EPX|Travel Agency|Online|Cancellation Plan|22|THAILAND|13.0|0.0|25|No
@@ -28279,6 +28467,7 @@ C2B|Airlines|Online|Annual Silver Plan|395|SINGAPORE|252.85|63.21|26|No
 ART|Airlines|Online|Value Plan|163|CHINA|110.0|38.5|118|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|40|NEW ZEALAND|148.5|89.1|30|No
 EPX|Travel Agency|Online|Cancellation Plan|16|VIET NAM|10.0|0.0|58|No
+JWT|Airlines|Online|Value Plan|31|INDIA|31.0|12.4|118|No
 EPX|Travel Agency|Online|Cancellation Plan|28|CHINA|24.0|0.0|36|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|14|MALAYSIA|0.0|29.7|27|No
 EPX|Travel Agency|Online|Cancellation Plan|23|THAILAND|13.0|0.0|41|No
@@ -28337,6 +28526,7 @@ EPX|Travel Agency|Online|Cancellation Plan|45|AUSTRALIA|36.0|0.0|36|No
 EPX|Travel Agency|Online|Cancellation Plan|59|KOREA, REPUBLIC OF|28.0|0.0|36|No
 C2B|Airlines|Online|Annual Silver Plan|365|SINGAPORE|301.0|75.25|41|No
 EPX|Travel Agency|Online|Cancellation Plan|263|UNITED ARAB EMIRATES|53.0|0.0|36|No
+JZI|Airlines|Online|Basic Plan|7|THAILAND|22.0|7.7|47|No
 KML|Travel Agency|Online|Value Plan|28|INDONESIA|33.0|12.54|48|No
 JZI|Airlines|Online|Basic Plan|3|MALAYSIA|18.0|6.3|63|No
 EPX|Travel Agency|Online|Cancellation Plan|7|VIET NAM|12.0|0.0|36|No
@@ -28376,6 +28566,7 @@ EPX|Travel Agency|Online|1 way Comprehensive Plan|48|INDONESIA|23.0|0.0|36|No
 EPX|Travel Agency|Online|Cancellation Plan|91|KOREA, REPUBLIC OF|69.0|0.0|36|No
 C2B|Airlines|Online|Annual Silver Plan|365|SINGAPORE|187.85|46.96|59|No
 EPX|Travel Agency|Online|Cancellation Plan|16|SINGAPORE|10.0|0.0|35|No
+JZI|Airlines|Online|Basic Plan|9|THAILAND|22.0|7.7|42|No
 JZI|Airlines|Online|Basic Plan|80|CHINA|26.0|9.1|55|No
 JZI|Airlines|Online|Basic Plan|14|INDIA|35.0|12.25|25|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|8|AUSTRALIA|101.0|0.0|36|No
@@ -28497,6 +28688,7 @@ EPX|Travel Agency|Online|Cancellation Plan|9|INDONESIA|21.0|0.0|36|No
 LWC|Travel Agency|Online|Single Trip Travel Protect Platinum|28|THAILAND|31.0|20.15|51|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|22|CHINA|49.0|0.0|36|No
 LWC|Travel Agency|Online|Annual Travel Protect Silver|428|CHINA|165.0|107.25|41|No
+C2B|Airlines|Online|Bronze Plan|26|SINGAPORE|33.5|8.38|30|No
 C2B|Airlines|Online|Silver Plan|19|SINGAPORE|24.05|6.01|43|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|57|PHILIPPINES|20.0|0.0|41|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|8|THAILAND|20.0|0.0|24|No
@@ -28550,6 +28742,7 @@ EPX|Travel Agency|Online|Cancellation Plan|18|INDONESIA|10.0|0.0|25|No
 EPX|Travel Agency|Online|Cancellation Plan|62|FRANCE|14.0|0.0|36|No
 EPX|Travel Agency|Online|Cancellation Plan|4|MALAYSIA|10.0|0.0|64|No
 EPX|Travel Agency|Online|Cancellation Plan|73|GERMANY|20.0|0.0|36|No
+C2B|Airlines|Online|Bronze Plan|8|SINGAPORE|16.0|4.0|36|No
 EPX|Travel Agency|Online|Cancellation Plan|76|MALAYSIA|10.0|0.0|37|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|24|TAIWAN, PROVINCE OF CHINA|27.0|0.0|36|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|132|INDONESIA|20.0|0.0|36|No
@@ -28579,6 +28772,7 @@ EPX|Travel Agency|Online|Cancellation Plan|10|HONG KONG|30.0|0.0|36|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|16|TAIWAN, PROVINCE OF CHINA|22.0|0.0|36|No
 EPX|Travel Agency|Online|Cancellation Plan|6|JAPAN|44.0|0.0|36|No
 C2B|Airlines|Online|Bronze Plan|3|SINGAPORE|13.5|3.38|35|No
+C2B|Airlines|Online|Bronze Plan|5|SINGAPORE|13.5|3.38|26|No
 C2B|Airlines|Online|Bronze Plan|67|SINGAPORE|93.0|23.25|35|No
 EPX|Travel Agency|Online|Cancellation Plan|103|CHINA|25.0|0.0|60|No
 EPX|Travel Agency|Online|Cancellation Plan|21|PHILIPPINES|28.0|0.0|36|No
@@ -28588,6 +28782,7 @@ JZI|Airlines|Online|Basic Plan|61|CHINA|44.0|15.4|21|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|15|UNITED STATES|148.5|89.1|44|No
 EPX|Travel Agency|Online|Cancellation Plan|27|CHINA|11.0|0.0|36|No
 EPX|Travel Agency|Online|Cancellation Plan|10|VIET NAM|10.0|0.0|28|No
+RAB|Airlines|Online|Value Plan|2|BRUNEI DARUSSALAM|15.0|6.0|36|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|22|THAILAND|22.0|0.0|32|No
 C2B|Airlines|Online|Bronze Plan|18|SINGAPORE|23.5|5.88|60|No
 JZI|Airlines|Online|Basic Plan|13|PHILIPPINES|18.0|6.3|26|No
@@ -28676,6 +28871,7 @@ EPX|Travel Agency|Online|2 way Comprehensive Plan|3|PHILIPPINES|20.0|0.0|43|No
 EPX|Travel Agency|Online|Cancellation Plan|5|VIET NAM|10.0|0.0|30|No
 EPX|Travel Agency|Online|1 way Comprehensive Plan|34|SINGAPORE|20.0|0.0|28|No
 C2B|Airlines|Online|Gold Plan|235|SINGAPORE|99.45|24.86|41|Yes
+C2B|Airlines|Online|Bronze Plan|12|SINGAPORE|33.5|8.38|30|No
 TST|Travel Agency|Offline|Travel Cruise Protect|8|MALAYSIA|30.0|10.5|56|No
 C2B|Airlines|Online|Bronze Plan|21|SINGAPORE|39.0|9.75|40|No
 EPX|Travel Agency|Online|Cancellation Plan|61|PHILIPPINES|12.0|0.0|41|No
@@ -28748,6 +28944,7 @@ CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|37|FRANCE|207.9|124.74|
 C2B|Airlines|Online|Annual Silver Plan|375|SINGAPORE|252.85|63.21|46|Yes
 SSI|Airlines|Online|Ticket Protector|18|SINGAPORE|0.77|0.22|48|No
 EPX|Travel Agency|Online|Cancellation Plan|16|LAO PEOPLE'S DEMOCRATIC REPUBLIC|15.0|0.0|36|No
+C2B|Airlines|Online|Bronze Plan|7|SINGAPORE|13.5|3.38|36|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|15|CHINA|55.0|0.0|36|No
 LWC|Travel Agency|Online|Annual Travel Protect Gold|401|UNITED STATES|256.2|166.53|51|No
 JZI|Airlines|Online|Basic Plan|81|AUSTRALIA|35.0|12.25|28|No
@@ -28815,6 +29012,7 @@ EPX|Travel Agency|Online|2 way Comprehensive Plan|43|KOREA, REPUBLIC OF|40.0|0.0
 EPX|Travel Agency|Online|Cancellation Plan|86|CHINA|0.0|0.0|35|No
 EPX|Travel Agency|Online|Cancellation Plan|79|UNITED STATES|80.0|0.0|20|No
 EPX|Travel Agency|Online|Cancellation Plan|4|THAILAND|23.0|0.0|36|No
+TST|Travel Agency|Offline|Travel Cruise Protect|21|THAILAND|30.0|10.5|30|No
 C2B|Airlines|Online|Bronze Plan|9|SINGAPORE|20.0|5.0|36|No
 C2B|Airlines|Online|Annual Silver Plan|366|SINGAPORE|216.75|54.19|25|No
 EPX|Travel Agency|Online|Cancellation Plan|35|VIET NAM|14.0|0.0|36|No
@@ -28915,6 +29113,7 @@ EPX|Travel Agency|Online|2 way Comprehensive Plan|5|INDONESIA|22.0|0.0|36|No
 EPX|Travel Agency|Online|Cancellation Plan|16|JAPAN|0.0|0.0|26|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|6|KOREA, REPUBLIC OF|19.8|11.88|49|No
 EPX|Travel Agency|Online|Cancellation Plan|29|CHINA|22.0|0.0|36|No
+C2B|Airlines|Online|Bronze Plan|7|SINGAPORE|17.55|4.39|34|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|8|MALAYSIA|39.6|23.76|42|No
 C2B|Airlines|Online|Annual Silver Plan|400|SINGAPORE|201.0|50.25|43|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|12|HONG KONG|24.0|0.0|36|No
@@ -28945,6 +29144,7 @@ EPX|Travel Agency|Online|1 way Comprehensive Plan|1|INDONESIA|21.0|0.0|35|No
 JZI|Airlines|Online|Basic Plan|45|SRI LANKA|22.0|7.7|56|No
 C2B|Airlines|Online|Annual Silver Plan|365|SINGAPORE|193.2|48.3|51|No
 C2B|Airlines|Online|Bronze Plan|9|SINGAPORE|40.0|10.0|20|No
+JZI|Airlines|Online|Basic Plan|7|CHINA|26.0|9.1|41|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|12|THAILAND|26.0|0.0|28|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|37|CANADA|112.0|0.0|49|No
 C2B|Airlines|Online|Bronze Plan|28|SINGAPORE|34.0|8.5|30|No
@@ -29082,6 +29282,7 @@ EPX|Travel Agency|Online|Cancellation Plan|89|SINGAPORE|12.0|0.0|28|No
 JZI|Airlines|Online|Basic Plan|10|CHINA|35.0|12.25|48|No
 EPX|Travel Agency|Online|Cancellation Plan|5|BRAZIL|14.0|0.0|36|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|87|SINGAPORE|68.0|0.0|36|No
+CCR|Travel Agency|Offline|Comprehensive Plan|4|MALAYSIA|29.0|9.57|118|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|9|INDIA|54.0|0.0|36|No
 EPX|Travel Agency|Online|Cancellation Plan|8|INDIA|20.0|0.0|36|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|35|AUSTRALIA|99.0|59.4|46|No
@@ -29167,6 +29368,7 @@ CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|125|ITALY|198.0|118.8|4
 C2B|Airlines|Online|Bronze Plan|34|SINGAPORE|18.0|4.5|41|No
 C2B|Airlines|Online|Bronze Plan|7|SINGAPORE|21.0|5.25|75|No
 EPX|Travel Agency|Online|Cancellation Plan|19|INDIA|54.0|0.0|36|No
+C2B|Airlines|Online|Bronze Plan|12|SINGAPORE|16.0|4.0|25|No
 C2B|Airlines|Online|Silver Plan|112|SINGAPORE|108.0|27.0|28|No
 JZI|Airlines|Online|Basic Plan|17|PHILIPPINES|33.0|11.55|38|No
 C2B|Airlines|Online|Silver Plan|13|SINGAPORE|57.0|14.25|27|No
@@ -29288,6 +29490,7 @@ EPX|Travel Agency|Online|Cancellation Plan|16|MALAYSIA|10.0|0.0|66|No
 EPX|Travel Agency|Online|Cancellation Plan|13|INDONESIA|66.0|0.0|36|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|4|THAILAND|25.0|0.0|38|No
 EPX|Travel Agency|Online|Cancellation Plan|2|THAILAND|10.0|0.0|38|No
+C2B|Airlines|Online|Bronze Plan|27|SINGAPORE|60.0|15.0|30|Yes
 EPX|Travel Agency|Online|2 way Comprehensive Plan|9|MALAYSIA|23.0|0.0|50|No
 C2B|Airlines|Online|Bronze Plan|5|SINGAPORE|17.5|4.38|34|No
 JZI|Airlines|Online|Basic Plan|16|MALAYSIA|18.0|6.3|32|No
@@ -29326,6 +29529,7 @@ EPX|Travel Agency|Online|Cancellation Plan|93|CANADA|16.0|0.0|22|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|30|SPAIN|84.0|0.0|36|No
 JZI|Airlines|Online|Basic Plan|104|KOREA, REPUBLIC OF|35.0|12.25|32|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|3|MALAYSIA|0.0|17.82|52|No
+C2B|Airlines|Online|Annual Silver Plan|386|SINGAPORE|291.75|72.94|47|No
 EPX|Travel Agency|Online|1 way Comprehensive Plan|2|SINGAPORE|20.0|0.0|45|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|50|THAILAND|28.0|0.0|36|No
 EPX|Travel Agency|Online|Cancellation Plan|5|INDIA|21.0|0.0|36|No
@@ -29460,6 +29664,7 @@ CBH|Travel Agency|Offline|Comprehensive Plan|106|MALAYSIA|29.0|9.57|37|No
 JZI|Airlines|Online|Basic Plan|13|MALAYSIA|22.0|7.7|69|No
 EPX|Travel Agency|Online|Cancellation Plan|3|VIET NAM|10.0|0.0|35|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|32|VIET NAM|21.0|0.0|50|No
+JZI|Airlines|Online|Basic Plan|4|INDONESIA|18.0|6.3|42|No
 EPX|Travel Agency|Online|Cancellation Plan|18|CHINA|26.0|0.0|36|No
 TST|Travel Agency|Offline|Travel Cruise Protect|67|MALAYSIA|30.0|10.5|81|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|20|INDONESIA|20.0|0.0|36|No
@@ -29613,6 +29818,7 @@ EPX|Travel Agency|Online|2 way Comprehensive Plan|24|SRI LANKA|28.0|0.0|35|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|39|AUSTRALIA|59.4|35.64|31|No
 RAB|Airlines|Online|Value Plan|62|BRUNEI DARUSSALAM|15.0|6.0|42|No
 EPX|Travel Agency|Online|Cancellation Plan|19|JAPAN|61.0|0.0|36|No
+C2B|Airlines|Online|Bronze Plan|4|SINGAPORE|16.0|4.0|30|No
 JZI|Airlines|Online|Basic Plan|25|VIET NAM|22.0|7.7|39|No
 EPX|Travel Agency|Online|Cancellation Plan|39|SWEDEN|0.0|0.0|36|No
 JZI|Airlines|Online|Basic Plan|20|PHILIPPINES|18.0|6.3|34|No
@@ -29733,6 +29939,7 @@ EPX|Travel Agency|Online|Cancellation Plan|21|UNITED STATES|80.0|0.0|51|No
 EPX|Travel Agency|Online|Cancellation Plan|36|UNITED ARAB EMIRATES|31.0|0.0|36|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|40|GREECE|19.8|11.88|33|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|42|MALAYSIA|20.0|0.0|25|No
+C2B|Airlines|Online|Bronze Plan|17|SINGAPORE|29.5|7.38|37|No
 C2B|Airlines|Online|Bronze Plan|12|SINGAPORE|33.5|8.38|36|No
 EPX|Travel Agency|Online|Cancellation Plan|51|HONG KONG|22.0|0.0|36|No
 EPX|Travel Agency|Online|Cancellation Plan|164|PHILIPPINES|23.0|0.0|36|No
@@ -29795,6 +30002,7 @@ EPX|Travel Agency|Online|Cancellation Plan|49|KOREA, REPUBLIC OF|45.0|0.0|21|No
 EPX|Travel Agency|Online|Cancellation Plan|83|INDIA|31.0|0.0|36|No
 C2B|Airlines|Online|Silver Plan|28|SINGAPORE|29.0|7.25|27|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|100|NEW ZEALAND|138.6|83.16|31|No
+JZI|Airlines|Online|Basic Plan|37|CHINA|35.0|12.25|39|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|54|AUSTRALIA|59.4|35.64|42|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|14|UNITED STATES|104.0|0.0|48|No
 EPX|Travel Agency|Online|1 way Comprehensive Plan|37|PHILIPPINES|20.0|0.0|36|No
@@ -29898,7 +30106,9 @@ C2B|Airlines|Online|Bronze Plan|39|SINGAPORE|53.5|13.38|26|No
 EPX|Travel Agency|Online|Cancellation Plan|25|PHILIPPINES|62.0|0.0|36|No
 EPX|Travel Agency|Online|Cancellation Plan|29|PHILIPPINES|11.0|0.0|24|No
 EPX|Travel Agency|Online|Cancellation Plan|23|MALAYSIA|16.0|0.0|23|No
+C2B|Airlines|Online|Annual Silver Plan|366|SINGAPORE|252.85|63.21|28|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|21|CHINA|34.0|0.0|36|No
+C2B|Airlines|Online|Bronze Plan|11|SINGAPORE|20.0|5.0|20|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|59|TAIWAN, PROVINCE OF CHINA|35.0|0.0|36|No
 C2B|Airlines|Online|Bronze Plan|66|SINGAPORE|47.0|11.75|49|No
 EPX|Travel Agency|Online|Cancellation Plan|27|KOREA, REPUBLIC OF|29.0|0.0|23|No
@@ -29965,6 +30175,7 @@ CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|11|MALAYSIA|39.6|23.76|
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|4|THAILAND|9.9|5.94|27|No
 RAB|Airlines|Online|Value Plan|27|BRUNEI DARUSSALAM|15.0|6.0|63|No
 TST|Travel Agency|Offline|Travel Cruise Protect|74|THAILAND|30.0|10.5|53|No
+JZI|Airlines|Online|Basic Plan|7|MALAYSIA|18.0|6.3|43|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|5|SAUDI ARABIA|40.0|0.0|36|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|9|UNITED STATES|59.4|35.64|54|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|29|HONG KONG|26.0|0.0|36|No
@@ -30185,6 +30396,7 @@ C2B|Airlines|Online|Bronze Plan|9|SINGAPORE|22.1|5.53|27|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|15|UNITED STATES|39.6|23.76|30|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|34|JAPAN|58.0|0.0|36|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|81|INDONESIA|31.0|0.0|36|No
+C2B|Airlines|Online|Annual Silver Plan|365|SINGAPORE|252.85|63.21|34|No
 JZI|Airlines|Online|Basic Plan|8|THAILAND|18.0|6.3|60|No
 CSR|Travel Agency|Offline|Comprehensive Plan|49|THAILAND|29.0|9.57|69|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|8|AUSTRALIA|49.5|29.7|50|No
@@ -30202,6 +30414,7 @@ EPX|Travel Agency|Online|2 way Comprehensive Plan|71|CHINA|26.0|0.0|36|No
 EPX|Travel Agency|Online|1 way Comprehensive Plan|61|MALAYSIA|20.0|0.0|24|No
 EPX|Travel Agency|Online|Cancellation Plan|62|KOREA, REPUBLIC OF|48.0|0.0|36|No
 JZI|Airlines|Online|Basic Plan|6|VIET NAM|22.0|7.7|33|No
+C2B|Airlines|Online|Bronze Plan|6|SINGAPORE|16.0|4.0|27|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|8|UNITED STATES|59.4|35.64|31|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|9|THAILAND|29.7|17.82|26|Yes
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|11|MALAYSIA|49.5|29.7|49|No
@@ -30377,6 +30590,7 @@ EPX|Travel Agency|Online|2 way Comprehensive Plan|106|JAPAN|29.0|0.0|36|No
 EPX|Travel Agency|Online|1 way Comprehensive Plan|65|UNITED STATES|21.0|0.0|22|No
 C2B|Airlines|Online|Bronze Plan|5|SINGAPORE|20.25|5.06|40|No
 RAB|Airlines|Online|Value Plan|3|BRUNEI DARUSSALAM|15.0|6.0|29|No
+RAB|Airlines|Online|Value Plan|6|BRUNEI DARUSSALAM|15.0|6.0|28|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|38|TAIWAN, PROVINCE OF CHINA|20.0|0.0|29|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|37|HONG KONG|112.0|0.0|36|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|153|NORWAY|39.6|23.76|29|No
@@ -30415,6 +30629,7 @@ EPX|Travel Agency|Online|Cancellation Plan|65|KOREA, REPUBLIC OF|25.0|0.0|36|No
 EPX|Travel Agency|Online|Cancellation Plan|88|JAPAN|26.0|0.0|36|No
 C2B|Airlines|Online|Silver Plan|13|SINGAPORE|58.8|14.7|24|No
 EPX|Travel Agency|Online|Cancellation Plan|125|SWITZERLAND|70.0|0.0|36|No
+C2B|Airlines|Online|Silver Plan|15|SINGAPORE|22.5|5.63|24|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|5|INDONESIA|35.0|0.0|36|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|164|GERMANY|108.9|65.34|42|No
 C2B|Airlines|Online|Annual Silver Plan|379|SINGAPORE|259.2|64.8|31|No
@@ -30517,6 +30732,7 @@ C2B|Airlines|Online|Bronze Plan|12|SINGAPORE|16.0|4.0|50|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|15|UNITED STATES|112.0|0.0|47|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|20|EGYPT|95.0|0.0|36|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|23|KOREA, REPUBLIC OF|29.7|17.82|32|No
+RAB|Airlines|Online|Value Plan|3|BRUNEI DARUSSALAM|15.0|6.0|33|No
 EPX|Travel Agency|Online|Cancellation Plan|11|INDIA|23.0|0.0|36|No
 EPX|Travel Agency|Online|1 way Comprehensive Plan|2|BANGLADESH|20.0|0.0|45|No
 EPX|Travel Agency|Online|Cancellation Plan|67|LAO PEOPLE'S DEMOCRATIC REPUBLIC|12.0|0.0|35|No
@@ -30529,6 +30745,7 @@ EPX|Travel Agency|Online|2 way Comprehensive Plan|5|MALAYSIA|20.0|0.0|54|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|10|ICELAND|49.5|29.7|53|No
 EPX|Travel Agency|Online|Cancellation Plan|75|FRANCE|80.0|0.0|36|No
 EPX|Travel Agency|Online|Cancellation Plan|48|INDONESIA|14.0|0.0|35|No
+C2B|Airlines|Online|Bronze Plan|4|SINGAPORE|13.5|3.38|31|No
 LWC|Travel Agency|Online|Single Trip Travel Protect Silver|3|CHINA|0.0|6.75|28|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|42|UNITED STATES|0.0|77.22|48|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|43|AUSTRALIA|99.0|59.4|44|No
@@ -30642,6 +30859,7 @@ LWC|Travel Agency|Online|Single Trip Travel Protect Silver|4|MALAYSIA|25.0|16.25
 EPX|Travel Agency|Online|Cancellation Plan|103|PHILIPPINES|21.0|0.0|36|No
 EPX|Travel Agency|Online|Cancellation Plan|33|SINGAPORE|44.0|0.0|36|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|47|AUSTRALIA|89.1|53.46|44|No
+JZI|Airlines|Online|Basic Plan|14|CHINA|26.0|9.1|36|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|31|AUSTRALIA|118.8|71.28|31|No
 EPX|Travel Agency|Online|Cancellation Plan|5|THAILAND|20.0|0.0|36|No
 LWC|Travel Agency|Online|Annual Travel Protect Platinum|382|UNITED STATES|323.4|210.21|35|No
@@ -30655,6 +30873,7 @@ C2B|Airlines|Online|Annual Silver Plan|366|SINGAPORE|161.0|40.25|26|Yes
 JZI|Airlines|Online|Basic Plan|13|KOREA, REPUBLIC OF|35.0|12.25|33|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|126|PHILIPPINES|20.0|0.0|36|No
 SSI|Airlines|Online|Ticket Protector|153|SINGAPORE|10.04|2.81|48|No
+C2B|Airlines|Online|Bronze Plan|16|SINGAPORE|27.0|6.75|29|No
 C2B|Airlines|Online|Silver Plan|5|SINGAPORE|24.5|6.13|28|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|39|JAPAN|69.0|0.0|36|No
 C2B|Airlines|Online|Annual Silver Plan|367|SINGAPORE|187.85|46.96|28|Yes
@@ -30689,6 +30908,7 @@ EPX|Travel Agency|Online|Cancellation Plan|10|INDONESIA|18.0|0.0|36|No
 C2B|Airlines|Online|Silver Plan|6|SINGAPORE|18.5|4.63|84|No
 EPX|Travel Agency|Online|Cancellation Plan|29|INDONESIA|22.0|0.0|36|No
 C2B|Airlines|Online|Bronze Plan|13|SINGAPORE|23.5|5.88|23|No
+JZI|Airlines|Online|Basic Plan|7|PHILIPPINES|18.0|6.3|43|No
 EPX|Travel Agency|Online|Cancellation Plan|11|VIET NAM|45.0|0.0|36|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|17|UNITED STATES|112.0|0.0|42|No
 C2B|Airlines|Online|Bronze Plan|96|SINGAPORE|137.0|34.25|40|No
@@ -30704,6 +30924,7 @@ EPX|Travel Agency|Online|Cancellation Plan|3|PAPUA NEW GUINEA|27.0|0.0|36|No
 JZI|Airlines|Online|Basic Plan|53|CHINA|50.0|17.5|36|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|32|TAIWAN, PROVINCE OF CHINA|45.0|0.0|32|No
 EPX|Travel Agency|Online|Cancellation Plan|7|SINGAPORE|18.0|0.0|36|No
+JZI|Airlines|Online|Basic Plan|3|MALAYSIA|18.0|6.3|46|No
 EPX|Travel Agency|Online|Cancellation Plan|54|MACAO|17.0|0.0|35|No
 EPX|Travel Agency|Online|1 way Comprehensive Plan|9|UNITED STATES|20.0|0.0|44|No
 EPX|Travel Agency|Online|Cancellation Plan|18|INDONESIA|10.0|0.0|28|No
@@ -30788,6 +31009,7 @@ JZI|Airlines|Online|Basic Plan|10|MALAYSIA|18.0|6.3|59|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|42|HONG KONG|20.0|0.0|36|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|52|INDIA|73.0|0.0|36|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|113|AUSTRALIA|50.0|0.0|36|No
+C2B|Airlines|Online|Annual Silver Plan|364|SINGAPORE|216.0|54.0|26|No
 EPX|Travel Agency|Online|Cancellation Plan|37|UNITED STATES|25.0|0.0|41|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|10|CHINA|76.0|0.0|36|No
 EPX|Travel Agency|Online|Cancellation Plan|80|CANADA|78.0|0.0|30|No
@@ -30835,6 +31057,7 @@ C2B|Airlines|Online|Bronze Plan|52|SINGAPORE|47.0|11.75|27|No
 JZI|Airlines|Online|Basic Plan|43|INDIA|44.0|15.4|28|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|10|SRI LANKA|28.0|0.0|36|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|25|VIET NAM|24.0|0.0|29|No
+JWT|Airlines|Online|Value Plan|44|INDIA|72.0|28.8|118|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|17|HONG KONG|23.0|0.0|36|No
 C2B|Airlines|Online|Annual Silver Plan|374|SINGAPORE|216.0|54.0|43|Yes
 C2B|Airlines|Online|Bronze Plan|83|SINGAPORE|27.0|6.75|35|No
@@ -30932,6 +31155,7 @@ EPX|Travel Agency|Online|1 way Comprehensive Plan|60|JAPAN|50.0|0.0|36|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|120|SOUTH AFRICA|90.0|0.0|36|No
 EPX|Travel Agency|Online|Cancellation Plan|18|JAPAN|43.0|0.0|36|No
 C2B|Airlines|Online|Bronze Plan|72|SINGAPORE|69.55|17.39|30|No
+JWT|Airlines|Online|Value Plan|24|INDIA|72.0|28.8|118|No
 EPX|Travel Agency|Online|1 way Comprehensive Plan|15|INDONESIA|20.0|0.0|36|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|10|THAILAND|29.7|17.82|54|No
 EPX|Travel Agency|Online|Cancellation Plan|38|SINGAPORE|13.0|0.0|26|No
@@ -30977,6 +31201,7 @@ EPX|Travel Agency|Online|Cancellation Plan|34|DENMARK|80.0|0.0|36|No
 C2B|Airlines|Online|Annual Gold Plan|386|SINGAPORE|449.25|112.31|36|Yes
 EPX|Travel Agency|Online|2 way Comprehensive Plan|10|CHINA|53.0|0.0|36|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|13|HONG KONG|0.0|0.0|36|No
+JWT|Airlines|Online|Value Plan|17|INDIA|72.0|28.8|118|No
 EPX|Travel Agency|Online|Cancellation Plan|3|KOREA, REPUBLIC OF|44.0|0.0|36|No
 C2B|Airlines|Online|Silver Plan|7|SINGAPORE|18.5|4.63|40|No
 C2B|Airlines|Online|Bronze Plan|21|SINGAPORE|21.0|5.25|45|No
@@ -31205,6 +31430,7 @@ ADM|Travel Agency|Online|Value Plan|29|SWITZERLAND|75.0|28.5|22|No
 EPX|Travel Agency|Online|Cancellation Plan|29|UNITED STATES|68.0|0.0|43|No
 EPX|Travel Agency|Online|1 way Comprehensive Plan|9|SINGAPORE|29.0|0.0|36|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|101|IRELAND|79.0|0.0|36|No
+C2B|Airlines|Online|Annual Silver Plan|365|SINGAPORE|216.0|54.0|28|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|94|CHINA|50.0|0.0|36|No
 C2B|Airlines|Online|Silver Plan|57|SINGAPORE|47.5|11.88|45|No
 SSI|Airlines|Online|Ticket Protector|36|SINGAPORE|1.03|0.29|48|No
@@ -31790,9 +32016,11 @@ JZI|Airlines|Online|Basic Plan|1|THAILAND|18.0|6.3|63|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|82|AUSTRALIA|89.1|53.46|31|No
 EPX|Travel Agency|Online|1 way Comprehensive Plan|9|SINGAPORE|20.0|0.0|59|No
 C2B|Airlines|Online|Annual Silver Plan|365|SINGAPORE|252.85|63.21|39|No
+RAB|Airlines|Online|Value Plan|3|BRUNEI DARUSSALAM|15.0|6.0|38|No
 EPX|Travel Agency|Online|Cancellation Plan|7|HONG KONG|27.0|0.0|41|No
 C2B|Airlines|Online|Silver Plan|50|SINGAPORE|22.5|5.63|58|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|17|UNITED KINGDOM|19.8|11.88|29|No
+CCR|Travel Agency|Offline|Comprehensive Plan|4|MALAYSIA|29.0|9.57|118|No
 EPX|Travel Agency|Online|Cancellation Plan|29|INDIA|25.0|0.0|36|No
 EPX|Travel Agency|Online|Cancellation Plan|89|SINGAPORE|14.0|0.0|36|No
 ADM|Travel Agency|Online|Value Plan|71|FRANCE|279.0|106.02|22|No
@@ -31806,8 +32034,10 @@ EPX|Travel Agency|Online|2 way Comprehensive Plan|69|JAPAN|81.0|0.0|36|No
 JZI|Airlines|Online|Basic Plan|12|HONG KONG|22.0|7.7|37|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|48|THAILAND|39.6|23.76|41|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|140|THAILAND|20.0|0.0|26|No
+C2B|Airlines|Online|Silver Plan|24|SINGAPORE|72.0|18.0|40|No
 EPX|Travel Agency|Online|1 way Comprehensive Plan|1|SINGAPORE|20.0|0.0|40|No
 EPX|Travel Agency|Online|Cancellation Plan|2|CAMBODIA|19.0|0.0|36|No
+C2B|Airlines|Online|Annual Silver Plan|364|SINGAPORE|216.0|54.0|33|No
 SSI|Airlines|Online|Ticket Protector|29|SINGAPORE|13.57|3.8|48|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|19|THAILAND|23.0|0.0|46|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|7|THAILAND|42.0|0.0|43|No
@@ -31879,6 +32109,7 @@ EPX|Travel Agency|Online|Cancellation Plan|94|JAPAN|16.0|0.0|36|No
 C2B|Airlines|Online|Bronze Plan|20|SINGAPORE|34.5|8.63|28|No
 JZI|Airlines|Online|Basic Plan|36|JAPAN|0.0|12.25|48|No
 EPX|Travel Agency|Online|Cancellation Plan|7|HONG KONG|22.0|0.0|36|No
+JZI|Airlines|Online|Basic Plan|2|INDONESIA|18.0|6.3|24|No
 EPX|Travel Agency|Online|Cancellation Plan|7|SINGAPORE|28.0|0.0|36|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|53|HONG KONG|28.0|0.0|63|No
 C2B|Airlines|Online|Bronze Plan|14|SINGAPORE|107.0|26.75|27|No
@@ -31937,6 +32168,7 @@ EPX|Travel Agency|Online|2 way Comprehensive Plan|11|THAILAND|27.0|0.0|24|No
 JZI|Airlines|Online|Basic Plan|26|CHINA|35.0|12.25|56|No
 EPX|Travel Agency|Online|Cancellation Plan|30|JAPAN|14.0|0.0|20|No
 EPX|Travel Agency|Online|Cancellation Plan|14|MALAYSIA|10.0|0.0|58|No
+JZI|Airlines|Online|Basic Plan|11|THAILAND|22.0|7.7|29|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|7|UNITED KINGDOM|71.0|0.0|35|No
 EPX|Travel Agency|Online|1 way Comprehensive Plan|49|SINGAPORE|24.0|0.0|52|No
 LWC|Travel Agency|Online|Single Trip Travel Protect Silver|12|TAIWAN, PROVINCE OF CHINA|26.5|17.23|30|No
@@ -32003,6 +32235,7 @@ CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|10|MALAYSIA|0.0|11.88|3
 EPX|Travel Agency|Online|2 way Comprehensive Plan|23|THAILAND|20.0|0.0|32|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|141|UNITED STATES|112.0|0.0|59|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|50|SINGAPORE|86.0|0.0|36|No
+JWT|Airlines|Online|Value Plan|34|INDIA|39.0|15.6|118|No
 EPX|Travel Agency|Online|Cancellation Plan|11|SRI LANKA|10.0|0.0|36|No
 C2B|Airlines|Online|Annual Silver Plan|367|SINGAPORE|259.2|64.8|32|No
 EPX|Travel Agency|Online|Cancellation Plan|33|CHINA|50.0|0.0|36|No
@@ -32085,6 +32318,7 @@ C2B|Airlines|Online|Bronze Plan|15|SINGAPORE|0.0|6.63|30|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|3|SOUTH AFRICA|29.7|17.82|37|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|3|HONG KONG|26.0|0.0|36|No
 JZI|Airlines|Online|Basic Plan|40|THAILAND|22.0|7.7|49|No
+JWT|Airlines|Online|Value Plan|29|INDIA|31.0|12.4|118|No
 SSI|Airlines|Online|Ticket Protector|4|SINGAPORE|1.03|0.29|48|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|10|PHILIPPINES|29.7|17.82|50|No
 CBH|Travel Agency|Offline|Comprehensive Plan|6|THAILAND|29.0|9.57|79|No
@@ -32116,6 +32350,7 @@ EPX|Travel Agency|Online|2 way Comprehensive Plan|236|UNITED KINGDOM|85.0|0.0|36
 EPX|Travel Agency|Online|2 way Comprehensive Plan|14|PHILIPPINES|20.0|0.0|36|No
 JZI|Airlines|Online|Basic Plan|49|MYANMAR|42.0|14.7|28|No
 EPX|Travel Agency|Online|Cancellation Plan|11|KOREA, REPUBLIC OF|19.0|0.0|34|No
+JZI|Airlines|Online|Basic Plan|23|THAILAND|22.0|7.7|39|No
 KML|Travel Agency|Online|Premier Plan|73|NORWAY|72.0|27.36|48|No
 EPX|Travel Agency|Online|Cancellation Plan|75|UNITED STATES|0.0|0.0|27|No
 EPX|Travel Agency|Online|Cancellation Plan|25|FRANCE|32.0|0.0|36|No
@@ -32139,6 +32374,7 @@ EPX|Travel Agency|Online|Cancellation Plan|27|FRANCE|10.0|0.0|36|No
 EPX|Travel Agency|Online|Cancellation Plan|54|UNITED STATES|62.0|0.0|24|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|10|ITALY|19.8|11.88|41|No
 EPX|Travel Agency|Online|Cancellation Plan|27|SINGAPORE|10.0|0.0|36|No
+KML|Travel Agency|Online|Value Plan|9|NETHERLANDS|75.0|28.5|48|No
 C2B|Airlines|Online|Bronze Plan|17|SINGAPORE|27.0|6.75|25|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|10|PHILIPPINES|33.0|0.0|36|No
 EPX|Travel Agency|Online|Cancellation Plan|3|VIET NAM|25.0|0.0|36|No
@@ -32151,6 +32387,7 @@ CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|55|UNITED KINGDOM|9.9|5
 C2B|Airlines|Online|Bronze Plan|21|SINGAPORE|27.0|6.75|38|No
 C2B|Airlines|Online|Bronze Plan|11|SINGAPORE|35.5|8.88|35|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|141|THAILAND|20.0|0.0|53|No
+TST|Travel Agency|Offline|Travel Cruise Protect|72|MALAYSIA|30.0|10.5|59|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|8|GREECE|29.7|17.82|31|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|6|UNITED ARAB EMIRATES|29.7|17.82|31|No
 JZI|Airlines|Online|Basic Plan|15|HONG KONG|22.0|7.7|43|No
@@ -32178,6 +32415,7 @@ EPX|Travel Agency|Online|2 way Comprehensive Plan|89|INDIA|28.0|0.0|36|No
 EPX|Travel Agency|Online|Cancellation Plan|41|INDIA|17.0|0.0|36|No
 EPX|Travel Agency|Online|Cancellation Plan|49|KOREA, REPUBLIC OF|20.0|0.0|23|No
 EPX|Travel Agency|Online|Cancellation Plan|62|JAPAN|39.0|0.0|36|No
+C2B|Airlines|Online|Bronze Plan|10|SINGAPORE|23.0|5.75|30|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|22|SINGAPORE|27.0|0.0|36|No
 EPX|Travel Agency|Online|Cancellation Plan|105|PHILIPPINES|10.0|0.0|36|No
 EPX|Travel Agency|Online|Cancellation Plan|47|KOREA, REPUBLIC OF|75.0|0.0|36|No
@@ -32262,6 +32500,7 @@ EPX|Travel Agency|Online|Cancellation Plan|1|UNITED KINGDOM|19.0|0.0|36|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|44|NEW ZEALAND|29.7|17.82|53|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|155|FRANCE|83.0|0.0|35|No
 EPX|Travel Agency|Online|Cancellation Plan|29|INDIA|10.0|0.0|28|No
+JWT|Airlines|Online|Value Plan|30|INDIA|31.0|12.4|118|No
 JZI|Airlines|Online|Basic Plan|26|CHINA|35.0|12.25|36|No
 EPX|Travel Agency|Online|Cancellation Plan|34|THAILAND|24.0|0.0|36|No
 JZI|Airlines|Online|Basic Plan|59|CHINA|63.0|22.05|38|No
@@ -32310,6 +32549,7 @@ EPX|Travel Agency|Offline|2 way Comprehensive Plan|13|HONG KONG|30.0|0.0|118|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|55|AUSTRALIA|59.4|35.64|31|No
 C2B|Airlines|Online|Silver Plan|35|SINGAPORE|39.0|9.75|31|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|10|MALAYSIA|19.8|11.88|58|No
+C2B|Airlines|Online|Silver Plan|5|SINGAPORE|18.5|4.63|25|No
 EPX|Travel Agency|Online|Cancellation Plan|19|BANGLADESH|11.0|0.0|36|No
 EPX|Travel Agency|Online|Cancellation Plan|32|SINGAPORE|15.0|0.0|36|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|41|DENMARK|89.1|53.46|31|No
@@ -32332,6 +32572,7 @@ EPX|Travel Agency|Online|2 way Comprehensive Plan|35|JAPAN|107.0|0.0|35|No
 SSI|Airlines|Online|Ticket Protector|206|SINGAPORE|14.07|3.94|48|No
 EPX|Travel Agency|Online|Cancellation Plan|92|TANZANIA, UNITED REPUBLIC OF|50.0|0.0|36|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|19|MYANMAR|20.0|0.0|36|No
+C2B|Airlines|Online|Silver Plan|5|SINGAPORE|18.5|4.63|30|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|59|CAMBODIA|20.0|0.0|36|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|25|UNITED STATES|81.0|0.0|49|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|132|AUSTRALIA|99.0|59.4|48|No
@@ -32368,6 +32609,7 @@ EPX|Travel Agency|Online|Cancellation Plan|42|HONG KONG|18.0|0.0|36|No
 LWC|Travel Agency|Online|Annual Travel Protect Platinum|365|UNITED STATES|323.4|210.21|39|No
 C2B|Airlines|Online|Silver Plan|65|SINGAPORE|15.0|3.75|51|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|2|THAILAND|9.9|5.94|23|No
+RAB|Airlines|Online|Value Plan|7|BRUNEI DARUSSALAM|15.0|6.0|49|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|55|UNITED STATES|112.0|0.0|43|No
 JWT|Airlines|Online|Value Plan|48|INDIA|62.0|24.8|118|No
 EPX|Travel Agency|Online|Cancellation Plan|36|UNITED STATES|80.0|0.0|42|No
@@ -32461,6 +32703,7 @@ C2B|Airlines|Online|Bronze Plan|36|SINGAPORE|40.5|10.13|23|Yes
 EPX|Travel Agency|Online|Cancellation Plan|6|KOREA, REPUBLIC OF|33.0|0.0|36|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|14|VIET NAM|21.0|0.0|49|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|83|MALAYSIA|20.0|0.0|36|No
+C2B|Airlines|Online|Bronze Plan|5|SINGAPORE|13.5|3.38|33|No
 SSI|Airlines|Online|Ticket Protector|94|SINGAPORE|3.68|1.03|48|No
 EPX|Travel Agency|Online|Cancellation Plan|31|KOREA, REPUBLIC OF|29.0|0.0|36|No
 JZI|Airlines|Online|Basic Plan|17|PHILIPPINES|22.0|7.7|48|No
@@ -32544,6 +32787,7 @@ CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|7|MALAYSIA|29.7|17.82|3
 C2B|Airlines|Online|Bronze Plan|6|SINGAPORE|21.0|5.25|18|No
 C2B|Airlines|Online|Bronze Plan|23|SINGAPORE|29.5|7.38|69|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|11|AUSTRALIA|0.0|17.82|30|No
+C2B|Airlines|Online|Annual Silver Plan|365|SINGAPORE|216.0|54.0|39|No
 JZI|Airlines|Online|Basic Plan|20|CHINA|26.0|9.1|30|No
 JZI|Airlines|Online|Basic Plan|5|INDONESIA|22.0|7.7|29|No
 EPX|Travel Agency|Online|1 way Comprehensive Plan|14|INDIA|20.0|0.0|36|No
@@ -32750,6 +32994,7 @@ EPX|Travel Agency|Online|Cancellation Plan|15|FRANCE|27.0|0.0|36|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|182|MYANMAR|20.0|0.0|36|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|9|TAIWAN, PROVINCE OF CHINA|24.0|0.0|36|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|35|THAILAND|20.0|0.0|74|No
+JWT|Airlines|Online|Value Plan|4|INDIA|31.0|12.4|118|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|44|CHINA|57.0|0.0|36|No
 EPX|Travel Agency|Online|Cancellation Plan|32|THAILAND|15.0|0.0|36|No
 EPX|Travel Agency|Online|Cancellation Plan|23|SINGAPORE|29.0|0.0|43|No
@@ -32860,6 +33105,7 @@ JZI|Airlines|Online|Basic Plan|5|HONG KONG|26.0|9.1|31|No
 JZI|Airlines|Online|Basic Plan|6|THAILAND|22.0|7.7|59|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|9|JAPAN|91.0|0.0|33|No
 EPX|Travel Agency|Online|Cancellation Plan|2|MALAYSIA|11.0|0.0|26|No
+C2B|Airlines|Online|Bronze Plan|22|SINGAPORE|53.5|13.38|25|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|38|UNITED KINGDOM|62.0|0.0|36|No
 C2B|Airlines|Online|Bronze Plan|26|SINGAPORE|21.0|5.25|48|No
 EPX|Travel Agency|Online|1 way Comprehensive Plan|33|SINGAPORE|32.0|0.0|36|No
@@ -32910,6 +33156,7 @@ C2B|Airlines|Online|Bronze Plan|20|SINGAPORE|32.9|8.22|35|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|19|MALAYSIA|39.6|23.76|66|No
 EPX|Travel Agency|Online|Cancellation Plan|31|JAPAN|10.0|0.0|37|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|5|GERMANY|29.7|17.82|39|No
+JZI|Airlines|Online|Value Plan|20|CHINA|58.0|20.3|46|No
 EPX|Travel Agency|Online|Cancellation Plan|5|MALAYSIA|10.0|0.0|69|No
 C2B|Airlines|Online|Bronze Plan|2|SINGAPORE|17.25|4.31|37|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|17|UNITED KINGDOM|59.4|35.64|31|No
@@ -33137,6 +33384,7 @@ EPX|Travel Agency|Online|Cancellation Plan|19|MYANMAR|13.0|0.0|34|No
 RAB|Airlines|Online|Value Plan|4|BRUNEI DARUSSALAM|15.0|6.0|34|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|116|UNITED STATES|101.0|0.0|43|No
 EPX|Travel Agency|Online|Cancellation Plan|18|KOREA, REPUBLIC OF|14.0|0.0|36|No
+C2B|Airlines|Online|Bronze Plan|6|SINGAPORE|13.5|3.38|27|No
 EPX|Travel Agency|Online|Cancellation Plan|24|UNITED STATES|31.0|0.0|38|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|65|PHILIPPINES|23.0|0.0|36|No
 EPX|Travel Agency|Online|Cancellation Plan|35|NEW ZEALAND|58.0|0.0|36|No
@@ -33201,6 +33449,7 @@ EPX|Travel Agency|Online|2 way Comprehensive Plan|27|INDIA|20.0|0.0|33|No
 EPX|Travel Agency|Online|Cancellation Plan|43|INDONESIA|10.0|0.0|45|No
 EPX|Travel Agency|Online|Cancellation Plan|13|VIET NAM|16.0|0.0|36|No
 JZI|Airlines|Online|Basic Plan|79|CHINA|44.0|15.4|34|No
+C2B|Airlines|Online|Annual Silver Plan|372|SINGAPORE|216.0|54.0|31|No
 CBH|Travel Agency|Offline|Comprehensive Plan|229|MALAYSIA|29.0|9.57|64|No
 CCR|Travel Agency|Offline|Comprehensive Plan|64|THAILAND|29.0|9.57|53|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|34|CHINA|20.0|0.0|36|No
@@ -33431,6 +33680,7 @@ JZI|Airlines|Online|Basic Plan|15|MALAYSIA|18.0|6.3|45|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|49|IRELAND|95.0|0.0|36|No
 JZI|Airlines|Online|Basic Plan|100|MALAYSIA|18.0|6.3|59|No
 CSR|Travel Agency|Offline|Comprehensive Plan|49|MALAYSIA|29.0|9.57|33|No
+C2B|Airlines|Online|Bronze Plan|4|SINGAPORE|13.5|3.38|25|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|3|MALAYSIA|63.0|0.0|36|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|13|HONG KONG|24.0|0.0|36|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|59|THAILAND|29.7|17.82|48|No
@@ -33509,6 +33759,7 @@ EPX|Travel Agency|Online|Cancellation Plan|3|PHILIPPINES|12.0|0.0|26|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|61|UNITED STATES|112.0|0.0|29|No
 C2B|Airlines|Online|Bronze Plan|8|SINGAPORE|23.5|5.88|25|No
 CSR|Travel Agency|Offline|Premier Plan|29|MALAYSIA|58.0|19.14|74|No
+RAB|Airlines|Online|Value Plan|3|BRUNEI DARUSSALAM|15.0|6.0|56|No
 C2B|Airlines|Online|Silver Plan|19|SINGAPORE|0.0|16.09|29|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|19|UNITED STATES|79.2|47.52|36|No
 JZI|Airlines|Online|Basic Plan|17|INDONESIA|37.0|12.95|36|No
@@ -33520,6 +33771,7 @@ EPX|Travel Agency|Online|Cancellation Plan|14|MALAYSIA|10.0|0.0|32|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|23|HONG KONG|85.0|0.0|36|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|9|JAPAN|34.0|0.0|36|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|7|SWITZERLAND|29.7|17.82|46|No
+C2B|Airlines|Online|Annual Silver Plan|369|SINGAPORE|216.0|54.0|41|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|11|THAILAND|39.6|23.76|45|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|4|MALAYSIA|39.6|23.76|32|No
 JZI|Airlines|Online|Basic Plan|66|TAIWAN, PROVINCE OF CHINA|35.0|12.25|118|No
@@ -33544,6 +33796,7 @@ EPX|Travel Agency|Online|2 way Comprehensive Plan|21|INDONESIA|34.0|0.0|30|No
 EPX|Travel Agency|Online|Cancellation Plan|32|CHINA|15.0|0.0|36|No
 EPX|Travel Agency|Online|Cancellation Plan|88|CANADA|80.0|0.0|28|No
 EPX|Travel Agency|Online|Cancellation Plan|24|SOUTH AFRICA|76.0|0.0|36|No
+C2B|Airlines|Online|Annual Silver Plan|365|SINGAPORE|187.85|46.96|32|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|17|UNITED KINGDOM|89.1|53.46|50|No
 JZI|Airlines|Online|Basic Plan|10|VIET NAM|22.0|7.7|63|No
 JZI|Airlines|Online|Value Plan|20|JAPAN|45.0|15.75|42|No
@@ -33605,6 +33858,7 @@ JZI|Airlines|Online|Value Plan|16|JAPAN|58.0|20.3|48|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|41|IRELAND|39.6|23.76|37|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|11|MONGOLIA|112.0|0.0|36|No
 EPX|Travel Agency|Online|Cancellation Plan|107|INDONESIA|24.0|0.0|34|No
+JZI|Airlines|Online|Basic Plan|5|MALAYSIA|18.0|6.3|42|No
 KML|Travel Agency|Online|Value Plan|18|FRANCE|75.0|28.5|48|No
 ART|Airlines|Online|24 Protect|10|PHILIPPINES|18.76|6.57|48|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|79|JAPAN|47.0|0.0|36|No
@@ -33692,6 +33946,7 @@ EPX|Travel Agency|Online|Cancellation Plan|49|JAPAN|34.0|0.0|36|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|17|AUSTRALIA|59.4|35.64|48|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|33|THAILAND|29.7|17.82|40|No
 C2B|Airlines|Online|Bronze Plan|16|SINGAPORE|16.0|4.0|70|No
+C2B|Airlines|Online|Bronze Plan|6|SINGAPORE|13.5|3.38|21|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|9|MALAYSIA|28.0|0.0|38|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|23|THAILAND|51.0|0.0|48|No
 EPX|Travel Agency|Online|Cancellation Plan|101|SINGAPORE|31.0|0.0|36|No
@@ -33709,6 +33964,7 @@ EPX|Travel Agency|Online|Cancellation Plan|4|INDONESIA|30.0|0.0|36|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|20|THAILAND|41.0|0.0|54|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|49|VIET NAM|20.0|0.0|36|No
 EPX|Travel Agency|Online|Cancellation Plan|16|ITALY|80.0|0.0|36|No
+JZI|Airlines|Online|Basic Plan|3|MALAYSIA|18.0|6.3|45|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|87|CANADA|107.0|0.0|32|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|91|AUSTRALIA|51.0|0.0|36|No
 EPX|Travel Agency|Online|Cancellation Plan|68|SINGAPORE|19.0|0.0|36|No
@@ -33773,6 +34029,7 @@ C2B|Airlines|Online|Annual Silver Plan|385|SINGAPORE|216.0|54.0|23|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|36|MALAYSIA|19.8|11.88|31|No
 EPX|Travel Agency|Online|Cancellation Plan|31|CHINA|26.0|0.0|36|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|35|INDIA|35.0|0.0|36|No
+JZI|Airlines|Online|Basic Plan|5|INDIA|22.0|7.7|52|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|40|KOREA, REPUBLIC OF|19.8|11.88|41|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|4|AUSTRALIA|39.6|23.76|32|No
 EPX|Travel Agency|Online|Cancellation Plan|37|CHINA|15.0|0.0|36|No
@@ -33784,6 +34041,7 @@ EPX|Travel Agency|Online|2 way Comprehensive Plan|30|HONG KONG|76.0|0.0|36|No
 KML|Travel Agency|Online|Value Plan|7|NETHERLANDS|58.0|22.04|48|No
 C2B|Airlines|Online|Silver Plan|17|SINGAPORE|40.5|10.13|62|No
 C2B|Airlines|Online|Bronze Plan|24|SINGAPORE|50.0|12.5|41|No
+RAB|Airlines|Online|Value Plan|4|BRUNEI DARUSSALAM|15.0|6.0|30|No
 LWC|Travel Agency|Online|Annual Travel Protect Silver|416|UNITED STATES|287.0|186.55|36|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|8|INDONESIA|90.0|0.0|36|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|13|MALAYSIA|59.4|35.64|36|No
@@ -33875,6 +34133,7 @@ EPX|Travel Agency|Online|Cancellation Plan|10|HONG KONG|13.0|0.0|36|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|35|AUSTRALIA|69.3|41.58|48|No
 EPX|Travel Agency|Online|1 way Comprehensive Plan|132|KOREA, REPUBLIC OF|0.0|0.0|36|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|65|UNITED STATES|112.0|0.0|48|No
+KML|Travel Agency|Online|Premier Plan|6|INDONESIA|29.0|11.02|48|No
 C2B|Airlines|Online|Bronze Plan|49|SINGAPORE|39.0|9.75|62|No
 JZI|Airlines|Online|Basic Plan|14|CHINA|35.0|12.25|45|No
 CBH|Travel Agency|Offline|Comprehensive Plan|233|THAILAND|29.0|9.57|80|No
@@ -33896,6 +34155,7 @@ EPX|Travel Agency|Online|Cancellation Plan|61|INDONESIA|11.0|0.0|36|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|40|UNITED STATES|96.0|0.0|36|No
 EPX|Travel Agency|Online|Cancellation Plan|36|JAPAN|16.0|0.0|22|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|31|BANGLADESH|112.0|0.0|57|No
+C2B|Airlines|Online|Bronze Plan|5|SINGAPORE|13.5|3.38|34|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|6|UNITED ARAB EMIRATES|51.0|0.0|36|No
 TST|Travel Agency|Offline|Travel Cruise Protect|23|THAILAND|30.0|10.5|51|No
 C2B|Airlines|Online|Bronze Plan|2|SINGAPORE|11.5|2.88|37|No
@@ -34143,6 +34403,7 @@ EPX|Travel Agency|Online|2 way Comprehensive Plan|42|CHINA|28.0|0.0|36|No
 EPX|Travel Agency|Online|Cancellation Plan|100|SINGAPORE|21.0|0.0|36|No
 EPX|Travel Agency|Online|Cancellation Plan|43|SINGAPORE|10.0|0.0|36|No
 EPX|Travel Agency|Online|Cancellation Plan|3|THAILAND|24.0|0.0|46|No
+C2B|Airlines|Online|Bronze Plan|13|SINGAPORE|13.5|3.38|23|No
 EPX|Travel Agency|Online|Cancellation Plan|8|INDONESIA|24.0|0.0|39|No
 EPX|Travel Agency|Online|Cancellation Plan|54|INDIA|23.0|0.0|36|No
 EPX|Travel Agency|Online|Cancellation Plan|4|MALAYSIA|15.0|0.0|20|No
@@ -34327,6 +34588,7 @@ C2B|Airlines|Online|Bronze Plan|7|SINGAPORE|23.4|5.85|25|No
 EPX|Travel Agency|Online|Cancellation Plan|54|PHILIPPINES|19.0|0.0|36|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|10|ITALY|79.2|47.52|31|No
 SSI|Airlines|Online|Ticket Protector|65|SINGAPORE|7.2|2.02|48|No
+JZI|Airlines|Online|Basic Plan|32|TAIWAN, PROVINCE OF CHINA|26.0|9.1|39|No
 C2B|Airlines|Online|Silver Plan|62|SINGAPORE|95.0|23.75|30|No
 EPX|Travel Agency|Online|Cancellation Plan|318|UGANDA|80.0|0.0|36|No
 RAB|Airlines|Online|Value Plan|18|BRUNEI DARUSSALAM|15.0|6.0|38|No
@@ -34514,6 +34776,7 @@ EPX|Travel Agency|Online|Cancellation Plan|35|THAILAND|20.0|0.0|50|No
 LWC|Travel Agency|Online|Single Trip Travel Protect Platinum|2|INDONESIA|26.5|17.23|25|No
 C2B|Airlines|Online|Silver Plan|11|SINGAPORE|54.5|13.63|26|No
 EPX|Travel Agency|Online|1 way Comprehensive Plan|79|NEW ZEALAND|78.0|0.0|35|No
+TST|Travel Agency|Offline|Travel Cruise Protect|59|MALAYSIA|30.0|10.5|57|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|11|AUSTRALIA|0.0|23.76|31|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|14|INDONESIA|33.0|0.0|36|No
 EPX|Travel Agency|Online|Cancellation Plan|18|AUSTRALIA|80.0|0.0|36|No
@@ -34663,6 +34926,7 @@ EPX|Travel Agency|Online|Cancellation Plan|79|PHILIPPINES|10.0|0.0|36|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|80|AUSTRALIA|69.3|41.58|37|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|20|CAMBODIA|26.0|0.0|36|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|206|UNITED STATES|112.0|0.0|28|No
+TST|Travel Agency|Offline|Travel Cruise Protect|55|THAILAND|30.0|10.5|61|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|39|THAILAND|49.5|29.7|22|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|36|DENMARK|0.0|41.58|43|No
 CSR|Travel Agency|Offline|Comprehensive Plan|34|MALAYSIA|29.0|9.57|52|No
@@ -34756,6 +35020,7 @@ EPX|Travel Agency|Online|2 way Comprehensive Plan|20|CHINA|27.0|0.0|36|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|2|MALAYSIA|9.9|5.94|53|No
 EPX|Travel Agency|Online|Cancellation Plan|38|KOREA, REPUBLIC OF|22.0|0.0|36|No
 C2B|Airlines|Online|Gold Plan|10|SINGAPORE|27.0|6.75|45|No
+JZI|Airlines|Online|Basic Plan|13|THAILAND|22.0|7.7|45|No
 EPX|Travel Agency|Online|Cancellation Plan|35|PAPUA NEW GUINEA|41.0|0.0|36|No
 ART|Airlines|Online|Value Plan|7|SPAIN|59.0|20.65|118|No
 JZI|Airlines|Online|Basic Plan|24|THAILAND|22.0|7.7|22|No
@@ -34869,6 +35134,7 @@ EPX|Travel Agency|Online|Cancellation Plan|47|GERMANY|10.0|0.0|36|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|23|MALAYSIA|0.0|17.82|31|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|9|AUSTRALIA|0.0|17.82|38|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|24|AUSTRALIA|0.0|35.64|47|No
+C2B|Airlines|Online|Bronze Plan|18|SINGAPORE|53.5|13.38|26|No
 EPX|Travel Agency|Online|Cancellation Plan|163|THAILAND|18.0|0.0|76|No
 EPX|Travel Agency|Offline|2 way Comprehensive Plan|11|HONG KONG|20.0|0.0|33|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|13|JAPAN|20.0|0.0|22|No
@@ -34900,6 +35166,7 @@ TST|Travel Agency|Offline|Travel Cruise Protect|53|MALAYSIA|30.0|10.5|28|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|35|MALAYSIA|29.7|17.82|31|No
 EPX|Travel Agency|Online|Cancellation Plan|3|INDONESIA|10.0|0.0|35|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|38|THAILAND|19.8|11.88|33|No
+C2B|Airlines|Online|Bronze Plan|3|SINGAPORE|13.5|3.38|26|No
 SSI|Airlines|Online|Ticket Protector|2|SINGAPORE|3.09|0.87|48|No
 CCR|Travel Agency|Offline|Comprehensive Plan|56|THAILAND|0.0|9.57|20|No
 JZI|Airlines|Online|Basic Plan|19|THAILAND|30.0|10.5|47|No
@@ -34930,6 +35197,7 @@ EPX|Travel Agency|Online|Cancellation Plan|2|CHINA|11.0|0.0|57|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|10|MALAYSIA|49.5|29.7|54|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|17|CANADA|0.0|95.04|52|No
 JZI|Airlines|Online|Basic Plan|2|INDONESIA|18.0|6.3|32|No
+JWT|Airlines|Online|Value Plan|3|INDIA|31.0|12.4|118|No
 KML|Travel Agency|Online|Value Plan|122|INDONESIA|28.0|10.64|48|No
 CBH|Travel Agency|Offline|Comprehensive Plan|25|CHINA|0.0|16.5|32|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|88|UNITED KINGDOM|99.0|59.4|46|No
@@ -34963,6 +35231,7 @@ EPX|Travel Agency|Online|Cancellation Plan|17|VIET NAM|10.0|0.0|45|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|9|JAPAN|77.0|0.0|36|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|21|PHILIPPINES|24.0|0.0|36|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|142|UNITED KINGDOM|92.0|0.0|35|No
+C2B|Airlines|Online|Bronze Plan|10|SINGAPORE|27.0|6.75|30|No
 C2B|Airlines|Online|Annual Silver Plan|365|SINGAPORE|193.2|48.3|70|No
 EPX|Travel Agency|Online|Cancellation Plan|30|THAILAND|10.0|0.0|38|No
 C2B|Airlines|Online|Bronze Plan|14|SINGAPORE|27.0|6.75|29|No
@@ -34997,6 +35266,7 @@ CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|40|UNITED STATES|118.8|
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|56|THAILAND|59.4|35.64|31|No
 C2B|Airlines|Online|Silver Plan|9|SINGAPORE|35.4|8.85|60|No
 EPX|Travel Agency|Online|Cancellation Plan|5|VIET NAM|10.0|0.0|21|No
+JWT|Airlines|Online|Value Plan|19|INDIA|39.0|15.6|118|No
 EPX|Travel Agency|Online|Cancellation Plan|12|MALAYSIA|14.0|0.0|36|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|10|CHINA|42.0|0.0|36|No
 EPX|Travel Agency|Online|1 way Comprehensive Plan|5|CAMBODIA|22.0|0.0|36|No
@@ -35042,6 +35312,7 @@ EPX|Travel Agency|Online|Cancellation Plan|4|VIET NAM|11.0|0.0|36|No
 EPX|Travel Agency|Online|Cancellation Plan|1|CAMBODIA|12.0|0.0|36|No
 JZI|Airlines|Online|Basic Plan|34|HONG KONG|63.0|22.05|40|No
 EPX|Travel Agency|Online|Cancellation Plan|29|SINGAPORE|11.0|0.0|36|No
+KML|Travel Agency|Online|Value Plan|20|INDONESIA|28.0|10.64|48|No
 EPX|Travel Agency|Online|Cancellation Plan|26|SINGAPORE|36.0|0.0|36|No
 EPX|Travel Agency|Online|Cancellation Plan|16|CHINA|41.0|0.0|35|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|33|ITALY|89.1|53.46|31|No
@@ -35064,6 +35335,7 @@ EPX|Travel Agency|Online|1 way Comprehensive Plan|29|SINGAPORE|26.0|0.0|36|No
 C2B|Airlines|Online|Silver Plan|11|SINGAPORE|29.5|7.38|29|No
 C2B|Airlines|Online|Bronze Plan|10|SINGAPORE|27.0|6.75|62|No
 C2B|Airlines|Online|Bronze Plan|2|SINGAPORE|27.0|6.75|37|Yes
+C2B|Airlines|Online|Annual Silver Plan|367|SINGAPORE|216.0|54.0|30|No
 EPX|Travel Agency|Online|Cancellation Plan|11|VIET NAM|15.0|0.0|36|No
 EPX|Travel Agency|Online|Cancellation Plan|3|KOREA, REPUBLIC OF|49.0|0.0|21|No
 JZI|Airlines|Online|Basic Plan|15|INDONESIA|22.0|7.7|36|No
@@ -35082,6 +35354,7 @@ JZI|Airlines|Online|Value Plan|15|GERMANY|109.0|38.15|45|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|12|KOREA, REPUBLIC OF|39.6|23.76|34|No
 SSI|Airlines|Online|Ticket Protector|76|SINGAPORE|6.43|1.8|48|No
 C2B|Airlines|Online|Bronze Plan|8|SINGAPORE|17.55|4.39|33|No
+KML|Travel Agency|Online|Value Plan|11|INDONESIA|33.0|12.54|48|No
 JZI|Airlines|Online|Basic Plan|3|BANGLADESH|22.0|7.7|64|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|13|AUSTRALIA|59.4|35.64|31|No
 ADM|Travel Agency|Online|Premier Plan|88|GERMANY|0.0|49.4|22|No
@@ -35130,6 +35403,7 @@ C2B|Airlines|Online|Silver Plan|15|SINGAPORE|65.4|16.35|56|No
 EPX|Travel Agency|Online|1 way Comprehensive Plan|31|THAILAND|20.0|0.0|36|No
 EPX|Travel Agency|Online|Cancellation Plan|2|VIET NAM|18.0|0.0|36|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|20|HONG KONG|25.0|0.0|36|No
+RAB|Airlines|Online|Value Plan|16|BRUNEI DARUSSALAM|15.0|6.0|50|No
 JZI|Airlines|Online|Basic Plan|70|CHINA|44.0|15.4|17|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|11|AUSTRALIA|79.2|47.52|58|No
 EPX|Travel Agency|Online|Cancellation Plan|2|THAILAND|30.0|0.0|36|No
@@ -35153,6 +35427,7 @@ EPX|Travel Agency|Online|2 way Comprehensive Plan|94|CHINA|20.0|0.0|36|No
 EPX|Travel Agency|Online|Cancellation Plan|15|AUSTRALIA|12.0|0.0|54|No
 EPX|Travel Agency|Online|Cancellation Plan|24|CHINA|21.0|0.0|36|No
 EPX|Travel Agency|Online|Cancellation Plan|20|NEW ZEALAND|67.0|0.0|36|No
+JZI|Airlines|Online|Basic Plan|13|HONG KONG|0.0|9.1|64|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|5|JAPAN|53.0|0.0|36|No
 EPX|Travel Agency|Online|Cancellation Plan|50|SINGAPORE|63.0|0.0|36|No
 EPX|Travel Agency|Online|Cancellation Plan|38|MALAYSIA|10.0|0.0|35|No
@@ -35196,10 +35471,13 @@ JZI|Airlines|Online|Basic Plan|44|VIET NAM|22.0|7.7|53|No
 C2B|Airlines|Online|Bronze Plan|8|SINGAPORE|23.5|5.88|54|No
 RAB|Airlines|Online|Value Plan|5|BRUNEI DARUSSALAM|15.0|6.0|53|No
 EPX|Travel Agency|Online|Cancellation Plan|7|AUSTRALIA|41.0|0.0|36|No
+JWT|Airlines|Online|Value Plan|62|INDIA|31.0|12.4|118|No
 EPX|Travel Agency|Online|Cancellation Plan|81|UNITED ARAB EMIRATES|80.0|0.0|36|No
+RAB|Airlines|Online|Value Plan|2|BRUNEI DARUSSALAM|15.0|6.0|45|No
 EPX|Travel Agency|Online|Cancellation Plan|25|INDIA|14.0|0.0|41|No
 EPX|Travel Agency|Online|Cancellation Plan|59|THAILAND|32.0|0.0|36|No
 TST|Travel Agency|Offline|Travel Cruise Protect|10|THAILAND|30.0|10.5|82|No
+KML|Travel Agency|Online|Value Plan|34|INDONESIA|28.0|10.64|48|No
 JZI|Airlines|Online|Basic Plan|14|MYANMAR|33.0|11.55|34|No
 EPX|Travel Agency|Online|Cancellation Plan|22|MALAYSIA|10.0|0.0|64|No
 RAB|Airlines|Online|Value Plan|25|BRUNEI DARUSSALAM|23.0|9.2|20|No
@@ -35241,6 +35519,7 @@ EPX|Travel Agency|Online|Cancellation Plan|25|INDONESIA|12.0|0.0|26|No
 EPX|Travel Agency|Online|Cancellation Plan|50|MYANMAR|10.0|0.0|36|No
 C2B|Airlines|Online|Silver Plan|2|SINGAPORE|37.0|9.25|69|No
 EPX|Travel Agency|Online|Cancellation Plan|5|MYANMAR|10.0|0.0|46|No
+CCR|Travel Agency|Offline|Comprehensive Plan|6|THAILAND|29.0|9.57|118|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|47|UNITED STATES|89.1|53.46|46|No
 C2B|Airlines|Online|Bronze Plan|4|SINGAPORE|18.0|4.5|40|No
 EPX|Travel Agency|Online|Cancellation Plan|95|TAIWAN, PROVINCE OF CHINA|17.0|0.0|36|No
@@ -35255,6 +35534,7 @@ SSI|Airlines|Online|Ticket Protector|11|SINGAPORE|1.13|0.32|48|No
 EPX|Travel Agency|Online|Cancellation Plan|107|MYANMAR|12.0|0.0|36|No
 EPX|Travel Agency|Online|1 way Comprehensive Plan|73|SINGAPORE|20.0|0.0|36|No
 EPX|Travel Agency|Online|Cancellation Plan|35|THAILAND|10.0|0.0|45|No
+CCR|Travel Agency|Offline|Comprehensive Plan|77|THAILAND|29.0|9.57|67|No
 EPX|Travel Agency|Online|Cancellation Plan|32|THAILAND|47.0|0.0|36|No
 EPX|Travel Agency|Online|Cancellation Plan|31|INDIA|34.0|0.0|36|No
 EPX|Travel Agency|Online|Cancellation Plan|98|SINGAPORE|32.0|0.0|21|No
@@ -35286,11 +35566,13 @@ EPX|Travel Agency|Online|1 way Comprehensive Plan|11|CHINA|20.0|0.0|35|No
 EPX|Travel Agency|Online|Cancellation Plan|79|THAILAND|25.0|0.0|36|No
 EPX|Travel Agency|Online|Cancellation Plan|3|MALAYSIA|10.0|0.0|28|No
 C2B|Airlines|Online|Silver Plan|51|SINGAPORE|22.2|5.55|30|No
+C2B|Airlines|Online|Silver Plan|5|SINGAPORE|22.5|5.63|27|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|44|AUSTRALIA|158.4|95.04|31|No
 EPX|Travel Agency|Online|Cancellation Plan|16|CAMBODIA|18.0|0.0|36|No
 C2B|Airlines|Online|Bronze Plan|42|SINGAPORE|40.2|10.05|86|No
 C2B|Airlines|Online|Bronze Plan|9|SINGAPORE|27.0|6.75|31|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|34|MALAYSIA|24.0|0.0|35|No
+KML|Travel Agency|Online|Premier Plan|5|INDONESIA|38.0|14.44|48|No
 EPX|Travel Agency|Online|Cancellation Plan|35|THAILAND|10.0|0.0|31|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|31|THAILAND|29.7|17.82|44|No
 C2B|Airlines|Online|Annual Silver Plan|368|SINGAPORE|302.4|75.6|36|Yes
@@ -35396,6 +35678,7 @@ EPX|Travel Agency|Online|Cancellation Plan|40|SINGAPORE|16.0|0.0|45|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|9|CAMBODIA|48.0|0.0|36|No
 JZI|Airlines|Online|Basic Plan|29|MYANMAR|33.0|11.55|50|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|29|BELARUS|74.0|0.0|35|No
+C2B|Airlines|Online|Bronze Plan|5|SINGAPORE|13.5|3.38|32|No
 EPX|Travel Agency|Online|Cancellation Plan|53|INDIA|28.0|0.0|36|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|22|THAILAND|39.0|0.0|36|No
 C2B|Airlines|Online|Silver Plan|15|SINGAPORE|54.5|13.63|50|No
@@ -35486,6 +35769,7 @@ KML|Travel Agency|Online|Value Plan|24|NETHERLANDS|58.0|22.04|48|No
 ART|Airlines|Online|24 Protect|50|HONG KONG|30.95|10.83|48|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|14|THAILAND|49.5|29.7|31|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|79|FRANCE|19.8|11.88|37|No
+CBH|Travel Agency|Offline|Comprehensive Plan|13|MALAYSIA|29.0|9.57|70|No
 EPX|Travel Agency|Online|Cancellation Plan|12|BRUNEI DARUSSALAM|10.0|0.0|75|No
 EPX|Travel Agency|Online|Cancellation Plan|5|MALAYSIA|17.0|0.0|28|No
 EPX|Travel Agency|Online|Cancellation Plan|69|THAILAND|11.0|0.0|48|No
@@ -35627,6 +35911,7 @@ EPX|Travel Agency|Online|2 way Comprehensive Plan|70|UNITED STATES|107.0|0.0|29|
 EPX|Travel Agency|Online|2 way Comprehensive Plan|30|SINGAPORE|21.0|0.0|36|No
 C2B|Airlines|Online|Bronze Plan|11|SINGAPORE|38.35|9.59|43|No
 EPX|Travel Agency|Online|Cancellation Plan|35|PHILIPPINES|10.0|0.0|36|No
+TST|Travel Agency|Offline|Travel Cruise Protect|8|THAILAND|30.0|10.5|53|No
 JWT|Airlines|Online|Value Plan|146|INDIA|420.0|168.0|118|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|73|SINGAPORE|39.6|23.76|38|No
 EPX|Travel Agency|Online|Cancellation Plan|35|THAILAND|10.0|0.0|42|No
@@ -35773,6 +36058,7 @@ EPX|Travel Agency|Online|Cancellation Plan|80|UNITED STATES|14.0|0.0|20|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|2|UNITED KINGDOM|9.9|5.94|42|No
 JZI|Airlines|Online|Value Plan|7|KOREA, REPUBLIC OF|45.0|15.75|49|No
 EPX|Travel Agency|Online|Cancellation Plan|16|LAO PEOPLE'S DEMOCRATIC REPUBLIC|75.0|0.0|36|No
+JZI|Airlines|Online|Basic Plan|4|INDONESIA|18.0|6.3|31|No
 EPX|Travel Agency|Online|Cancellation Plan|54|HONG KONG|14.0|0.0|23|No
 EPX|Travel Agency|Online|Cancellation Plan|67|INDONESIA|10.0|0.0|25|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|45|THAILAND|29.0|0.0|36|No
@@ -35916,6 +36202,7 @@ RAB|Airlines|Online|Value Plan|7|BRUNEI DARUSSALAM|15.0|6.0|47|No
 EPX|Travel Agency|Online|Cancellation Plan|3|UNITED KINGDOM|51.0|0.0|36|No
 C2B|Airlines|Online|Silver Plan|10|SINGAPORE|41.5|10.38|28|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|20|MALAYSIA|20.0|0.0|26|No
+RAB|Airlines|Online|Value Plan|3|BRUNEI DARUSSALAM|15.0|6.0|47|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|3|INDONESIA|0.0|5.94|31|No
 C2B|Airlines|Online|Bronze Plan|197|SINGAPORE|336.5|84.13|22|Yes
 EPX|Travel Agency|Online|Cancellation Plan|25|BELGIUM|15.0|0.0|36|No
@@ -36040,6 +36327,7 @@ EPX|Travel Agency|Online|2 way Comprehensive Plan|180|JAPAN|28.0|0.0|36|No
 EPX|Travel Agency|Online|Cancellation Plan|24|SINGAPORE|10.0|0.0|55|No
 JZI|Airlines|Online|Basic Plan|39|CHINA|35.0|12.25|30|No
 EPX|Travel Agency|Online|Cancellation Plan|58|JAPAN|32.0|0.0|36|No
+RAB|Airlines|Online|Value Plan|10|BRUNEI DARUSSALAM|15.0|6.0|53|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|13|JAPAN|69.0|0.0|46|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|13|INDIA|28.0|0.0|36|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|11|AUSTRALIA|89.1|53.46|57|No
@@ -36150,6 +36438,7 @@ EPX|Travel Agency|Online|2 way Comprehensive Plan|6|VIET NAM|20.0|0.0|45|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|46|JAPAN|54.0|0.0|36|No
 C2B|Airlines|Online|Annual Silver Plan|367|SINGAPORE|187.85|46.96|70|No
 EPX|Travel Agency|Online|Cancellation Plan|18|TAIWAN, PROVINCE OF CHINA|18.0|0.0|22|No
+JWT|Airlines|Online|Value Plan|33|INDIA|31.0|12.4|118|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|40|JAPAN|49.0|0.0|36|No
 JZI|Airlines|Online|Basic Plan|61|AUSTRALIA|26.0|9.1|27|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|25|CHINA|25.0|0.0|36|No
@@ -36240,6 +36529,7 @@ JZI|Airlines|Online|Value Plan|95|GERMANY|87.0|30.45|57|No
 JZI|Airlines|Online|Basic Plan|60|HONG KONG|26.0|9.1|50|No
 SSI|Airlines|Online|Ticket Protector|55|SINGAPORE|21.35|5.98|48|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|149|INDONESIA|20.0|0.0|30|No
+C2B|Airlines|Online|Silver Plan|8|SINGAPORE|47.5|11.88|29|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|8|MALAYSIA|39.6|23.76|28|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|8|MALAYSIA|29.7|17.82|41|No
 JZI|Airlines|Online|Basic Plan|24|PHILIPPINES|18.0|6.3|118|No
@@ -36365,6 +36655,7 @@ EPX|Travel Agency|Online|2 way Comprehensive Plan|45|MALAYSIA|20.0|0.0|60|No
 C2B|Airlines|Online|Bronze Plan|10|SINGAPORE|53.0|13.25|51|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|29|THAILAND|19.8|11.88|23|No
 C2B|Airlines|Online|Bronze Plan|12|SINGAPORE|33.5|8.38|32|No
+C2B|Airlines|Online|Bronze Plan|5|SINGAPORE|13.5|3.38|37|No
 JZI|Airlines|Online|Basic Plan|38|CHINA|26.0|9.1|30|No
 JZI|Airlines|Online|Basic Plan|27|MALAYSIA|18.0|6.3|27|No
 JZI|Airlines|Online|Basic Plan|18|MYANMAR|22.0|7.7|41|No
@@ -36381,6 +36672,7 @@ SSI|Airlines|Online|Ticket Protector|81|SINGAPORE|8.49|2.38|48|No
 EPX|Travel Agency|Online|Cancellation Plan|9|SINGAPORE|31.0|0.0|22|No
 C2B|Airlines|Online|Bronze Plan|9|SINGAPORE|22.1|5.53|24|No
 EPX|Travel Agency|Online|Cancellation Plan|36|GERMANY|13.0|0.0|36|No
+JWT|Airlines|Online|Value Plan|2|INDIA|93.0|37.2|118|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|53|CHINA|22.0|0.0|36|No
 EPX|Travel Agency|Online|Cancellation Plan|85|FRANCE|16.0|0.0|36|No
 EPX|Travel Agency|Online|Cancellation Plan|4|HONG KONG|19.0|0.0|36|No
@@ -36402,6 +36694,7 @@ JZI|Airlines|Online|Value Plan|7|CHINA|45.0|15.75|53|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|54|CANADA|112.0|0.0|59|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|9|INDONESIA|24.0|0.0|28|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|75|UNITED STATES|104.0|0.0|36|No
+C2B|Airlines|Online|Silver Plan|7|SINGAPORE|24.5|6.13|29|No
 C2B|Airlines|Online|Bronze Plan|17|SINGAPORE|33.5|8.38|33|No
 ART|Airlines|Online|24 Protect|11|MALAYSIA|8.62|3.02|48|No
 EPX|Travel Agency|Online|1 way Comprehensive Plan|2|CHINA|33.0|0.0|36|No
@@ -36445,6 +36738,7 @@ EPX|Travel Agency|Online|2 way Comprehensive Plan|6|PHILIPPINES|35.0|0.0|36|No
 TST|Travel Agency|Offline|Travel Cruise Protect|72|MALAYSIA|30.0|10.5|85|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|21|AUSTRALIA|0.0|23.76|31|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|23|UNITED STATES|65.0|0.0|22|No
+C2B|Airlines|Online|Bronze Plan|11|SINGAPORE|20.0|5.0|25|No
 CCR|Travel Agency|Offline|Comprehensive Plan|245|THAILAND|29.0|9.57|70|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|121|FRANCE|80.0|0.0|36|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|5|TAIWAN, PROVINCE OF CHINA|9.9|5.94|33|No
@@ -36458,6 +36752,7 @@ EPX|Travel Agency|Online|2 way Comprehensive Plan|226|THAILAND|35.0|0.0|31|No
 EPX|Travel Agency|Online|Cancellation Plan|39|HONG KONG|22.0|0.0|36|No
 EPX|Travel Agency|Online|Cancellation Plan|174|ITALY|80.0|0.0|36|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|6|MALAYSIA|20.0|0.0|25|No
+C2B|Airlines|Online|Bronze Plan|6|SINGAPORE|16.0|4.0|51|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|70|JAPAN|49.5|29.7|44|No
 EPX|Travel Agency|Online|Cancellation Plan|3|INDIA|25.0|0.0|36|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|73|UNITED STATES|69.3|41.58|47|No
@@ -36588,6 +36883,7 @@ C2B|Airlines|Online|Silver Plan|6|SINGAPORE|22.5|5.63|28|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|32|EGYPT|112.0|0.0|36|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|17|TAIWAN, PROVINCE OF CHINA|29.7|17.82|37|Yes
 EPX|Travel Agency|Online|2 way Comprehensive Plan|52|THAILAND|35.0|0.0|36|No
+C2B|Airlines|Online|Bronze Plan|11|SINGAPORE|29.5|7.38|26|No
 JWT|Airlines|Online|Value Plan|32|INDIA|117.0|46.8|118|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|24|AUSTRALIA|20.0|0.0|36|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|9|INDIA|61.0|0.0|35|No
@@ -36653,6 +36949,7 @@ JZI|Airlines|Online|Value Plan|32|AUSTRALIA|83.0|29.05|52|No
 C2B|Airlines|Online|Bronze Plan|19|SINGAPORE|35.5|8.88|34|No
 JZI|Airlines|Online|Basic Plan|181|INDONESIA|30.0|10.5|48|No
 C2B|Airlines|Online|Annual Silver Plan|396|SINGAPORE|259.2|64.8|53|Yes
+JWT|Airlines|Online|Value Plan|8|INDIA|50.0|20.0|118|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|41|TAIWAN, PROVINCE OF CHINA|26.0|0.0|36|No
 EPX|Travel Agency|Online|Cancellation Plan|21|UNITED KINGDOM|62.0|0.0|36|No
 EPX|Travel Agency|Online|Cancellation Plan|12|TURKEY|80.0|0.0|36|No
@@ -36677,6 +36974,7 @@ EPX|Travel Agency|Online|2 way Comprehensive Plan|6|MYANMAR|24.0|0.0|32|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|53|AUSTRALIA|50.0|0.0|29|No
 C2B|Airlines|Online|Silver Plan|1|SINGAPORE|15.0|3.75|65|No
 EPX|Travel Agency|Online|1 way Comprehensive Plan|22|SINGAPORE|0.0|0.0|36|No
+C2B|Airlines|Online|Bronze Plan|4|SINGAPORE|16.0|4.0|31|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|33|CHINA|45.0|0.0|36|No
 SSI|Airlines|Online|Ticket Protector|56|SINGAPORE|1.09|0.31|48|No
 EPX|Travel Agency|Online|Cancellation Plan|2|SINGAPORE|47.0|0.0|36|No
@@ -36761,10 +37059,12 @@ EPX|Travel Agency|Online|Cancellation Plan|7|THAILAND|10.0|0.0|24|No
 JZI|Airlines|Online|Value Plan|21|CHINA|58.0|20.3|63|No
 C2B|Airlines|Online|Silver Plan|37|SINGAPORE|66.0|16.5|35|No
 EPX|Travel Agency|Online|Cancellation Plan|97|SRI LANKA|16.0|0.0|36|No
+JZI|Airlines|Online|Basic Plan|8|MALAYSIA|18.0|6.3|27|No
 JZI|Airlines|Online|Basic Plan|7|MALAYSIA|22.0|7.7|42|No
 EPX|Travel Agency|Online|Cancellation Plan|9|INDONESIA|10.0|0.0|38|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|41|AUSTRALIA|78.0|0.0|79|No
 EPX|Travel Agency|Online|Cancellation Plan|67|GREECE|59.0|0.0|36|No
+JZI|Airlines|Online|Basic Plan|18|MALAYSIA|18.0|6.3|30|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|30|AUSTRALIA|99.0|59.4|48|No
 KML|Travel Agency|Online|Value Plan|26|INDONESIA|22.0|8.36|48|No
 EPX|Travel Agency|Online|Cancellation Plan|134|UNITED STATES|80.0|0.0|35|No
@@ -36813,6 +37113,7 @@ EPX|Travel Agency|Online|2 way Comprehensive Plan|48|KOREA, REPUBLIC OF|109.0|0.
 EPX|Travel Agency|Online|Cancellation Plan|10|INDONESIA|10.0|0.0|44|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|16|MALAYSIA|19.8|11.88|28|No
 TST|Travel Agency|Offline|Travel Cruise Protect|10|MALAYSIA|30.0|10.5|48|No
+C2B|Airlines|Online|Bronze Plan|8|SINGAPORE|22.1|5.53|47|No
 C2B|Airlines|Online|Bronze Plan|34|SINGAPORE|56.5|14.13|31|No
 EPX|Travel Agency|Online|Cancellation Plan|83|CHINA|45.0|0.0|36|No
 EPX|Travel Agency|Online|1 way Comprehensive Plan|47|FIJI|40.0|0.0|36|No
@@ -36908,6 +37209,7 @@ C2B|Airlines|Online|Bronze Plan|29|SINGAPORE|44.5|11.13|49|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|39|UNITED KINGDOM|39.6|23.76|31|No
 EPX|Travel Agency|Online|Cancellation Plan|166|UNITED STATES|57.0|0.0|25|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|194|THAILAND|59.4|35.64|44|No
+C2B|Airlines|Online|Annual Silver Plan|368|SINGAPORE|216.0|54.0|30|No
 EPX|Travel Agency|Online|1 way Comprehensive Plan|17|SINGAPORE|20.0|0.0|38|No
 C2B|Airlines|Online|Silver Plan|3|SINGAPORE|18.5|4.63|34|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|54|MALAYSIA|20.0|0.0|36|No
@@ -36964,6 +37266,7 @@ EPX|Travel Agency|Online|Cancellation Plan|21|INDONESIA|12.0|0.0|36|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|33|AUSTRALIA|69.3|41.58|41|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|54|VIET NAM|20.0|0.0|36|No
 EPX|Travel Agency|Online|Cancellation Plan|10|INDONESIA|21.0|0.0|36|No
+RAB|Airlines|Online|Value Plan|7|BRUNEI DARUSSALAM|15.0|6.0|58|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|4|CHINA|35.0|0.0|36|No
 C2B|Airlines|Online|Silver Plan|178|SINGAPORE|340.5|85.13|25|No
 JWT|Airlines|Online|Value Plan|132|INDIA|31.0|12.4|118|No
@@ -36973,12 +37276,14 @@ JZI|Airlines|Online|Basic Plan|7|MALAYSIA|22.0|7.7|43|No
 EPX|Travel Agency|Online|Cancellation Plan|39|SINGAPORE|18.0|0.0|36|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|41|THAILAND|21.0|0.0|36|No
 EPX|Travel Agency|Online|1 way Comprehensive Plan|149|SINGAPORE|21.0|0.0|23|No
+JWT|Airlines|Online|Value Plan|1|INDIA|62.0|24.8|118|No
 JZI|Airlines|Online|Basic Plan|118|HONG KONG|26.0|9.1|42|No
 C2B|Airlines|Online|Silver Plan|11|SINGAPORE|33.5|8.38|50|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|9|THAILAND|30.0|0.0|50|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|52|UNITED KINGDOM|0.0|41.58|55|No
 JZI|Airlines|Online|Basic Plan|23|MALAYSIA|30.0|10.5|55|No
 EPX|Travel Agency|Online|Cancellation Plan|26|CHINA|62.0|0.0|36|No
+C2B|Airlines|Online|Silver Plan|6|SINGAPORE|18.5|4.63|28|No
 EPX|Travel Agency|Online|Cancellation Plan|32|CHINA|14.0|0.0|36|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|28|AUSTRALIA|86.0|0.0|36|No
 EPX|Travel Agency|Online|Cancellation Plan|3|VIET NAM|18.0|0.0|36|No
@@ -37030,6 +37335,7 @@ EPX|Travel Agency|Online|2 way Comprehensive Plan|14|CHINA|73.0|0.0|36|No
 EPX|Travel Agency|Online|Cancellation Plan|64|CHINA|21.0|0.0|36|No
 EPX|Travel Agency|Online|Cancellation Plan|82|INDIA|22.0|0.0|35|No
 EPX|Travel Agency|Online|Cancellation Plan|98|JAPAN|31.0|0.0|36|No
+JWT|Airlines|Online|Value Plan|19|INDIA|31.0|12.4|118|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|31|AUSTRALIA|59.0|0.0|36|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|44|CHINA|26.0|0.0|36|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|41|JAPAN|32.0|0.0|36|No
@@ -37126,6 +37432,7 @@ EPX|Travel Agency|Online|2 way Comprehensive Plan|15|FRANCE|81.0|0.0|36|No
 RAB|Airlines|Online|Value Plan|4|BRUNEI DARUSSALAM|15.0|6.0|41|No
 EPX|Travel Agency|Online|Cancellation Plan|37|CHINA|22.0|0.0|36|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|21|UNITED KINGDOM|19.8|11.88|47|No
+JWT|Airlines|Online|Value Plan|22|INDIA|39.0|15.6|118|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|8|VIET NAM|20.0|0.0|32|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|49|AUSTRALIA|59.4|35.64|31|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|42|TAIWAN, PROVINCE OF CHINA|29.0|0.0|36|No
@@ -37133,7 +37440,9 @@ EPX|Travel Agency|Online|2 way Comprehensive Plan|7|PHILIPPINES|29.0|0.0|36|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|58|KOREA, REPUBLIC OF|112.0|0.0|36|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|138|TAIWAN, PROVINCE OF CHINA|20.0|0.0|35|No
 EPX|Travel Agency|Online|Cancellation Plan|20|CHINA|29.0|0.0|36|No
+C2B|Airlines|Online|Silver Plan|4|SINGAPORE|18.5|4.63|28|No
 EPX|Travel Agency|Online|Cancellation Plan|5|BANGLADESH|10.0|0.0|32|No
+C2B|Airlines|Online|Bronze Plan|6|SINGAPORE|21.0|5.25|29|No
 JZI|Airlines|Online|Basic Plan|52|PHILIPPINES|37.0|12.95|34|No
 EPX|Travel Agency|Online|Cancellation Plan|22|ARGENTINA|32.0|0.0|36|No
 EPX|Travel Agency|Online|Cancellation Plan|16|INDONESIA|10.0|0.0|22|No
@@ -37216,6 +37525,7 @@ JZI|Airlines|Online|Basic Plan|74|THAILAND|22.0|7.7|53|No
 EPX|Travel Agency|Online|Cancellation Plan|21|JAPAN|19.0|0.0|36|No
 EPX|Travel Agency|Online|Cancellation Plan|12|HONG KONG|17.0|0.0|36|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|24|GERMANY|138.6|83.16|44|No
+C2B|Airlines|Online|Annual Silver Plan|367|SINGAPORE|216.0|54.0|33|No
 EPX|Travel Agency|Online|Cancellation Plan|21|KOREA, REPUBLIC OF|24.0|0.0|34|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|25|CAMBODIA|63.0|0.0|36|No
 C2B|Airlines|Online|Silver Plan|17|SINGAPORE|109.0|27.25|36|No
@@ -37243,6 +37553,7 @@ EPX|Travel Agency|Online|Cancellation Plan|47|HONG KONG|18.0|0.0|36|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|70|JAPAN|78.0|0.0|36|No
 EPX|Travel Agency|Online|Cancellation Plan|4|CHINA|30.0|0.0|36|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|7|SINGAPORE|34.0|0.0|36|No
+RAB|Airlines|Online|Value Plan|6|BRUNEI DARUSSALAM|15.0|6.0|48|No
 LWC|Travel Agency|Online|Single Trip Travel Protect Gold|39|UNITED KINGDOM|76.0|49.4|31|No
 JZI|Airlines|Online|Basic Plan|68|THAILAND|22.0|7.7|40|No
 EPX|Travel Agency|Online|Cancellation Plan|4|HONG KONG|21.0|0.0|36|No
@@ -37250,6 +37561,7 @@ EPX|Travel Agency|Online|Cancellation Plan|14|THAILAND|16.0|0.0|46|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|35|HONG KONG|34.0|0.0|36|No
 EPX|Travel Agency|Online|Cancellation Plan|100|GERMANY|71.0|0.0|36|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|26|KOREA, REPUBLIC OF|29.7|17.82|31|No
+C2B|Airlines|Online|Annual Silver Plan|378|SINGAPORE|216.0|54.0|36|No
 KML|Travel Agency|Online|Value Plan|96|INDONESIA|33.0|12.54|48|No
 EPX|Travel Agency|Online|1 way Comprehensive Plan|43|JAPAN|20.0|0.0|36|No
 JZI|Airlines|Online|Basic Plan|2|PHILIPPINES|18.0|6.3|47|No
@@ -37260,6 +37572,7 @@ CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|4|NEW ZEALAND|29.7|17.8
 EPX|Travel Agency|Online|2 way Comprehensive Plan|15|VIET NAM|51.0|0.0|36|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|56|JAPAN|50.0|0.0|36|No
 C2B|Airlines|Online|Silver Plan|99|SINGAPORE|157.0|39.25|49|No
+C2B|Airlines|Online|Annual Silver Plan|364|SINGAPORE|216.0|54.0|39|No
 EPX|Travel Agency|Online|Cancellation Plan|10|KOREA, REPUBLIC OF|23.0|0.0|36|No
 EPX|Travel Agency|Online|Cancellation Plan|80|UNITED STATES|10.0|0.0|29|No
 C2B|Airlines|Online|Annual Gold Plan|364|SINGAPORE|399.6|99.9|29|No
@@ -37306,6 +37619,7 @@ CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|8|THAILAND|39.6|23.76|4
 C2B|Airlines|Online|Bronze Plan|8|SINGAPORE|27.0|6.75|34|No
 EPX|Travel Agency|Online|1 way Comprehensive Plan|34|SINGAPORE|0.0|0.0|36|No
 JZI|Airlines|Online|Basic Plan|20|THAILAND|22.0|7.7|34|No
+RAB|Airlines|Online|Value Plan|22|BRUNEI DARUSSALAM|15.0|6.0|27|No
 EPX|Travel Agency|Online|1 way Comprehensive Plan|57|SINGAPORE|20.0|0.0|42|No
 EPX|Travel Agency|Online|1 way Comprehensive Plan|4|ROMANIA|73.0|0.0|36|No
 JZI|Airlines|Online|Basic Plan|38|MALAYSIA|22.0|7.7|48|No
@@ -37407,6 +37721,7 @@ EPX|Travel Agency|Online|1 way Comprehensive Plan|86|AUSTRALIA|22.0|0.0|70|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|7|VIET NAM|39.0|0.0|41|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|3|JAPAN|0.0|5.94|31|No
 EPX|Travel Agency|Online|Cancellation Plan|4|MALAYSIA|34.0|0.0|36|No
+C2B|Airlines|Online|Annual Silver Plan|366|SINGAPORE|252.85|63.21|32|No
 C2B|Airlines|Online|Annual Silver Plan|379|SINGAPORE|259.2|64.8|29|No
 EPX|Travel Agency|Online|Cancellation Plan|54|JAPAN|37.0|0.0|35|No
 SSI|Airlines|Online|Ticket Protector|4831|SINGAPORE|0.32|0.09|48|No
@@ -37418,6 +37733,7 @@ EPX|Travel Agency|Online|1 way Comprehensive Plan|63|UNITED KINGDOM|51.0|0.0|36|
 EPX|Travel Agency|Online|2 way Comprehensive Plan|35|CHINA|65.0|0.0|36|No
 JZI|Airlines|Online|Value Plan|10|CHINA|58.0|20.3|46|No
 EPX|Travel Agency|Online|Cancellation Plan|33|MYANMAR|10.0|0.0|36|No
+C2B|Airlines|Online|Annual Silver Plan|371|SINGAPORE|216.0|54.0|28|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|113|THAILAND|22.0|0.0|31|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|59|UNITED KINGDOM|0.0|47.52|45|No
 EPX|Travel Agency|Online|Cancellation Plan|16|TAIWAN, PROVINCE OF CHINA|16.0|0.0|36|No
@@ -37479,11 +37795,13 @@ EPX|Travel Agency|Online|Cancellation Plan|8|SINGAPORE|10.0|0.0|35|No
 EPX|Travel Agency|Online|Cancellation Plan|41|HONG KONG|13.0|0.0|36|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|52|MALAYSIA|29.7|17.82|50|No
 JZI|Airlines|Online|Basic Plan|74|TAIWAN, PROVINCE OF CHINA|26.0|9.1|32|No
+C2B|Airlines|Online|Silver Plan|8|SINGAPORE|18.5|4.63|28|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|66|TAIWAN, PROVINCE OF CHINA|30.0|0.0|36|No
 SSI|Airlines|Online|Ticket Protector|131|SINGAPORE|7.8|2.19|48|No
 C2B|Airlines|Online|Annual Silver Plan|368|SINGAPORE|216.0|54.0|66|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|7|MALAYSIA|39.6|23.76|39|No
 JZI|Airlines|Online|Basic Plan|47|THAILAND|0.0|10.5|43|No
+C2B|Airlines|Online|Silver Plan|3|SINGAPORE|18.5|4.63|33|No
 C2B|Airlines|Online|Annual Silver Plan|365|SINGAPORE|161.0|40.25|59|No
 EPX|Travel Agency|Online|Cancellation Plan|43|MOLDOVA, REPUBLIC OF|14.0|0.0|36|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|15|FRANCE|19.8|11.88|39|No
@@ -37491,6 +37809,7 @@ EPX|Travel Agency|Online|Cancellation Plan|21|MALAYSIA|12.0|0.0|26|Yes
 SSI|Airlines|Online|Ticket Protector|25|SINGAPORE|17.82|4.99|48|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|93|UNITED KINGDOM|29.7|17.82|45|No
 ART|Airlines|Online|Value Plan|11|INDONESIA|29.0|10.15|118|No
+JZI|Airlines|Online|Basic Plan|2|MALAYSIA|18.0|6.3|45|No
 EPX|Travel Agency|Online|1 way Comprehensive Plan|54|SINGAPORE|20.0|0.0|36|No
 EPX|Travel Agency|Online|Cancellation Plan|9|THAILAND|18.0|0.0|59|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|27|JAPAN|68.0|0.0|36|No
@@ -37633,6 +37952,7 @@ CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|89|AUSTRALIA|108.9|65.3
 C2B|Airlines|Online|Bronze Plan|116|SINGAPORE|53.5|13.38|36|Yes
 EPX|Travel Agency|Online|Cancellation Plan|16|TAIWAN, PROVINCE OF CHINA|10.0|0.0|48|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|104|INDONESIA|20.0|0.0|35|No
+TST|Travel Agency|Offline|Travel Cruise Protect|72|MALAYSIA|30.0|10.5|69|No
 EPX|Travel Agency|Online|Cancellation Plan|28|KOREA, REPUBLIC OF|80.0|0.0|36|No
 EPX|Travel Agency|Online|Cancellation Plan|64|JAPAN|51.0|0.0|29|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|90|UNITED KINGDOM|138.6|83.16|36|No
@@ -37664,6 +37984,7 @@ CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|8|NEW ZEALAND|59.4|35.6
 EPX|Travel Agency|Online|1 way Comprehensive Plan|25|NEW ZEALAND|56.0|0.0|36|No
 C2B|Airlines|Online|Bronze Plan|43|SINGAPORE|16.0|4.0|63|No
 TST|Travel Agency|Offline|Travel Cruise Protect|74|MALAYSIA|30.0|10.5|54|No
+C2B|Airlines|Online|Annual Silver Plan|373|SINGAPORE|216.0|54.0|40|No
 KML|Travel Agency|Online|Premier Plan|17|NETHERLANDS|86.0|32.68|48|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|35|AUSTRALIA|69.3|41.58|26|No
 C2B|Airlines|Online|Bronze Plan|11|SINGAPORE|40.0|10.0|32|No
@@ -37671,9 +37992,11 @@ SSI|Airlines|Online|Ticket Protector|62|SINGAPORE|10.75|3.02|48|No
 EPX|Travel Agency|Online|Cancellation Plan|2|LAO PEOPLE'S DEMOCRATIC REPUBLIC|10.0|0.0|36|No
 C2B|Airlines|Online|Bronze Plan|48|SINGAPORE|0.0|8.88|31|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|21|PHILIPPINES|33.0|0.0|36|No
+C2B|Airlines|Online|Bronze Plan|3|SINGAPORE|16.0|4.0|31|No
 EPX|Travel Agency|Online|Cancellation Plan|43|JAPAN|45.0|0.0|36|No
 EPX|Travel Agency|Online|Cancellation Plan|2|JAPAN|14.0|0.0|27|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|12|KOREA, REPUBLIC OF|42.0|0.0|36|No
+RAB|Airlines|Online|Value Plan|15|BRUNEI DARUSSALAM|15.0|6.0|50|No
 EPX|Travel Agency|Online|Cancellation Plan|102|SINGAPORE|10.0|0.0|32|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|57|AUSTRALIA|45.0|0.0|29|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|35|JAPAN|31.0|0.0|36|No
@@ -37810,6 +38133,7 @@ EPX|Travel Agency|Online|2 way Comprehensive Plan|9|JAPAN|71.0|0.0|36|No
 EPX|Travel Agency|Online|Cancellation Plan|46|HONG KONG|19.0|0.0|36|No
 C2B|Airlines|Online|Bronze Plan|15|SINGAPORE|29.9|7.47|25|No
 EPX|Travel Agency|Online|Cancellation Plan|38|NEW ZEALAND|37.0|0.0|38|No
+JZI|Airlines|Online|Basic Plan|4|MYANMAR|18.0|6.3|57|No
 C2B|Airlines|Online|Gold Plan|36|SINGAPORE|49.0|12.25|35|No
 JZI|Airlines|Online|Basic Plan|26|TAIWAN, PROVINCE OF CHINA|26.0|9.1|48|No
 EPX|Travel Agency|Online|Cancellation Plan|145|THAILAND|10.0|0.0|38|No
@@ -37865,6 +38189,7 @@ EPX|Travel Agency|Online|Cancellation Plan|88|CAMBODIA|10.0|0.0|36|No
 EPX|Travel Agency|Online|Cancellation Plan|11|UNITED STATES|24.0|0.0|31|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|48|MALAYSIA|29.7|17.82|66|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|9|INDONESIA|20.0|0.0|40|No
+TST|Travel Agency|Offline|Travel Cruise Protect|71|THAILAND|30.0|10.5|69|No
 EPX|Travel Agency|Online|Cancellation Plan|4|INDONESIA|13.0|0.0|36|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|19|MYANMAR|23.0|0.0|35|No
 EPX|Travel Agency|Online|Cancellation Plan|34|SINGAPORE|16.0|0.0|36|No
@@ -38032,6 +38357,7 @@ CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|46|UNITED STATES|69.3|4
 C2B|Airlines|Online|Bronze Plan|10|SINGAPORE|53.0|13.25|24|No
 LWC|Travel Agency|Online|Single Trip Travel Protect Gold|12|AUSTRALIA|36.5|23.73|48|No
 EPX|Travel Agency|Online|Cancellation Plan|15|INDIA|19.0|0.0|53|No
+C2B|Airlines|Online|Annual Silver Plan|366|SINGAPORE|216.0|54.0|27|No
 JZI|Airlines|Online|Basic Plan|27|MALAYSIA|18.0|6.3|29|No
 TST|Travel Agency|Offline|Travel Cruise Protect|36|THAILAND|30.0|10.5|31|No
 JZI|Airlines|Online|Basic Plan|12|CANADA|64.0|22.4|118|No
@@ -38079,6 +38405,7 @@ CCR|Travel Agency|Offline|Comprehensive Plan|64|MALAYSIA|29.0|9.57|67|No
 C2B|Airlines|Online|Bronze Plan|23|SINGAPORE|47.0|11.75|41|No
 EPX|Travel Agency|Online|Cancellation Plan|77|INDONESIA|10.0|0.0|36|No
 EPX|Travel Agency|Online|Cancellation Plan|19|UNITED KINGDOM|60.0|0.0|36|No
+JZI|Airlines|Online|Basic Plan|15|THAILAND|30.0|10.5|33|No
 EPX|Travel Agency|Online|1 way Comprehensive Plan|2|SINGAPORE|63.0|0.0|36|No
 JZI|Airlines|Online|Basic Plan|40|MACAO|44.0|15.4|33|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|37|AUSTRALIA|89.1|53.46|31|No
@@ -38169,6 +38496,7 @@ C2B|Airlines|Online|Annual Silver Plan|367|SINGAPORE|209.3|52.33|56|No
 ART|Airlines|Online|24 Protect|16|PHILIPPINES|6.42|2.25|48|No
 JZI|Airlines|Online|Basic Plan|30|MYANMAR|47.0|16.45|31|No
 C2B|Airlines|Online|Annual Silver Plan|369|SINGAPORE|252.85|63.21|21|No
+C2B|Airlines|Online|Annual Silver Plan|365|SINGAPORE|252.85|63.21|31|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|50|CHINA|23.0|0.0|36|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|38|INDONESIA|22.0|0.0|36|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|26|UNITED STATES|89.1|53.46|33|No
@@ -38237,6 +38565,7 @@ EPX|Travel Agency|Online|2 way Comprehensive Plan|23|HONG KONG|39.0|0.0|36|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|69|MYANMAR|20.0|0.0|36|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|55|CHINA|34.0|0.0|36|No
 EPX|Travel Agency|Online|1 way Comprehensive Plan|39|PHILIPPINES|21.0|0.0|36|No
+C2B|Airlines|Online|Bronze Plan|4|SINGAPORE|16.0|4.0|27|No
 EPX|Travel Agency|Online|Cancellation Plan|33|FRANCE|10.0|0.0|36|No
 SSI|Airlines|Online|Ticket Protector|25|SINGAPORE|0.78|0.22|48|No
 EPX|Travel Agency|Online|Cancellation Plan|36|KOREA, REPUBLIC OF|64.0|0.0|35|No
@@ -38381,6 +38710,7 @@ EPX|Travel Agency|Online|Cancellation Plan|24|INDONESIA|16.0|0.0|36|No
 C2B|Airlines|Online|Bronze Plan|95|SINGAPORE|11.5|2.88|33|No
 EPX|Travel Agency|Online|Cancellation Plan|36|NETHERLANDS|16.0|0.0|36|No
 EPX|Travel Agency|Online|Cancellation Plan|32|MALAYSIA|10.0|0.0|25|No
+C2B|Airlines|Online|Bronze Plan|7|SINGAPORE|20.0|5.0|27|No
 C2B|Airlines|Online|Annual Silver Plan|365|SINGAPORE|252.85|63.21|48|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|52|AUSTRALIA|0.0|53.46|29|No
 JZI|Airlines|Online|Basic Plan|85|PHILIPPINES|30.0|10.5|81|No
@@ -38403,7 +38733,9 @@ KML|Travel Agency|Online|Value Plan|8|INDONESIA|22.0|8.36|48|No
 C2B|Airlines|Online|Silver Plan|5|SINGAPORE|29.4|7.35|48|No
 C2B|Airlines|Online|Bronze Plan|5|SINGAPORE|19.2|4.8|31|No
 JZI|Airlines|Online|Basic Plan|158|HONG KONG|35.0|12.25|57|No
+KML|Travel Agency|Online|Value Plan|8|INDONESIA|28.0|10.64|48|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|37|VIET NAM|20.0|0.0|36|No
+JZI|Airlines|Online|Basic Plan|9|THAILAND|18.0|6.3|48|No
 JZI|Airlines|Online|Value Plan|21|CHINA|45.0|15.75|63|No
 EPX|Travel Agency|Online|Cancellation Plan|54|SINGAPORE|10.0|0.0|36|No
 EPX|Travel Agency|Online|Cancellation Plan|12|THAILAND|10.0|0.0|50|No
@@ -38417,6 +38749,7 @@ EPX|Travel Agency|Online|2 way Comprehensive Plan|49|KOREA, REPUBLIC OF|97.0|0.0
 C2B|Airlines|Online|Bronze Plan|11|SINGAPORE|20.0|5.0|30|No
 EPX|Travel Agency|Online|Cancellation Plan|17|CHINA|30.0|0.0|36|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|16|JAPAN|53.0|0.0|36|No
+C2B|Airlines|Online|Bronze Plan|13|SINGAPORE|33.5|8.38|35|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|29|TAIWAN, PROVINCE OF CHINA|28.0|0.0|36|No
 KML|Travel Agency|Online|Value Plan|33|FRANCE|0.0|36.1|48|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|3|MALAYSIA|20.0|0.0|56|No
@@ -38441,6 +38774,7 @@ EPX|Travel Agency|Online|1 way Comprehensive Plan|2|PHILIPPINES|21.0|0.0|42|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|33|UNITED KINGDOM|99.0|59.4|32|No
 JZI|Airlines|Online|Basic Plan|30|MALAYSIA|22.0|7.7|38|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|33|CHINA|29.0|0.0|36|No
+JWT|Airlines|Online|Value Plan|25|INDIA|31.0|12.4|118|No
 EPX|Travel Agency|Online|Cancellation Plan|56|TAIWAN, PROVINCE OF CHINA|12.0|0.0|36|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|26|CHINA|56.0|0.0|36|No
 EPX|Travel Agency|Online|Cancellation Plan|27|CANADA|80.0|0.0|39|No
@@ -38586,6 +38920,7 @@ C2B|Airlines|Online|Annual Gold Plan|364|SINGAPORE|333.0|83.25|54|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|8|INDONESIA|20.0|0.0|32|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|13|MEXICO|112.0|0.0|26|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|105|PHILIPPINES|20.0|0.0|36|No
+JZI|Airlines|Online|Basic Plan|1|MALAYSIA|18.0|6.3|45|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|13|REUNION|69.3|41.58|39|No
 C2B|Airlines|Online|Silver Plan|6|SINGAPORE|24.5|6.13|23|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|8|PORTUGAL|49.5|29.7|39|No
@@ -38618,6 +38953,7 @@ EPX|Travel Agency|Online|Cancellation Plan|50|SINGAPORE|13.0|0.0|29|No
 JZI|Airlines|Online|Basic Plan|171|PHILIPPINES|30.0|10.5|48|No
 JZI|Airlines|Online|Basic Plan|39|MYANMAR|30.0|10.5|70|No
 EPX|Travel Agency|Online|Cancellation Plan|36|CHINA|20.0|0.0|36|No
+C2B|Airlines|Online|Bronze Plan|48|SINGAPORE|47.0|11.75|26|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|14|AUSTRALIA|79.2|47.52|57|No
 C2B|Airlines|Online|Bronze Plan|9|SINGAPORE|25.5|6.38|74|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|31|UNITED KINGDOM|138.6|83.16|56|No
@@ -38742,6 +39078,7 @@ EPX|Travel Agency|Online|Cancellation Plan|23|HONG KONG|18.0|0.0|36|No
 C2B|Airlines|Online|Bronze Plan|17|SINGAPORE|17.55|4.39|57|No
 EPX|Travel Agency|Online|Cancellation Plan|153|SINGAPORE|109.0|0.0|36|No
 JZI|Airlines|Online|Basic Plan|82|CHINA|26.0|9.1|45|No
+TST|Travel Agency|Offline|Travel Cruise Protect|10|THAILAND|30.0|10.5|42|No
 CWT|Travel Agency|Online|Rental Vehicle Excess Insurance|102|AUSTRALIA|89.1|53.46|43|No
 EPX|Travel Agency|Online|2 way Comprehensive Plan|5|THAILAND|26.0|0.0|36|No
 EPX|Travel Agency|Online|Cancellation Plan|18|THAILAND|23.0|0.0|43|No
